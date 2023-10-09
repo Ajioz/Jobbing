@@ -1,0 +1,903 @@
+[
+  {
+    "employer_name": "Fortified Insight",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QAHzXXq6yBgMaNVaDvvyryTyTXG849RBEHNl&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "kIPcPX8_lD1LE75OAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "React Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-fortified-insight-3726956489",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6581,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-fortified-insight-3726956489",
+        "is_direct": false
+      }
+    ],
+    "job_description": "• Preferred East Coast Hours*\n\nFortified Insight offers a rapidly expanding suite of SaaS products which bring awareness to enterprises around the financial and environmental impact of technology. We are seeking a highly skilled Senior React Developer to join our team and play a crucial role in driving our web development initiatives forward. If you are passionate about creating cutting-edge web applications, solving complex problems, and working in a collaborative team environment, we want to hear from you.\n\nFortified Insight is an equal opportunity employer. Eligible candidates must provide evidence of legal working status for any employer in the U.S.\n\nJob Overview\n\nAs a Senior React Developer at Fortified Insight, you will lead the development of our web application and contribute to the overall architecture and technical direction. You will work closely with our product team, designers, and other developers to deliver high-quality and scalable web solutions.\n\nKey Responsibilities\n\nAs a Senior React developer, you will:\n\nFront-End Development:\n• Lead the development of a dynamic and responsive portal with sophisticated dashboards utilizing the React JS library.\n\nArchitecture and Design:\n• Collaborate with the team to create robust and scalable architecture, ensuring the performance and usability of web applications.\n• Translate Figma designs and wireframes into high-quality code.\n• Develop reusable components and front-end libraries for future use.\n\nSupport:\n• Maintain and enhance the portal based on feedback and analytics.\n• Collaboration:\n• Collaborate closely with cross-functional teams, including designers, backend developers, and stakeholders, to ensure seamless integration and the realization of the envisioned functionalities.\n• Ensure the technical feasibility of UI/UX designs.\n\nOptimization:\n• Optimize applications for maximum speed and scalability, keeping up to date with industry trends and best practices.\n\nCode Review:\n• Review and provide constructive feedback on code written by team members, ensuring code quality and best practices.\n\nTesting:\n• Write and maintain unit tests and end-to-end tests to ensure the reliability of the web application.\n\nDocumentation:\n• Assist in the creation of technical documentation and user manuals.\n\nQualifications\n\nRequired Skills:\n• 5+ years of proven experience in React JS development as a Senior Developer, including a deep understanding of React state management libraries such as Redux or Context API.\n• Experience with popular React workflows (such as Flux or Redux) and routing libraries (like React Router).\n• Proficiency in front-end development languages and tools such as HTML5, CSS3, JavaScript/TypeScript, and webpack.\n• Strong understanding of RESTful APIs and modern authorization mechanisms, such as JSON Web Token.\n• Experience in responsive design principles and implementing complex visualizations using Elastic UI and Apex charts libraries.\n• Familiarity with version control systems (e.g., Git) and collaborative development workflows.\n• Proficiency with browser testing and debugging.\n\nPreferred Skills:\n• Experience with back-end API development frameworks, such as Node.js or ASP.NET is a plus.\n• Previous experience with building dashboards and portals.\n• Knowledge of a CSS pre-processor like SASS or LESS.\n\nPersonal Attributes:\n• Excellent problem-solving skills.\n• Excellent attention to detail.\n• Ability to work autonomously and as part of a team.\n• Excellent communication and interpersonal skills.\n• Excellent English.\n\nWork Environment\n• We are a 100% remote company\n• Occasional travel possible",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696266219,
+    "job_posted_at_datetime_utc": "2023-10-02T17:03:39.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=kIPcPX8_lD1LE75OAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2024-03-30T17:03:39.000Z",
+    "job_offer_expiration_timestamp": 1711818219,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": true
+    },
+    "job_required_skills": [
+      "React.js",
+      "API Development",
+      "Front-End Development",
+      "Redux.js",
+      "TypeScript",
+      "Responsive Web Design",
+      "JavaScript",
+      "HTML5"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of proven experience in React JS development as a Senior Developer, including a deep understanding of React state management libraries such as Redux or Context API",
+        "Experience with popular React workflows (such as Flux or Redux) and routing libraries (like React Router)",
+        "Proficiency in front-end development languages and tools such as HTML5, CSS3, JavaScript/TypeScript, and webpack",
+        "Strong understanding of RESTful APIs and modern authorization mechanisms, such as JSON Web Token",
+        "Experience in responsive design principles and implementing complex visualizations using Elastic UI and Apex charts libraries",
+        "Familiarity with version control systems (e.g., Git) and collaborative development workflows",
+        "Proficiency with browser testing and debugging",
+        "Previous experience with building dashboards and portals",
+        "Knowledge of a CSS pre-processor like SASS or LESS",
+        "Excellent problem-solving skills",
+        "Excellent attention to detail",
+        "Ability to work autonomously and as part of a team",
+        "Excellent communication and interpersonal skills",
+        "Excellent English"
+      ],
+      "Responsibilities": [
+        "As a Senior React Developer at Fortified Insight, you will lead the development of our web application and contribute to the overall architecture and technical direction",
+        "You will work closely with our product team, designers, and other developers to deliver high-quality and scalable web solutions",
+        "Lead the development of a dynamic and responsive portal with sophisticated dashboards utilizing the React JS library",
+        "Collaborate with the team to create robust and scalable architecture, ensuring the performance and usability of web applications",
+        "Translate Figma designs and wireframes into high-quality code",
+        "Develop reusable components and front-end libraries for future use",
+        "Maintain and enhance the portal based on feedback and analytics",
+        "Collaborate closely with cross-functional teams, including designers, backend developers, and stakeholders, to ensure seamless integration and the realization of the envisioned functionalities",
+        "Ensure the technical feasibility of UI/UX designs",
+        "Optimize applications for maximum speed and scalability, keeping up to date with industry trends and best practices",
+        "Review and provide constructive feedback on code written by team members, ensuring code quality and best practices",
+        "Write and maintain unit tests and end-to-end tests to ensure the reliability of the web application",
+        "Assist in the creation of technical documentation and user manuals"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Ascendion",
+    "employer_logo": "https://collabera.com/wp-content/uploads/2022/06/Mask-group-2.svg",
+    "employer_website": "http://www.ascendion.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "9-knJdP_1ju7oNOCAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "React Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-ascendion-3727759326",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5885,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-developer-at-ascendion-3727759326",
+        "is_direct": false
+      }
+    ],
+    "job_description": "About Ascendion\n\nAscendion is a full-service digital engineering solutions company. We make and manage software platforms and products that power growth and deliver captivating experiences to consumers and employees. Our engineering, cloud, data, experience design, and talent solution capabilities accelerate transformation and impact for enterprise clients. Headquartered in New Jersey, our workforce of 6,000+ Ascenders delivers solutions from around the globe. Ascendion is built differently to engineer the next.\n\nhttps://ascendion.com/\n\nDigital Engineering Services and Solutions\n\nDiscover Cutting-edge Digital Engineering Services and Solutions with Ascendion. Elevate your innovation journey with our expert team and unlock the true potential of technology-driven solutions for your business needs.\n\nascendion.com\n\nWe have a culture built on opportunity, inclusion, and a spirit of partnership. Come change the world with us.\n\n• Build the coolest tech for the world’s leading brands.\n\n• Solve complex problems and learn new skills.\n\n• Experience the power of transforming digital engineering for Fortune 500 clients\n\n• Master your craft with leading training programs and hands-on experience.\n\nExperience a community of changemakers!\n\nJoin a culture of high-performing innovators with endless ideas and a passion for tech. Our culture is the fabric of our company, and it is what makes us unique and diverse. The way we share ideas, learning, experiences, successes, and joy allows everyone to be their best at Ascendion.\n\nAbout the role:\n\nJob Title: Front End Engineer\n\nKey Responsibilities:\n• Fullstack developer, be able to do front end\n• 5+ years working exp (work independently, need 3 min in development with react libraries)\n• Be able to work independently\n• Understand browser and integrate with backend services\n• Exp Building complex software\n• Be able to do full integration tests\n• Communicating with user, work with UX team\n• Strong verbal and written communication\n\nMinimum Qualifications:\n• react, Typescript, node.js,\n• database technologies\n• Troubleshooting core libraries\n• Portfolio\n\nLocation: Seattle (Hybrid)\n\nSalary Range: The salary for this position is between $132,000 – $142,000 annually. Factors that may affect pay within this range may include geography/market, skills, education, experience, and other qualifications of the successful candidate.\n\nBenefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: [medical insurance] [dental insurance] [vision insurance] [401(k) retirement plan] [long-term disability insurance] [short-term disability insurance] [5 personal day accrued each calendar year. The Paid time off benefits meet the paid sick and safe time laws that pertains to the City/ State] [10-15 day of paid vacation time] [6 paid holidays and 1 floating holiday per calendar year] [Ascendion Learning Management System]\n\nWant to change the world? Let us know.\n\nTell us about your experiences, education, and ambitions. Bring your knowledge, unique viewpoint, and creativity to the table. Let’s talk\n\nLet’s talk! Feel free to send your queries to harshiv.mistry@ascendion.com or simply reach out to me at 425-307-4066.\n\nThanks",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1696360818,
+    "job_posted_at_datetime_utc": "2023-10-03T19:20:18.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "retirement_savings",
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=9-knJdP_1ju7oNOCAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-02T19:20:17.000Z",
+    "job_offer_expiration_timestamp": 1698952817,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 132000,
+    "job_max_salary": 142000,
+    "job_salary_currency": "USD",
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years working exp (work independently, need 3 min in development with react libraries)",
+        "react, Typescript, node.js,",
+        "database technologies",
+        "Troubleshooting core libraries",
+        "Bring your knowledge, unique viewpoint, and creativity to the table"
+      ],
+      "Responsibilities": [
+        "Build the coolest tech for the world’s leading brands",
+        "Solve complex problems and learn new skills",
+        "Experience the power of transforming digital engineering for Fortune 500 clients",
+        "Master your craft with leading training programs and hands-on experience",
+        "Be able to work independently",
+        "Understand browser and integrate with backend services",
+        "Be able to do full integration tests",
+        "Communicating with user, work with UX team"
+      ],
+      "Benefits": [
+        "Salary Range: The salary for this position is between $132,000 – $142,000 annually",
+        "Benefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: [medical insurance] [dental insurance] [vision insurance] [401(k) retirement plan] [long-term disability insurance] [short-term disability insurance] [5 personal day accrued each calendar year",
+        "The Paid time off benefits meet the paid sick and safe time laws that pertains to the City/ State] [10-15 day of paid vacation time] [6 paid holidays and 1 floating holiday per calendar year] [Ascendion Learning Management System]"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "gE1GsMVqC40B1qOBAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "React Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01aac2e13a77967c4f/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01aac2e13a77967c4f/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Must know ReactJS, NodeJS, NextJS and NestJS\n\nYou will play a crucial role in designing and developing interactive web applications using React.js. You will work closely with our talented team of developers, designers, and product managers to create user-friendly and visually appealing front-end solutions. Your expertise in React.js will be essential in implementing robust and efficient components that meet our clients' needs.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696335178,
+    "job_posted_at_datetime_utc": "2023-10-03T12:12:58.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=gE1GsMVqC40B1qOBAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Node.js",
+      "React Native",
+      "Web Development",
+      "Web Application",
+      "API",
+      "CSS 3"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 10,
+    "job_max_salary": 45,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Responsibilities": [
+        "You will play a crucial role in designing and developing interactive web applications using React.js",
+        "You will work closely with our talented team of developers, designers, and product managers to create user-friendly and visually appealing front-end solutions"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "edMLGXv9JQlh3XZ0AAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Looking for a React developer with web3 experience - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-React-developer-with-web3-experience_~017e4210d24e0672ba/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Looking-for-React-developer-with-web3-experience_~017e4210d24e0672ba/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "I'm looking for a JS React developer to build a web client.\n\nWeb3 experience such as walletconnect and NFT scan is required.\n\nWe divide the application into small Github issues.\n\nYou take one issue at a time. They are all very straightforward.\n\nThe payment is $10 per issue.\n\nOur team is developing the backend.\n\nWe pass backend api to you, you do the frontend.\n\nOne backend api at a time.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696427267,
+    "job_posted_at_datetime_utc": "2023-10-04T13:47:47.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=edMLGXv9JQlh3XZ0AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "HTML5",
+      "Web Development",
+      "API",
+      "Web Application"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "I'm looking for a JS React developer to build a web client",
+        "Web3 experience such as walletconnect and NFT scan is required"
+      ],
+      "Benefits": ["The payment is $10 per issue"]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "pj1ToIO434_BAwujAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "React Developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01344dd333865d83c7/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer_~01344dd333865d83c7/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We are looking for an experienced React.js Developer to help us build a social networking platform. If you're passionate about building innovative user interfaces and efficient front-end systems using React.js, we'd love to meet you. As a Senior React.js Developer, you will play a pivotal role in bringing our digital visions to life.\n\nResponsibilities:\n\n- Develop new user-facing features using React.js\n\n- Build reusable components and front-end libraries for future use.\n\n- Translate designs and wireframes into high-quality, responsive UI components.\n\n- Optimize components for maximum performance across different devices and browsers.\n\n- Collaborate with product managers and back-end engineers to discuss and implement solutions.\n\nRequirements:\n\n- Proven work experience as a React.js Developer for 4+ years.\n\n- Proficiency in JavaScript, including DOM manipulation and the JavaScript object model.\n\n- Thorough understanding of React.js and its core principles.\n\n- Familiarity with RESTful APIs.\n\n- Strong proficiency in responsive design principles and CSS frameworks (like Styled Components, Sass, or LESS).\n\n- Familiarity with code versioning tools, specifically Git.\n\n- Strong attention to detail and a commitment to producing high-quality software.\n\n- Excellent written and verbal communication skills.\n\nNice-to-Haves:\n\n- Familiarity with newer specifications of ECMAScript (ES6/7).\n\n- Knowledge of isomorphic React is a plus.\n\n- Experience in integrating with back-end services and APIs.\n\n- Familiarity with modern front-end build pipelines and tools.\n\nIf interested, simply reply with 'I would like to proceed with the test'. Please be aware that the time you take to complete the test will be factored into our evaluation\n\nThis is used to test that you have read the job description fully and you have good attention to detail. Do not include other details in your proposal.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696339146,
+    "job_posted_at_datetime_utc": "2023-10-03T13:19:06.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=pj1ToIO434_BAwujAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "React",
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "HTML5",
+      "Redux"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 25,
+    "job_max_salary": 45,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Proven work experience as a React.js Developer for 4+ years",
+        "Proficiency in JavaScript, including DOM manipulation and the JavaScript object model",
+        "Thorough understanding of React.js and its core principles",
+        "Familiarity with RESTful APIs",
+        "Strong proficiency in responsive design principles and CSS frameworks (like Styled Components, Sass, or LESS)",
+        "Familiarity with code versioning tools, specifically Git",
+        "Strong attention to detail and a commitment to producing high-quality software",
+        "Excellent written and verbal communication skills",
+        "Familiarity with newer specifications of ECMAScript (ES6/7)",
+        "Experience in integrating with back-end services and APIs",
+        "Familiarity with modern front-end build pipelines and tools"
+      ],
+      "Responsibilities": [
+        "Develop new user-facing features using React.js",
+        "Build reusable components and front-end libraries for future use",
+        "Translate designs and wireframes into high-quality, responsive UI components",
+        "Optimize components for maximum performance across different devices and browsers",
+        "Collaborate with product managers and back-end engineers to discuss and implement solutions"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "0IsZwNL2puwYtBHkAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "NextJS / React Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/NextJS-React-Developer_~0138c955e14881e9d8/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/NextJS-React-Developer_~0138c955e14881e9d8/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We're building an email client for the web using NextJS + Typescript.\n\nWe use GraphQL for data fetching/mutations, and some REST API endpoints for certain actions.\n\nWe're leveraging ChakraUI/Tailwind/Framer (for animations) and are very flexible with the frontend frameworks used.\n\nWe need someone who is quick to implement features and designs into the app, and can maintain the same level or organization and cleanliness that is in the app today. We move fast, and have a large backlog of awesome features that we want to implement.\n\nYou'll be working closely with the team, and expected to communicate your progress using tools like Linear and Slack.\n\nHere's a link to the app: https://ultramail.ai\n\n---\n\nThis is a short term contract that could become a full-time position.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696443707,
+    "job_posted_at_datetime_utc": "2023-10-04T18:21:47.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=0IsZwNL2puwYtBHkAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["React", "TypeScript", "Next.js", "GraphQL"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 30,
+    "job_max_salary": 60,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "We need someone who is quick to implement features and designs into the app, and can maintain the same level or organization and cleanliness that is in the app today"
+      ],
+      "Responsibilities": [
+        "You'll be working closely with the team, and expected to communicate your progress using tools like Linear and Slack"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "GOORjNuEnvjRrox9AAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Senior React Developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Senior-React-Developer_~01cdbde82b0f0c0d84/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Senior-React-Developer_~01cdbde82b0f0c0d84/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "This project is to do the front end development for a single web page, which contains a file management system. Very familiar system that you have seen a hundred times. Features include:\n\n- Browsing and tagging files.\n\n- Upload, download, share, copy, move, delete, and rename files and folders.\n\n- Preview.\n\nServer side APIs will be provided for all these features. Your job will be to develop the front end and integrate with the APIs.\n\nAs far as designs, we did designs in Figma, but then I changed the concept, and moved the elements around using Paint. So, you will have a jpeg, which shows the frame, and a Figma design, which provides the elements. There may be some missing pop-ups and minor stuff, so you have to be able to produce those based on the functionality, and using other pop-ups that we have for other parts of the system as a design reference.\n\nMore details, including Figma designs, will be provided to a shortlist of applicants. The final output must be 100% professional in terms of pixel perfect, smooth behavior, responsiveness, and everything. It is a single page, but it must be professionally done in every way.\n\nI would like to do this project on a FIXED RATE BASIS. So, please bid your hourly rate, but when you are done reviewing the scope, we need to agree on a fixed price and timeline.\n\nThank you.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696390896,
+    "job_posted_at_datetime_utc": "2023-10-04T03:41:36.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=GOORjNuEnvjRrox9AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["React", "CSS", "HTML"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 15,
+    "job_max_salary": 30,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "The final output must be 100% professional in terms of pixel perfect, smooth behavior, responsiveness, and everything",
+        "It is a single page, but it must be professionally done in every way"
+      ],
+      "Responsibilities": [
+        "Browsing and tagging files",
+        "Upload, download, share, copy, move, delete, and rename files and folders",
+        "Server side APIs will be provided for all these features",
+        "Your job will be to develop the front end and integrate with the APIs",
+        "So, you will have a jpeg, which shows the frame, and a Figma design, which provides the elements"
+      ]
+    },
+    "job_job_title": "Senior",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "rqvHIFZCGTcyl1jCAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "React Developer for Quick Bug Fix",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer-for-Quick-Bug-Fix_~01185716522e819a6b/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6833,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/React-Developer-for-Quick-Bug-Fix_~01185716522e819a6b/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We are in need of an experienced React Developer to quickly address and resolve frontend bugs on our website. This short-term contract role focuses on identifying, troubleshooting, and fixing issues that impact user experience. The ideal candidate should have a proven track record of efficiently resolving React-related bugs and a strong understanding of frontend development.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696428646,
+    "job_posted_at_datetime_utc": "2023-10-04T14:10:46.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=rqvHIFZCGTcyl1jCAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "React",
+      "Redux",
+      "Bootstrap",
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "HTML",
+      "Node.js",
+      "Web Development"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate should have a proven track record of efficiently resolving React-related bugs and a strong understanding of frontend development"
+      ],
+      "Responsibilities": [
+        "This short-term contract role focuses on identifying, troubleshooting, and fixing issues that impact user experience"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Abbott Laboratories",
+    "employer_logo": "https://images.forbes.com/media/lists/companies/abbott-laboratories_416x416.jpg",
+    "employer_website": "http://www.abbott.com",
+    "employer_company_type": "Manufacturing",
+    "job_publisher": "Abbott Jobs",
+    "job_id": "-gOXGwz2UFRYUKz6AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Mobile React Developer",
+    "job_apply_link": "https://www.jobs.abbott/us/en/job/31048396/Mobile-React-Developer",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.8078,
+    "apply_options": [
+      {
+        "publisher": "Abbott Jobs",
+        "apply_link": "https://www.jobs.abbott/us/en/job/31048396/Mobile-React-Developer",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/20230916-441aba92f42ff96ebdd6f25e9e0190a4",
+        "is_direct": false
+      },
+      {
+        "publisher": "SWE Career Center - Society Of Women Engineers",
+        "apply_link": "https://careers.swe.org/job/mobile-react-developer/70630561/",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/4312947252",
+        "is_direct": false
+      },
+      {
+        "publisher": "Arkiv",
+        "apply_link": "https://arkiv.co/job-library/job/mobile-developer-architect-react-at-abbott-laboratories-bend-or-YTNJRVgzRERvRFRqVG1Cd01pT2hWRWRuWEE9PQ==",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medicines. Our 115,000 colleagues serve people in more than 160 countries.\n\nAbout Abbott\n\nAbbott is a global healthcare leader, creating breakthrough science to improve people’s health. We’re always looking towards the future, anticipating changes in medical science and technology.\n\nWorking at Abbott\n\nAt Abbott, you can do work that matters, grow, and learn, care for yourself and family, be your true self and live a full life. You’ll also have access to:\n\n· Career development with an international company where you can grow the career you dream of.\n\n· Free medical coverage for employees* via the Health Investment Plan (HIP) PPO\n\n· An excellent retirement savings plan with high employer contribution\n\n· Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree.\n\n· A company recognized as a great place to work in dozens of countries around the world and named one of the most admired companies in the world by Fortune.\n\n· A company that is recognized as one of the best big companies to work for as well as a best place to work for diversity, working mothers, female executives, and scientists.\n\n#software #mobile #React #OneTrust #TrustArc\n\nThe Opportunity\n\nYou will work with a modern tech stack on mobile and cloud platform that strives to improve the health and well-being of users in over 49 countries. The core platform consists of systems housed in a large-scale environment responsible for processing billions of tasks every day. The candidate should have strong leadership ability and bring a passion for software engineering to help shape the direction of the team. Highly sought-after qualities include versatility and a desire to continuously learn, improve, and empower other team members. Candidate will support building scalable, highly available, efficient, and secure software solutions for medical devices.\n\nWhat You'll Work On\n• Architect, design and implement Software Solutions for Mobile platforms\n• Focused on Mobile platform using React-Native\n• Support software development and architecture best practices across multiple projects\n• Design and implement services and components for supported architectures\n• Support Mobile Development and Architecture using Hybrid Technologies;React Native, Kotlin Multiplatform Mobile as well as Native Technologies Swift, Kotlin\n• Architect, design and implement the cybersecurity of the supported systems\n• Identify and solve design and technology issues within the current systems\n• Design, Improve and Support product test, build and deployment processed and pipelines\n• Collaborate with internal and external partners to design, develop and integrate with APIs that empower users to share and utilize their medical data in partner systems\n• Design and implement unit testable code that is highly maintainable solutions\n• Collaborate with both internal and external team members to shape and define API contracts\n• Ensure performance, uptime, and scale, maintaining high standards of code quality and thoughtful design\n• Create software architecture and design documentation for the supported solutions and overall best practices and patterns\n• Support solution groups with technical planning, design, and code reviews including peer code review of Pull Request\n• Provide Architecture and Technical Knowledge training and support for the solution groups\n• Develop good working relations with the other solution teams and groups, such as Engineering, Marketing, Product, Test, QA\n• Stay current with emerging trends, making recommendations as needed to help the organization innovate\n\nRequired Qualifications\n• A Bachelor's Degree in Computer Science, Information Technology, or other relevant field with 6+ years' experience or equivalent work experience\n• Familiar with architectures principles, patterns, framework and blueprint\n• Proven experience with architecture and design for mobile, data and/or cloud systems\n• Must have in-depth experience with React Native\n• In-depth knowledge of Turbo-Modules, Fabric, Hermes, React Multi-Threading\n• Knowledge of React Native applications build process\n• Proved Experience with mobile technologies and languages for iOS and Android: Swift, Kotlin, JNI, C/C++ (on mobile)\n• Familiar with data architecture and design practices for mobile solutions\n• Familiar with Analytics Products; Firebase, Segment\n• Preferred experience with CICD Products such as AzureDevOps, CircleCI, Harness, Jenkins, Fastlane, Sentry\n• Preferred experience with Deployment Support Products; Microsoft App Center, TestFlight, PlayStore\n• Preferred experience with Development Support Products; Flipper, Crashlytics, Code Analytics\n• Familiar with Cybersecurity best practices and solutions for supported architecture. Familiar with cryptography concepts\n• Preferred experience with application security aspects of obfuscation and code protection\n• Proven experience implementing mobile solutions and components\n• Preferred to have familiarity with multiple operating systems; iOS, Android, MacOS, Linux, Windows\n• Experience with documenting architectural and deign decisions\n• Experience with working and supporting with multiple development team members\n• Preferred experience with implementation/configuration with Authentication and Access management solutions such as Okta/Auth0, Consent management solutions such as OneTrust/TrustArc\n\nApply Now\n• Participants who complete a short wellness assessment qualify for FREE coverage in our HIP PPO medical plan. Free coverage applies in the next calendar year.\n\nLearn more about our health and wellness benefits, which provide the security to help you and your family live full lives: www.abbottbenefits.com\n\nFollow your career aspirations to Abbott for diverse opportunities with a company that can help you build your future and live your best life. Abbott is an Equal Opportunity Employer, committed to employee diversity.\n\nConnect with us at www.abbott.com, on Facebook at www.facebook.com/Abbott and on Twitter @AbbottNews and @AbbottGlobal.\n\nThe base pay for this position is $90,700.00 – $181,300.00. In specific locations, the pay range may vary from the range posted.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1687996800,
+    "job_posted_at_datetime_utc": "2023-06-29T00:00:00.000Z",
+    "job_city": "Bend",
+    "job_state": "OR",
+    "job_country": "US",
+    "job_latitude": 44.058174,
+    "job_longitude": -121.31531,
+    "job_benefits": ["retirement_savings", "health_insurance"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=-gOXGwz2UFRYUKz6AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 72,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "information technology",
+      "android",
+      "mobile development",
+      "ios",
+      "mobile platforms",
+      "swift",
+      "api",
+      "computer science",
+      "software solutions",
+      "mobile technologies",
+      "cicd",
+      "linux",
+      "cloud platform",
+      "jenkins",
+      "applications",
+      "firebase",
+      "software development",
+      "hybrid",
+      "jni",
+      "software engineering",
+      "analytics",
+      "authentication",
+      "react",
+      "microsoft app center",
+      "azuredevops",
+      "data architecture",
+      "okta",
+      "software architecture",
+      "kotlin",
+      "architecture",
+      "Website Development - Developer",
+      "Groovy Developer",
+      "Social Media Solutions Consultant & Social Strategist",
+      "Project Lead & User Experience & User Interface Developer",
+      "Internship - Mobile Applications Developer",
+      "Salesforce Pre-Sales Consultant",
+      "Web Development Consultant",
+      "Information Technology Applications Analyst & UX & UI Designer",
+      "Shopify Developer",
+      "Mobile Applications Developer"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Focused on Mobile platform using React-Native",
+        "A Bachelor's Degree in Computer Science, Information Technology, or other relevant field with 6+ years' experience or equivalent work experience",
+        "Familiar with architectures principles, patterns, framework and blueprint",
+        "Proven experience with architecture and design for mobile, data and/or cloud systems",
+        "Must have in-depth experience with React Native",
+        "In-depth knowledge of Turbo-Modules, Fabric, Hermes, React Multi-Threading",
+        "Knowledge of React Native applications build process",
+        "Proved Experience with mobile technologies and languages for iOS and Android: Swift, Kotlin, JNI, C/C++ (on mobile)",
+        "Familiar with data architecture and design practices for mobile solutions",
+        "Familiar with Analytics Products; Firebase, Segment",
+        "Familiar with Cybersecurity best practices and solutions for supported architecture",
+        "Familiar with cryptography concepts",
+        "Proven experience implementing mobile solutions and components",
+        "Experience with documenting architectural and deign decisions",
+        "Experience with working and supporting with multiple development team members"
+      ],
+      "Responsibilities": [
+        "Architect, design and implement Software Solutions for Mobile platforms",
+        "Design and implement services and components for supported architectures",
+        "Architect, design and implement the cybersecurity of the supported systems",
+        "Identify and solve design and technology issues within the current systems",
+        "Design, Improve and Support product test, build and deployment processed and pipelines",
+        "Collaborate with internal and external partners to design, develop and integrate with APIs that empower users to share and utilize their medical data in partner systems",
+        "Design and implement unit testable code that is highly maintainable solutions",
+        "Collaborate with both internal and external team members to shape and define API contracts",
+        "Ensure performance, uptime, and scale, maintaining high standards of code quality and thoughtful design",
+        "Create software architecture and design documentation for the supported solutions and overall best practices and patterns",
+        "Support solution groups with technical planning, design, and code reviews including peer code review of Pull Request",
+        "Provide Architecture and Technical Knowledge training and support for the solution groups",
+        "Develop good working relations with the other solution teams and groups, such as Engineering, Marketing, Product, Test, QA",
+        "Stay current with emerging trends, making recommendations as needed to help the organization innovate"
+      ],
+      "Benefits": [
+        "Career development with an international company where you can grow the career you dream of",
+        "Free medical coverage for employees* via the Health Investment Plan (HIP) PPO",
+        "An excellent retirement savings plan with high employer contribution",
+        "Tuition reimbursement, the Freedom 2 Save student debt program and FreeU education benefit - an affordable and convenient path to getting a bachelor’s degree",
+        "Participants who complete a short wellness assessment qualify for FREE coverage in our HIP PPO medical plan",
+        "Free coverage applies in the next calendar year",
+        "The base pay for this position is $90,700.00 – $181,300.00",
+        "In specific locations, the pay range may vary from the range posted"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_occupational_categories": ["Research & Development"],
+    "job_naics_code": "325412",
+    "job_naics_name": "Pharmaceutical Preparation Manufacturing"
+  },
+  {
+    "employer_name": "Talent Groups",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQehKfhY7oDYV4VtLSV5gM6MOOLJeYPOV-gjfe&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "E1dBfbkPHoiR2Hb-AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "react native developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/react-native-developer-at-talent-groups-3733190972",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6342,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/react-native-developer-at-talent-groups-3733190972",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Title: React Native Developer\n\nLocation: Remote\n\nJob Type: Full-time\n\nSkills: iOS and Android development, TypeScript, React Native\n\nJob Description:\n\nWe are seeking a talented Mobile Application Developer with expertise in React Native to join our dynamic team. In this role, you will be responsible for the development and maintenance of mobile applications, ensuring seamless performance on both iOS and Android platforms. If you're passionate about mobile app development, have a knack for TypeScript, and thrive in an Agile environment, we want to hear from you.\n\nKey Responsibilities:\n• Collaborate in the development and maintenance of mobile applications using React Native.\n• Utilize your experience in iOS and Android development to create cross-platform applications.\n• Leverage your familiarity with TypeScript to enhance code quality and maintainability.\n• Conduct mobile app testing using frameworks like Jest or Detox to ensure robust functionality.\n• Embrace Agile development methodologies to deliver high-quality software efficiently.\n\nQualifications:\n• Proven experience in developing and maintaining mobile applications using React Native.\n• Strong background in iOS and Android development.\n• Proficiency in TypeScript for clean and maintainable code.\n• Familiarity with mobile app testing frameworks (e.g., Jest, Detox) for rigorous quality assurance.\n• Understanding of Agile development methodologies, with a willingness to adapt and contribute to the team's success.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696438282,
+    "job_posted_at_datetime_utc": "2023-10-04T16:51:22.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=react+developer&htidocid=E1dBfbkPHoiR2Hb-AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-03T16:51:22.000Z",
+    "job_offer_expiration_timestamp": 1699030282,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Skills: iOS and Android development, TypeScript, React Native",
+        "Proven experience in developing and maintaining mobile applications using React Native",
+        "Strong background in iOS and Android development",
+        "Proficiency in TypeScript for clean and maintainable code",
+        "Familiarity with mobile app testing frameworks (e.g., Jest, Detox) for rigorous quality assurance",
+        "Understanding of Agile development methodologies, with a willingness to adapt and contribute to the team's success"
+      ],
+      "Responsibilities": [
+        "In this role, you will be responsible for the development and maintenance of mobile applications, ensuring seamless performance on both iOS and Android platforms",
+        "Collaborate in the development and maintenance of mobile applications using React Native",
+        "Utilize your experience in iOS and Android development to create cross-platform applications",
+        "Leverage your familiarity with TypeScript to enhance code quality and maintainability",
+        "Conduct mobile app testing using frameworks like Jest or Detox to ensure robust functionality",
+        "Embrace Agile development methodologies to deliver high-quality software efficiently"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  }
+]
