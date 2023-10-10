@@ -44,8 +44,7 @@ const fetchReact = async () => {
 };
 
 // Actual time interval logic
-setInterval(fetchReact, 1000 * 60 * 60 * 1);
-// fetchReact();
+setInterval(fetchReact, 1000 * 60 * 60 * 24);
 
 // Method to locally served React jobs dependent users UI jobs need
 exports.getReactJobAsync = (req, res) => {
