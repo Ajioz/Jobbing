@@ -3,30 +3,36 @@ const axios = require("axios");
 const fs = require("fs");
 
 const rapid_key = process.env.rapid_key;
-const jobPath = require("../Details/otherJobs.json");
+
+//This is how to import a json file for reading it
+const jobPath_read = require("../Details/otherJobs.json");
+
+//This is how to import a json file for writing into it
+const jobPath_write = "./Details/otherJobs.json";
 
 // write other Jobs into json db helper method
 const newJobs = (data) => {
   const stringifyData = JSON.stringify(data);
-  fs.writeFileSync(jobPath, stringifyData);
+  fs.writeFileSync(jobPath_write, stringifyData);
 };
 
 // get other Job Data
 exports.getJobAsync = (req, res) => {
-  return res.send(jobPath);
+  return res.send(jobPath_read);
 };
 
 // API methods option
 const options = {
   method: "GET",
   url: "https://jsearch.p.rapidapi.com/search",
+  params: {
+    query: "Software Developer",
+    page: "1",
+    num_pages: "10",
+  },
   headers: {
     "X-RapidAPI-Key": rapid_key,
     "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
-  },
-  params: {
-    query: "Software development",
-    num_pages: "10",
   },
 };
 
@@ -43,4 +49,3 @@ const fetchOthers = async () => {
 
 // Actual time interval logic
 setInterval(fetchOthers, 1000 * 60 * 60 * 24);
-// fetch();
