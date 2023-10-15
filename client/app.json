@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "Jobbing",
-    "slug": "Jobbing"
+    "slug": "Jobbing",
+    "extra": {
+      "eas": {
+        "projectId": "767cbb06-2950-449e-9121-1407a9e1ae21"
+      }
+    },
+    "android": {
+      "package": "com.ajioz.Jobbing"
+    }
   }
 }

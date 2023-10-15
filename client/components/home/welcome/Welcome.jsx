@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { useRouter } from "expo-router";
 import styles from "./welcome.style";
 import { icons, SIZES } from "../../../constants";
 import {
@@ -11,16 +10,28 @@ import {
   FlatList,
 } from "react-native";
 
-const jobTypes = ["Full-time", "Part-time", "Contractor"];
 
-const Welcome = ({ searchTerm, setSearchTerm, handleClick}) => {
-  const router = useRouter();
+const jobTypes = ["FULLTIME", "PARTTIME", "CONTRACTOR"];
+
+const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType }) => {
   const [activeJobType, setActiveJobType] = useState("Full-time");
+
+  const greeting = () => {
+    let myDate = new Date();
+    let hrs = myDate.getHours();
+    let greet;
+
+    if (hrs < 12) greet = "Good Morning";
+    else if (hrs >= 12 && hrs <= 17) greet = "Good Afternoon";
+    else if (hrs >= 17 && hrs <= 24) greet = "Good Evening";
+
+    return greet;
+  };
 
   return (
     <View>
       <View style={styles.container}>
-        <Text style={styles.userName}>Hello There </Text>
+        <Text style={styles.userName}>{greeting()} </Text>
         <Text style={styles.welcomeMessage}>Find your perfect job </Text>
       </View>
 
@@ -50,9 +61,8 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick}) => {
               style={styles.tab(activeJobType, item)}
               onPress={() => {
                 setActiveJobType((prev) => (prev = item));
-                router.push(`/search/${item}`);
-              }}
-            >
+                setType(item)
+              }}>
               <Text style={styles.tabText(activeJobType, item)}>{item}</Text>
             </TouchableOpacity>
           )}

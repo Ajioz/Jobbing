@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, ScrollView, SafeAreaView } from "react-native";
+import { View, ScrollView, SafeAreaView } from "react-native";
 import { Stack, useRouter } from "expo-router";
 import { images, icons, COLORS, SIZES } from "../constants";
 import {
@@ -8,13 +8,13 @@ import {
   Nearbyjobs,
   Popularjobs,
 } from "../components";
-
-// import useFetch from "../hook/useFetch";
 import { AppProvider } from "../context/context";
 
 const Home = () => {
+
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState("");
+  const [type, setType] = useState("");
 
   return (
     <AppProvider>
@@ -37,6 +37,7 @@ const Home = () => {
             <Welcome
               searchTerm={searchTerm}
               setSearchTerm={setSearchTerm}
+              setType={setType}
               handleClick={() => {
                 if (searchTerm) {
                   router.push(`/search/${searchTerm}`);
@@ -44,7 +45,7 @@ const Home = () => {
               }}
             />
             <Popularjobs />
-            <Nearbyjobs />
+            <Nearbyjobs type={type} />
           </View>
         </ScrollView>
       </SafeAreaView>

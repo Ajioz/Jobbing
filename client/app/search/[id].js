@@ -18,8 +18,6 @@ import { ScreenHeaderBtn, NearbyJobCard } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import styles from "../../styles/search";
 
-// import { RAPID_API_KEY_2 } from "@env";
-// const rapidApiKey = RAPID_API_KEY_2;
 
 const JobSearch = () => {
   const params = useGlobalSearchParams();
@@ -31,12 +29,14 @@ const JobSearch = () => {
   const [page, setPage] = useState(1);
 
   const handleSearch = async () => {
-    console.log(params);
+    // console.log(params);
     setSearchLoader(true);
     setSearchResult([]);
 
     try {
-      const response = await axios.get("http://localhost:3005/other/jobs");
+      const response = await axios.get(
+        "https://jobbingapi.onrender.com/other/jobs"
+      );
       setSearchResult(response.data);
     } catch (error) {
       setSearchError(error);
@@ -88,7 +88,6 @@ const JobSearch = () => {
                 params: { source: 'others' },
               })
             }
-            // handleNavigate={() => router.push(`/job-details/${item.job_id}/others`)}
           />
         )}
         keyExtractor={(item) => item.job_id}

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import { Alert } from "react-native";
+// import { Alert } from "react-native";
 
 const useFetch = (endpoint, query) => {
   const [data, setData] = useState([]);
@@ -10,23 +10,22 @@ const useFetch = (endpoint, query) => {
   const fetchData = async () => {
     setIsLoading(true);
     try {
-      // console.log(query)
       if (query && query.job_id !== undefined) {
         const response = await axios.post(
-          `http://localhost:3005/jobs/${endpoint}`,
+          `https://jobbingapi.onrender.com/jobs/${endpoint}`,
           query
         );
         setData(response.data);
       } else {
         const response = await axios.get(
-          `http://localhost:3005/jobs/${endpoint}`
+          `https://jobbingapi.onrender.com/jobs/${endpoint}`
         );
         setData(response.data);
       }
       setIsLoading(false);
     } catch (error) {
       setError(error);
-      Alert.alert("Oops!", `Seems like we ran into error\n${error}`);
+      // Alert.alert("Oops!", `Seems like we ran into error\n${error}`);
     } finally {
       setIsLoading(false);
     }

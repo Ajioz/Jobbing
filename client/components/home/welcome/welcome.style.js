@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
     fontFamily: FONT.regular,
     fontSize: SIZES.large,
     color: COLORS.secondary,
+    marginBottom: 20
   },
   welcomeMessage: {
     fontFamily: FONT.bold,
@@ -43,7 +44,7 @@ const styles = StyleSheet.create({
   searchBtn: {
     width: 50,
     height: "100%",
-    backgroundColor: COLORS.tertiary,
+    backgroundColor: 'azure',
     borderRadius: SIZES.medium,
     justifyContent: "center",
     alignItems: "center",
