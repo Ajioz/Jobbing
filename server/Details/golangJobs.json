@@ -1,0 +1,854 @@
+[
+  {
+    "employer_name": "Dice",
+    "employer_logo": "https://s24.q4cdn.com/133441296/files/images/brands/dice.png",
+    "employer_website": null,
+    "employer_company_type": "Information",
+    "job_publisher": "LinkedIn",
+    "job_id": "o7XIJ4wCTJ440ycQAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Senior Golang Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-golang-developer-at-dice-3744576657",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5953,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-golang-developer-at-dice-3744576657",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, LTIMindtree, is seeking the following. Apply via Dice today!\n\nSenior Golang Developer\n\nHybrid: 2 days /week from Plano TX\n\nFull time role\n\nExperience: 9+ years\n\nThe primary responsibility of this role is to be knowledgeable in Java and GO development in a Cloud Kubernetes environment using technology components and programming including but not limited to AWS, Containerization, Jenkins, CI/CD, and React Platform.\n• HTTP REST principles and standards\n• Object-oriented and functional programming knowledge along with Patterns, Algorithms, Multithreading, Data structures\n• Prior hands-on knowledge on Java and Go development:\n• Focused areas: Lambda expressions, Functional interface, var-args , Method references, enum, generics and exception handling\n• Programming Language Scala/GO: Focused areas: Java inter-0peration, Type inference, Concurrent/Distributed, Immutability, Lazy evaluations, Classes, Pattern matching, Higher order function, Trait, Collections, Futures, Utils\n• Streams in Java\n• Akka Streams\n• The opinionated & reactive Lagom microservices: Focused areas: Akka (scaladsl) or GO\n• Remote Procedure Call (RPC) framework: Focused areas: gRPC with Protocol Buffers\n• Event-Driven Microservices: Focused areas: Domain-Driven Design (DDD) pattern, Command Query Responsibility, Segregation (CQRS), Event-Sourcing (ES) and Apache Kafka\n• Build Tool - Gradle, Maven, SBT\n• Database access library\n• Database: Focused areas: PostgreSQL and Redshift (queries and development)\n• Unit Testing - ScalaTest\n• Security Tools: Focused areas: Fortify and Sonatype\n• Cloud services on AWS: Focused areas: Docker, Elastic Kubernetes Service (EKS)\n• Development and issue tracking tool - Jira\n• Project management- Scrum Agile: Focused areas: Story/Task writing and estimation.\n• Development tool (IDE): Focused areas: IntelliJ IDEA hot-keys and controls for Golang development\n• Revision control system (VCS): Focused areas: Git commands and dev controls in IDE",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697795927,
+    "job_posted_at_datetime_utc": "2023-10-20T09:58:47.000Z",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 33.019844,
+    "job_longitude": -96.69888,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=o7XIJ4wCTJ440ycQAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T09:58:47.000Z",
+    "job_offer_expiration_timestamp": 1700387927,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience: 9+ years",
+        "The primary responsibility of this role is to be knowledgeable in Java and GO development in a Cloud Kubernetes environment using technology components and programming including but not limited to AWS, Containerization, Jenkins, CI/CD, and React Platform",
+        "Object-oriented and functional programming knowledge along with Patterns, Algorithms, Multithreading, Data structures",
+        "Prior hands-on knowledge on Java and Go development:",
+        "Build Tool - Gradle, Maven, SBT",
+        "Database access library"
+      ],
+      "Responsibilities": [
+        "Programming Language Scala/GO: Focused areas: Java inter-0peration, Type inference, Concurrent/Distributed, Immutability, Lazy evaluations, Classes, Pattern matching, Higher order function, Trait, Collections, Futures, Utils",
+        "Streams in Java",
+        "Akka Streams",
+        "The opinionated & reactive Lagom microservices: Focused areas: Akka (scaladsl) or GO",
+        "Remote Procedure Call (RPC) framework: Focused areas: gRPC with Protocol Buffers",
+        "Event-Driven Microservices: Focused areas: Domain-Driven Design (DDD) pattern, Command Query Responsibility, Segregation (CQRS), Event-Sourcing (ES) and Apache Kafka",
+        "Security Tools: Focused areas: Fortify and Sonatype",
+        "Development and issue tracking tool - Jira",
+        "Project management- Scrum Agile: Focused areas: Story/Task writing and estimation"
+      ]
+    },
+    "job_job_title": "Senior",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "519130",
+    "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "t53Sc3LK7FD2qwSjAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Golang Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Golang-Developer_~01f0af043ac410f10c/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Golang-Developer_~01f0af043ac410f10c/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Golang engineer General:- Quality without compromise attitude, the standard is pretty high Must be able to work out a technical solution based on above technical skills. Proactive attitude Self-starter Fluent in English Analytical skills Excellent communication skills Academic degree in IT Tech:- 10 years of software development experience, especially with system integrations, distributed systems and highly scalable and high-performance solutions. 5 years Golang 3 years GCP experience with services like Firestore, Spanner, PubSub, BigQuery, etc Experience with Protobuf Experience with GRPC Security:- Nice to have is of course experience in the IoT domain.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697707077,
+    "job_posted_at_datetime_utc": "2023-10-19T09:17:57.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=t53Sc3LK7FD2qwSjAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["Golang"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Apolis",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Dice",
+    "job_id": "zAHLeglXLNxrU6QJAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://www.dice.com/job-detail/e6c471f1-0eca-4891-a016-f0b06348a20b",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6527,
+    "apply_options": [
+      {
+        "publisher": "Dice",
+        "apply_link": "https://www.dice.com/job-detail/e6c471f1-0eca-4891-a016-f0b06348a20b",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/golang-developer-at-apolis-3739458604",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/7480268816724624498/Golang-Developer-Austin%2C-TX",
+        "is_direct": false
+      },
+      {
+        "publisher": "Salary.com",
+        "apply_link": "https://www.salary.com/job/apolis/golang-developer/j202310170152356889731",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/20231019-1d8eca75d4060e9f28fcb3cef43faa57",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Golang Developer\n\n12 months plus\n\nLooking for a Golang Developer. Doesn’t need to specifically be golang, can be blockchain, SRE, software engineer, but primary language must be Golang.\n\nNeeds:\nGolang as a primary coding language\n\nJob Description:\n• Infrastructure, horizontally, supporting multiple eteams, not one application, and one system\n• Dark Canary, when engineers want to deploy changes to production. There is an evalatuion of the code, evaluation testing in production environment, with subset of traffic. If the change is bad before exposing the change to the users.\n• Backend components, Kubernetes operators\n• GOLANG\n• GOROutines\n• GOCHANNEL\n• Go Concurrency\n• Kubernetes\n\nLocation:-\n• Hybrid – 2 days/week Atlanta, GA, USA\n• Bentonville, Arkansas, USA\n• Sunnyvale, California, USA\n• Carlsbad, California, USA\n• Silicon Valley, California, USA\n• Charlotte, North Carolina, USA\n• Dallas, Texas, USA\n• Austin, Texas, USA\n• Hoboken, New Jersey, USA\n• Portland, Oregon, USA\n• Seattle, Washington, USA\n• Herndon, Virginia, USA\n• Reston, Virginia, USA",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697488159,
+    "job_posted_at_datetime_utc": "2023-10-16T20:29:19.000Z",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 30.267153,
+    "job_longitude": -97.74306,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=zAHLeglXLNxrU6QJAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T15:56:24.000Z",
+    "job_offer_expiration_timestamp": 1700409384,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["golang"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 60,
+    "job_max_salary": 70,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Responsibilities": [
+        "Infrastructure, horizontally, supporting multiple eteams, not one application, and one system",
+        "Dark Canary, when engineers want to deploy changes to production",
+        "If the change is bad before exposing the change to the users",
+        "Backend components, Kubernetes operators"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Pacer Staffing",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Trabajo.org",
+    "job_id": "7p9gpL-tx6p-bBj1AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "(contract) Golang Developer",
+    "job_apply_link": "https://us.trabajo.org/job-1275-20231019-3a2ff96aa95186dfd5bd4dd5839eb83f",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.493,
+    "apply_options": [
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-1275-20231019-3a2ff96aa95186dfd5bd4dd5839eb83f",
+        "is_direct": false
+      }
+    ],
+    "job_description": "(W2 only)\n\nGolang Developer\nDuration: 6 months CTH\nLocation: Missouri but 100% remote\nNumber of Interviews: 1 or 2 rounds max\n\nDescription:\n\nAttend scrum/agile meetings, work in assigned tickets, QA/testing, deploy changes to PROD\nmeet team, getting your dev environment setup, reading confluence pages\n\nRequired Skills/Experience:\n1. GOLANG/Intermediate 2 Yrs\n2. MongoDB /Intermediate 2 Yrs\n\nPreferred Skills/ Experience:\n1. React/Intermediate\n2. NodeJs/Intermediate\n\nEducation Requirement:\n4 year college degree in Comp Sci",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697710733,
+    "job_posted_at_datetime_utc": "2023-10-19T10:18:53.000Z",
+    "job_city": "Missouri City",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 29.618567,
+    "job_longitude": -95.53772,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=7p9gpL-tx6p-bBj1AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-10-26T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1698278400,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 24,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "GOLANG/Intermediate 2 Yrs",
+        "MongoDB /Intermediate 2 Yrs",
+        "4 year college degree in Comp Sci"
+      ],
+      "Responsibilities": [
+        "Attend scrum/agile meetings, work in assigned tickets, QA/testing, deploy changes to PROD",
+        "meet team, getting your dev environment setup, reading confluence pages"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Parsons Company",
+    "employer_logo": null,
+    "employer_website": "http://www.parsonscompany.com",
+    "employer_company_type": null,
+    "job_publisher": "BeBee",
+    "job_id": "Gvdj2skYG1WAqTnnAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://us.bebee.com/job/20231020-d49919f736914670a97dba005b9674aa",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.4995,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/20231020-d49919f736914670a97dba005b9674aa",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-835-20231020-4b6ea0b2c52bf189fc899745c9db47e3",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido.com",
+        "apply_link": "https://us.jobrapido.com/jobpreview/3052310248",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Minimum Clearance Required to Start:\nNot Applicable/None\n\nJob Description:\n\nT4 Program Summary:\n\nThe Federal Aviation Administration (FAA) awarded the Technical Support Services Contract 4 (T4) to Parsons as the prime contractor.\nThis $1.3 billion+ contract has a 4-year base period with two 3-year options.\n\nThe statement of work includes a variety of activities that support the FAA's Capital Investment Plan (CIP) modernization efforts: Site selection and engineering, construction, environmental and fire/life safety, equipment installation and testing, CAD, and other technical services as required.\n\nWork is performed across the nation in each of the FAA's nine regions as well as the Aeronautical Center in Oklahoma City, Oklahoma, and the Technical Center in Atlantic City, New Jersey and in several U.S.\nterritories.\n\nAn average staff of 400-500 with a peak staff over 650 supports this contract, in addition to those subcontractors who perform construction work.\n\nWe are looking for a skilled Go Developer to join our team on a fast-moving custom-built enterprise application ecosystem.\nYou will work on both mobile and web based software solutions that utilize React frontends, GO, and GraphQL. You'll work with the team to explore new technologies that\nwill support and accelerate project deliverables and outcomes.\nYour expertise with GraphQL and Go will be needed to improve code quality, perform optimizations, and review other team members code.\n\nYou'll be collaborating with your fellow software engineers in a primarily remote team setting, so you should be comfortable communicating and knowledge-sharing via virtual environments. You'll be tasked with writing rock solid Go code, you'll serve as an expert for the Go, GraphQL, and you'll enjoy onboarding solutions that will improve the developer ecosystem at large.\nIf we just described you, we want to hear from you\n\nEducation:\n• Undergraduate or Masters degree in computer science (6 years of relevant experience is also acceptable in lieu of a college degree)?\n\nRequired Experience and Skills:\n\n_Your Career So Far:\n_\n• You have 4 years of solid experience building complex backend APIs at an enterprise level.\n• You are highly proficient in Go development.\n• You have experience working with relational databases (e.g. Postgres), key-value stores (e.g. Redis), and NoSQL Databases (MongoDB, Couchbase, DynamoDB).\n• You can write well-structured, efficient and maintainable code, and actively keep the quality of the codebase in check.\n• You have excellent analytical and problem-solving skills and enjoy building scalable distributed systems.\n• Must be able to meet customer security requirements. A background check by Federal Authorities will be performed.\n_Your business skills and dev competencies look like this:_\n• You understand the power of Docker and AWS, and how to leverage both to meet and exceed customer expectations.\n• You enjoy being an active participant in SCRUM ceremonies and bringing positive energy to the team.\n• You are very comfortable with the AWS ecosystem (Cloud Formation, Terraform, etc), and you are experienced with GraphQL.\n• You've worked in a distributed team environment for at least 3 years.\n• You're familiar with centralized logging, monitoring, and alerting solutions, and you have a deep understanding of DevOps, AWS, and Cloud solutions.\n• You enjoy and seek to understand how the codebase and the data architecture coalesce.\n• You have a demonstrated ability to build and maintain colleague and client relationships.\n• You can exercise discretion and work independently.\n• You have excellent written and oral communication skills.\n\n_Your technical competencies encompass:\n_\n• Golang\n• React, Typescript\n• AWS\n• Git?\n• Database Architecture\nParsons is a leader in the world of Technical Services and Engineering.\n\nWe hire people with a broad set of technical skills who have proven experience tackling some of the greatest challenges.\nTake your next step and apply today.\nThe anticipated annualized full time target compensation (median) for this position is: $140,000.00.\n\nBenefits for this position include:\nmedical, dental, vision, paid time off and 401K.\n\nThe position may require a COVID vaccination or an approved accommodation/exemption for a disability/medical condition or religious belief as required by federal, state, provincial or local mandates or customer requirements.\nAbout Us\nParsons is a digitally enabled solutions provider focused on the defense, security, and infrastructure markets.\n\nWith nearly 75 years of experience, Parsons is uniquely qualified to deliver cyber/converged security, technology-based intellectual property, and other innovative services to federal, regional, and local government agencies, as well as to private industrial customers worldwide.\nParsons is an equal opportunity, drug-free employer committed to diversity in the workplace. Minority/Female/Disabled/Protected Veteran/LGBTQ+.\nFor more about Parsons, visit and follow us on Facebook, Twitter, LinkedIn, and YouTube.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697796835,
+    "job_posted_at_datetime_utc": "2023-10-20T10:13:55.000Z",
+    "job_city": "Greenville",
+    "job_state": "SC",
+    "job_country": "US",
+    "job_latitude": 34.85262,
+    "job_longitude": -82.39401,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "retirement_savings",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=Gvdj2skYG1WAqTnnAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-10-28T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1698451200,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 72,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Undergraduate or Masters degree in computer science (6 years of relevant experience is also acceptable in lieu of a college degree)?",
+        "You have 4 years of solid experience building complex backend APIs at an enterprise level",
+        "You are highly proficient in Go development",
+        "You have experience working with relational databases (e.g. Postgres), key-value stores (e.g. Redis), and NoSQL Databases (MongoDB, Couchbase, DynamoDB)",
+        "You can write well-structured, efficient and maintainable code, and actively keep the quality of the codebase in check",
+        "You have excellent analytical and problem-solving skills and enjoy building scalable distributed systems",
+        "Must be able to meet customer security requirements",
+        "A background check by Federal Authorities will be performed",
+        "_Your business skills and dev competencies look like this:_",
+        "You understand the power of Docker and AWS, and how to leverage both to meet and exceed customer expectations",
+        "You enjoy being an active participant in SCRUM ceremonies and bringing positive energy to the team",
+        "You are very comfortable with the AWS ecosystem (Cloud Formation, Terraform, etc), and you are experienced with GraphQL",
+        "You've worked in a distributed team environment for at least 3 years",
+        "You're familiar with centralized logging, monitoring, and alerting solutions, and you have a deep understanding of DevOps, AWS, and Cloud solutions",
+        "You enjoy and seek to understand how the codebase and the data architecture coalesce",
+        "You have a demonstrated ability to build and maintain colleague and client relationships",
+        "You can exercise discretion and work independently",
+        "You have excellent written and oral communication skills",
+        "Golang",
+        "React, Typescript",
+        "Database Architecture",
+        "The position may require a COVID vaccination or an approved accommodation/exemption for a disability/medical condition or religious belief as required by federal, state, provincial or local mandates or customer requirements"
+      ],
+      "Responsibilities": [
+        "You'll work with the team to explore new technologies that",
+        "will support and accelerate project deliverables and outcomes",
+        "Your expertise with GraphQL and Go will be needed to improve code quality, perform optimizations, and review other team members code",
+        "You'll be collaborating with your fellow software engineers in a primarily remote team setting, so you should be comfortable communicating and knowledge-sharing via virtual environments",
+        "You'll be tasked with writing rock solid Go code, you'll serve as an expert for the Go, GraphQL, and you'll enjoy onboarding solutions that will improve the developer ecosystem at large"
+      ],
+      "Benefits": [
+        "This $1.3 billion+ contract has a 4-year base period with two 3-year options",
+        "The anticipated annualized full time target compensation (median) for this position is: $140,000.00",
+        "medical, dental, vision, paid time off and 401K"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "LTIMindtree",
+    "employer_logo": "https://www.ltimindtree.com/wp-content/uploads/2022/10/LTIMindtree_Linear_2-1-LT-Blue-1-1.png",
+    "employer_website": "http://www.lntinfotech.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "LinkedIn",
+    "job_id": "jj2Z3uCw_pE9OZ7GAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/golang-developer-at-ltimindtree-3731512304",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5906,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/golang-developer-at-ltimindtree-3731512304",
+        "is_direct": false
+      },
+      {
+        "publisher": "Golang Jobs",
+        "apply_link": "https://golangjob.xyz/job/2WtlAS4DpchY4WIRlpQK0jKvIvZ/Senior%20Golang%20Developer",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Golang Developer\n\nHybrid: 2 days /week from Plano TX\n\nFull time role\n\nExperience: 6+ years\n\nThe primary responsibility of this role is to be knowledgeable in Java and GO development in a Cloud Kubernetes environment using technology components and programming including but not limited to AWS, Containerization, Jenkins, CI/CD, and React Platform.\n• HTTP REST principles and standards\n• Object-oriented and functional programming knowledge along with Patterns, Algorithms, Multithreading, Data structures\n• Prior hands-on knowledge on Java and Go development:\n• Focused areas: Lambda expressions, Functional interface, var-args , Method references, enum, generics and exception handling\n• Programming Language Scala/GO: Focused areas: Java inter-0peration, Type inference, Concurrent/Distributed, Immutability, Lazy evaluations, Classes, Pattern matching, Higher order function, Trait, Collections, Futures, Utils\n• Streams in Java\n• Akka Streams\n• The opinionated & reactive Lagom microservices: Focused areas: Akka (scaladsl) or GO\n• Remote Procedure Call (RPC) framework: Focused areas: gRPC with Protocol Buffers\n• Event-Driven Microservices: Focused areas: Domain-Driven Design (DDD) pattern, Command Query Responsibility, Segregation (CQRS), Event-Sourcing (ES) and Apache Kafka\n• Build Tool - Gradle, Maven, SBT\n• Database access library\n• Database: Focused areas: PostgreSQL and Redshift (queries and development)\n• Unit Testing - ScalaTest\n• Security Tools: Focused areas: Fortify and Sonatype\n• Cloud services on AWS: Focused areas: Docker, Elastic Kubernetes Service (EKS)\n• Development and issue tracking tool - Jira\n• Project management- Scrum Agile: Focused areas: Story/Task writing and estimation.\n• Development tool (IDE): Focused areas: IntelliJ IDEA hot-keys and controls for Golang development\n• Revision control system (VCS): Focused areas: Git commands and dev controls in IDE\n\nAbout LTIMindtree\n\nLTIMindtree is a global technology consulting and digital solutions company that enables enterprises across industries to reimagine business models, accelerate innovation, and maximize growth by harnessing digital technologies. As a digital transformation partner to more than 750 clients, LTIMindtree brings extensive domain and technology expertise to help drive superior competitive differentiation, customer experiences, and business outcomes in a converging world. Powered by nearly 90,000 talented and entrepreneurial professionals across more than 30 countries, LTIMindtree — a Larsen & Toubro Group company — combines the industry-acclaimed strengths of erstwhile Larsen and Toubro Infotech and Mindtree in solving the most complex business challenges and delivering transformation at scale. For more information, please visit www.ltimindtree.com",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1696958487,
+    "job_posted_at_datetime_utc": "2023-10-10T17:21:27.000Z",
+    "job_city": "Plano",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 33.019844,
+    "job_longitude": -96.69888,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=jj2Z3uCw_pE9OZ7GAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-09T17:21:27.000Z",
+    "job_offer_expiration_timestamp": 1699550487,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 90000,
+    "job_max_salary": 130000,
+    "job_salary_currency": "USD",
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Experience: 6+ years",
+        "The primary responsibility of this role is to be knowledgeable in Java and GO development in a Cloud Kubernetes environment using technology components and programming including but not limited to AWS, Containerization, Jenkins, CI/CD, and React Platform",
+        "Object-oriented and functional programming knowledge along with Patterns, Algorithms, Multithreading, Data structures",
+        "Prior hands-on knowledge on Java and Go development:",
+        "Database access library",
+        "Revision control system (VCS): Focused areas: Git commands and dev controls in IDE"
+      ],
+      "Responsibilities": [
+        "Programming Language Scala/GO: Focused areas: Java inter-0peration, Type inference, Concurrent/Distributed, Immutability, Lazy evaluations, Classes, Pattern matching, Higher order function, Trait, Collections, Futures, Utils",
+        "Streams in Java",
+        "Akka Streams",
+        "The opinionated & reactive Lagom microservices: Focused areas: Akka (scaladsl) or GO",
+        "Remote Procedure Call (RPC) framework: Focused areas: gRPC with Protocol Buffers",
+        "Event-Driven Microservices: Focused areas: Domain-Driven Design (DDD) pattern, Command Query Responsibility, Segregation (CQRS), Event-Sourcing (ES) and Apache Kafka",
+        "Unit Testing - ScalaTest",
+        "Security Tools: Focused areas: Fortify and Sonatype",
+        "Development and issue tracking tool - Jira",
+        "Project management- Scrum Agile: Focused areas: Story/Task writing and estimation"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "VaaridaTech",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Salary.com",
+    "job_id": "aGXV5DCxUGmdTDC9AAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://www.salary.com/job/vaaridatech/golang-developer/j202304270444267173914",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6668,
+    "apply_options": [
+      {
+        "publisher": "Salary.com",
+        "apply_link": "https://www.salary.com/job/vaaridatech/golang-developer/j202304270444267173914",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Mandatory Skills-\nMinimum 8 years of experience as a Software Engineer\n5 years of hands on Golang experience\nExperience with writing microservices in Golang and building shared microservice libraries.\nExperience in Golang concepts like Slices, Maps, Structs, Interfaces, Goroutines, Channels, Microservices and Gorilla Mux.\nExperience with container technology and management such as Docker, Kubernetes.\nExperience in version control systems such as GitHub/Gitlab\nExperience in Unit Testing to attain high code coverage and pass build Quality gates\nExperience of executing projects in Agile using continuous / continuous deployment\nExperience of writing complex SQLs and stored procedures\nExperience working with RDBMS like Oracle/ MS SQL\nStrong written, verbal, and interpersonal communication skills.\n\nJob Type: Contract\n\nPay: $50.00 - $65.00 per hour\n\nSchedule:\n• 8 hour shift\n• Monday to Friday\n\nAbility to commute/relocate:\n• King of Prussia, PA 19406: Reliably commute or planning to relocate before starting work (Required)\n\nExperience:\n• AWS (Preferred)\n• ASP.NET (Preferred)\n• APIs (Preferred)\n\nWork Location: In person\n\nSpeak with the employer\n91 7039531330",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1682640000,
+    "job_posted_at_datetime_utc": "2023-04-28T00:00:00.000Z",
+    "job_city": "King of Prussia",
+    "job_state": "PA",
+    "job_country": "US",
+    "job_latitude": 40.101284,
+    "job_longitude": -75.38355,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=aGXV5DCxUGmdTDC9AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-10-27T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1698364800,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 96,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum 8 years of experience as a Software Engineer",
+        "5 years of hands on Golang experience",
+        "Experience with writing microservices in Golang and building shared microservice libraries",
+        "Experience in Golang concepts like Slices, Maps, Structs, Interfaces, Goroutines, Channels, Microservices and Gorilla Mux",
+        "Experience with container technology and management such as Docker, Kubernetes",
+        "Experience in version control systems such as GitHub/Gitlab",
+        "Experience in Unit Testing to attain high code coverage and pass build Quality gates",
+        "Experience of executing projects in Agile using continuous / continuous deployment",
+        "Experience of writing complex SQLs and stored procedures",
+        "Experience working with RDBMS like Oracle/ MS SQL",
+        "Strong written, verbal, and interpersonal communication skills",
+        "King of Prussia, PA 19406: Reliably commute or planning to relocate before starting work (Required)",
+        "ASP"
+      ],
+      "Benefits": ["Pay: $50.00 - $65.00 per hour", "8 hour shift"]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "HonorVet Technologies",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "ZipRecruiter",
+    "job_id": "r6rX_DrPGoTBL6uyAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://www.ziprecruiter.com/c/HonorVet-Technologies/Job/Golang-Developer/-in-Avon,CT?jid=92b3194bf6b4250d",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.7098,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/HonorVet-Technologies/Job/Golang-Developer/-in-Avon,CT?jid=92b3194bf6b4250d",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido.com",
+        "apply_link": "https://us.jobrapido.com/jobpreview/3050527970",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title - Golang Developer\n\nPosition Description\nAs a Golang developer, you will contribute to generating high quality backend code while creating a more efficient and balanced workflow. You will also inherit/define reusable functions to build the application more efficiently.\nRole can be performed in Bloomfield, CT or Lafayette, LA.\n\nYour future duties and responsibilities\nBuild and scale high quality APIs and microservices in Golang to power our Digital platform\nExpertise in the full suite of Go frameworks and tools\nUnderstanding of Go Routine and Channel patterns.\nExperience using and creating APIs, and/or experience working with microservice architectures.\nFamiliarity with REST API and web service development and standard processes\nExperience with database systems (SQL/ No-SQL)\nWork closely with scrum masters, PMs, QA and development teams to organize agile delivery.\nUnderstands Agile delivery methods and has experience working in a SCRUM environment.\nProven collaboration skills; demonstrating ability to pull a diverse group of individuals with different goals together and facilitate productive discussions. Capable of driving decisions.\nComfortable working in a fast-paced, results-oriented environment. Ability and willingness to support systems or other functions when necessary for the good of the project.\nStrong time management skills; highly organized and detail oriented. Able to prioritize and complete tasks in a fast paced environment.\nShould have the eye for business to engage in customer discussions with product owners, business leads and program managers\nKnowledge of the Healthcare industry and Mobile/Web technologies is helpful.\nBachelors or Master's degree in Computer Science preferred\n\nRequired qualifications to be successful in this role\nAt least 4-5 years of experience working with the Go programming language.\nBuild and scale high quality APIs and microservices in Golang to power our Digital platform\nExpertise in the full suite of Go frameworks and tools\nUnderstanding of Go Routine and Channel patterns.\nExperience using and creating APIs, and/or experience working with microservice architectures.\nFamiliarity with REST API and web service development and standard processes\nExperience with database systems (SQL/ No-SQL)\nWork closely with scrum masters, PMs, QA and development teams to organize agile delivery.\nUnderstands Agile delivery methods and has experience working in a SCRUM environment.\n• Go - 5 year(s)\n• RESTful (Rest-APIs) - 4 year(s)\n• SQL - 1 year(s)\n• Microservices\n• NoSQL",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1681974000,
+    "job_posted_at_datetime_utc": "2023-04-20T07:00:00.000Z",
+    "job_city": "Avon",
+    "job_state": "CT",
+    "job_country": "US",
+    "job_latitude": 41.80962,
+    "job_longitude": -72.83051,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=r6rX_DrPGoTBL6uyAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-15T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1700006400,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 48,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Expertise in the full suite of Go frameworks and tools",
+        "Experience using and creating APIs, and/or experience working with microservice architectures",
+        "Familiarity with REST API and web service development and standard processes",
+        "Experience with database systems (SQL/ No-SQL)",
+        "Understands Agile delivery methods and has experience working in a SCRUM environment",
+        "Proven collaboration skills; demonstrating ability to pull a diverse group of individuals with different goals together and facilitate productive discussions",
+        "Capable of driving decisions",
+        "Comfortable working in a fast-paced, results-oriented environment",
+        "Ability and willingness to support systems or other functions when necessary for the good of the project",
+        "Strong time management skills; highly organized and detail oriented",
+        "Able to prioritize and complete tasks in a fast paced environment",
+        "Knowledge of the Healthcare industry and Mobile/Web technologies is helpful",
+        "Required qualifications to be successful in this role",
+        "At least 4-5 years of experience working with the Go programming language",
+        "Build and scale high quality APIs and microservices in Golang to power our Digital platform",
+        "Go - 5 year(s)",
+        "RESTful (Rest-APIs) - 4 year(s)",
+        "SQL - 1 year(s)"
+      ],
+      "Responsibilities": [
+        "As a Golang developer, you will contribute to generating high quality backend code while creating a more efficient and balanced workflow",
+        "You will also inherit/define reusable functions to build the application more efficiently",
+        "Build and scale high quality APIs and microservices in Golang to power our Digital platform",
+        "Understanding of Go Routine and Channel patterns"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_occupational_categories": [
+      "15-1132.00: Software Developers, Applications"
+    ]
+  },
+  {
+    "employer_name": "Acunor",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfNQoP_j2kJ3CfmiSHhZ3O91xUUehPD039fwgI&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "tZ67GcIH3bzw5Sf1AAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Golang Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/golang-developer-at-acunor-3739449009",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6562,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/golang-developer-at-acunor-3739449009",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Acunor is hiring for “Golang Developer” for one of its premier clients. This is a Contract, Hybrid opportunity Sanjose_CA and Austin_TX. Interested candidates are encouraged to apply with their most recent resume on andy@acunor.com\n\nJob title : Golang Developer\n\nLocation : Sanjose_CA and Austin_TX / Hybrid\n\nDuration : Long Term\n\nNote: 10+ Years of Experience in IT, 5 years in Golang.\n\nJob Description:\n• Golang developer with Kubernetes exp.\n• Experience on Clusters, Containers, GKE/EKE",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697723137,
+    "job_posted_at_datetime_utc": "2023-10-19T13:45:37.000Z",
+    "job_city": "Austin",
+    "job_state": "TX",
+    "job_country": "US",
+    "job_latitude": 30.267153,
+    "job_longitude": -97.74306,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=tZ67GcIH3bzw5Sf1AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T13:45:37.000Z",
+    "job_offer_expiration_timestamp": 1700315137,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 120,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Note: 10+ Years of Experience in IT, 5 years in Golang",
+        "Golang developer with Kubernetes exp",
+        "Experience on Clusters, Containers, GKE/EKE"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "SwiftComply",
+    "employer_logo": "https://www.swiftcomply.com/wp-content/uploads/2019/02/Retina.png",
+    "employer_website": "http://www.swiftcomply.ie",
+    "employer_company_type": null,
+    "job_publisher": "SwiftComply Careers - Pinpoint",
+    "job_id": "UPVGlmttFhvKtGReAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Go Developer",
+    "job_apply_link": "https://swiftcomply.pinpointhq.com/jobs/109787",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.8483,
+    "apply_options": [
+      {
+        "publisher": "SwiftComply Careers - Pinpoint",
+        "apply_link": "https://swiftcomply.pinpointhq.com/jobs/109787",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/go-developer-at-swiftcomply-3663670775",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Go Developer\n\nDepartment: Engineering\n\nEmployment Type: Full Time\n\nLocation: US (Remote)\nDescription\nBring your full self to work.\n\nSwiftComply strives to create an environment for all to participate, be authentic, and feel valued.\n\nWe are committed to building an equitable workplace that moves our company and industry forward and know there is work to be done in advancing diversity and inclusion.\n\nAbout the role\nAs a Go Developer, you will help develop our software and be empowered to take on tasks as part of a small and growing team.\n\nIn this role, you will:\n• Design, develop, and maintain high-quality, scalable, and secure software solutions using Go Language, microservices, Postgres database, and Google Cloud Platform\n• Collaborate with cross-functional teams to design and implement new features and functionality that meet the needs of our customers\n• Develop and maintain APIs that integrate with third-party systems and applications\n• Write clean, maintainable, and testable code that follows best practices and coding standards\n• Ensure the quality and stability of the software through testing, debugging, and troubleshooting\n• Participate in code reviews and contribute to the continuous improvement of the development process\n• Provide technical guidance and mentorship to the team\n• Work independently and effectively manage time and priorities to meet deadlines and deliverables\n• Collaborate with a remote team in a highly distributed and self-managed environment\n\nWho you are\nWe are seeking a new member to join our Engineering team! This might be a great team for you if you thrive in a setting that you can:\n• Be self-motivated and work independently as part of a small team, proactively consulting with the team for tasks as opposed to waiting to be assigned one\n• Use your communication/interpersonal skills to collaborate with a remote team\n• Demonstrate excellent problem-solving and analytical skills to build creative solutions\n• Manage priorities and meeting deadlines in a fast-paced and rapidly changing environment to build a software that impacts the future of water and environment\n\nExperiences that could help you succeed in this role include:\n• 5+ years of experience in software development, with a focus on building enterprise, multi-tenant solutions\n• Experience building complex applications using Go Language, microservices, Postgres database, and Google Cloud Platform services; strong understanding of distributed systems and cloud computing\n• Solid understanding of software development principles, including agile methodologies, version control, and automated testing\n• Experience designing and optimizing databases applications that can scale and maintain security\n• Experience developing and maintaining APIs that integrate with third-party systems and applications\n• Familiarity with front-end technologies such as React, Angular, or Vue.js\n• Experience writing clean, maintainable, and testable code that follows best practices and coding standards\n• Experience ensuring the quality and stability of the software through testing, debugging, and troubleshooting\n• Experience collaborating with cross-functional teams to design and implement new features and functionality that meet the needs of customers\n• Experience providing technical guidance and mentorship to the team\n\nBonus points:\n• Experience in integration and platform development\n• Experience managing the exchange of data between various systems and applications\n• Experience working in a B2B or B2G SaaS company\n• Experience being a part of a company that has gone from $5-10M to $25M+ in annual revenue\n• Experience with water/wastewater industry\n\nExcited about making a positive impact with SwiftComply but don’t feel you meet 100% of the list? If you’re excited about working with us, we’d still love to hear from you!\n\nBenefits\n• Healthcare - we offer medical, dental, and vision insurance with an HSA option\n• Life insurance - we offer free life insurance plan for you\n• 401(k) - we provide pre-tax/roth options and the company makes a contribution equal to 3% of your compensation, regardless of your contribution amount\n• Remote - we work remotely and provide a $1000 home office setup stipend\n• Time off - we offer 31 paid days off (PTO, holidays, birthday, etc; 1 additional day off provided for each year you’re with the company) and encourage you to take time for vacation, wellness day, etc, for a positive work-life balance\n• Parental leave - we want you to enjoy some time with your new addition to the family with paid leave\n\nCompensation\n$145-175k/yr\n• To provide equitable pay, we benchmark our compensation. This is the data provided at the time we created this job description. We will re-evaluate the range at the time of offer and thus this range is subject to change.\n\nPlease note: Offer is contingent upon a successful completion of a background check. And we are unable to sponsor visas at this time; you must be a US Citizen or Permanent Resident authorized to work in the US.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1684379458,
+    "job_posted_at_datetime_utc": "2023-05-18T03:10:58.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "retirement_savings",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=golang+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=golang+developer&htidocid=UPVGlmttFhvKtGReAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Be self-motivated and work independently as part of a small team, proactively consulting with the team for tasks as opposed to waiting to be assigned one",
+        "Demonstrate excellent problem-solving and analytical skills to build creative solutions",
+        "5+ years of experience in software development, with a focus on building enterprise, multi-tenant solutions",
+        "Experience building complex applications using Go Language, microservices, Postgres database, and Google Cloud Platform services; strong understanding of distributed systems and cloud computing",
+        "Solid understanding of software development principles, including agile methodologies, version control, and automated testing",
+        "Experience designing and optimizing databases applications that can scale and maintain security",
+        "Experience developing and maintaining APIs that integrate with third-party systems and applications",
+        "Familiarity with front-end technologies such as React, Angular, or Vue.js",
+        "Experience writing clean, maintainable, and testable code that follows best practices and coding standards",
+        "Experience ensuring the quality and stability of the software through testing, debugging, and troubleshooting",
+        "Experience collaborating with cross-functional teams to design and implement new features and functionality that meet the needs of customers",
+        "Experience providing technical guidance and mentorship to the team",
+        "Experience in integration and platform development",
+        "Experience managing the exchange of data between various systems and applications",
+        "Experience working in a B2B or B2G SaaS company",
+        "Experience being a part of a company that has gone from $5-10M to $25M+ in annual revenue",
+        "Experience with water/wastewater industry"
+      ],
+      "Responsibilities": [
+        "As a Go Developer, you will help develop our software and be empowered to take on tasks as part of a small and growing team",
+        "Design, develop, and maintain high-quality, scalable, and secure software solutions using Go Language, microservices, Postgres database, and Google Cloud Platform",
+        "Collaborate with cross-functional teams to design and implement new features and functionality that meet the needs of our customers",
+        "Develop and maintain APIs that integrate with third-party systems and applications",
+        "Write clean, maintainable, and testable code that follows best practices and coding standards",
+        "Ensure the quality and stability of the software through testing, debugging, and troubleshooting",
+        "Participate in code reviews and contribute to the continuous improvement of the development process",
+        "Provide technical guidance and mentorship to the team",
+        "Work independently and effectively manage time and priorities to meet deadlines and deliverables",
+        "Collaborate with a remote team in a highly distributed and self-managed environment",
+        "Manage priorities and meeting deadlines in a fast-paced and rapidly changing environment to build a software that impacts the future of water and environment"
+      ],
+      "Benefits": [
+        "Healthcare - we offer medical, dental, and vision insurance with an HSA option",
+        "Life insurance - we offer free life insurance plan for you",
+        "401(k) - we provide pre-tax/roth options and the company makes a contribution equal to 3% of your compensation, regardless of your contribution amount",
+        "Remote - we work remotely and provide a $1000 home office setup stipend",
+        "Time off - we offer 31 paid days off (PTO, holidays, birthday, etc; 1 additional day off provided for each year you’re with the company) and encourage you to take time for vacation, wellness day, etc, for a positive work-life balance",
+        "Parental leave - we want you to enjoy some time with your new addition to the family with paid leave",
+        "$145-175k/yr",
+        "To provide equitable pay, we benchmark our compensation"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  }
+]

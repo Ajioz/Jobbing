@@ -1,6 +1,6 @@
 const Express = require("express");
 const {
-  getReactJobAsync,
+  getReactJob,
   getAngularJob,
   getVueJob,
   getNodeJob,
@@ -9,25 +9,27 @@ const {
   getGolangJob,
   getPhpJob,
   getDotnetJob,
-  getJobAsync,
+  getOtherJob,
   getJobDetails,
+  getHotJob,
 } = require("../controller/techJobController.js");
 
-const reactJobRoute = Express.Router();
+const techJobRoute = Express.Router();
 
 // Search for jobs
-reactJobRoute.get("/react", getReactJobAsync);
-reactJobRoute.get("/angular", getAngularJob);
-reactJobRoute.get("/vue", getVueJob);
-reactJobRoute.get("/node", getNodeJob);
-reactJobRoute.get("/python", getPythonJob);
-reactJobRoute.get("/java", getJavaJob);
-reactJobRoute.get("/golang", getGolangJob);
-reactJobRoute.get("/php", getPhpJob);
-reactJobRoute.get("/dotnet", getDotnetJob);
-reactJobRoute.get("/others", getJobAsync);
+techJobRoute.get("/Other", getOtherJob);
+techJobRoute.get("/Reactjs", getReactJob);
+techJobRoute.get("/Angular", getAngularJob);
+techJobRoute.get("/VueJs", getVueJob);
+techJobRoute.get("/Nodejs", getNodeJob);
+techJobRoute.get("/Python", getPythonJob);
+techJobRoute.get("/Java", getJavaJob);
+techJobRoute.get("/GoLang", getGolangJob);
+techJobRoute.get("/PHP", getPhpJob);
+techJobRoute.get("/DotNet", getDotnetJob);
+techJobRoute.get("/HotJob", getHotJob);
 
 // search for job details
-reactJobRoute.post("/job-details", getJobDetails);
+techJobRoute.post("/job-details", getJobDetails);
 
-module.exports = reactJobRoute;
+module.exports = techJobRoute;

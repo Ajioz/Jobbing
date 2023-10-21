@@ -1,0 +1,872 @@
+[
+  {
+    "employer_name": "Progressive Insurance",
+    "employer_logo": "https://images.contentstack.io/v3/assets/blt62d40591b3650da3/blt72c5ebc95e884f8c/5ca763a5082f61c34628d081/share-opengraph-1200.png",
+    "employer_website": "http://www.progressive.com",
+    "employer_company_type": "Finance",
+    "job_publisher": "LinkedIn",
+    "job_id": "sJsfA6Da0a8uzD0fAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Angular Developer Lead",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/angular-developer-lead-at-progressive-insurance-3742884426",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6062,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/angular-developer-lead-at-progressive-insurance-3742884426",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=124502e4556efc3c",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/software-developer-senior-lead-progressive-JV_KO0,30_KE31,42.htm?jl=1008935606777",
+        "is_direct": false
+      },
+      {
+        "publisher": "Engineer Jobs",
+        "apply_link": "https://www.engineerjobs.com/posting/fBfy2f90ZKoNZFClIiTYZsGLHhG3b8bCR0T6OfNrp2aggdONFSznOwaIX0l2DiiD",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/4382689265",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Join Forbes’ 2023 Best Employer for Diversity!\n\nAs an Angular developer lead in the Data and Information Governance (DIG) product team, you’ll build user interfaces for our internally developed software product that supports a broad community of data users. You’ll also influence technical patterns, impact development practices, and mentor others on UI development. Additionally, you’ll enhance Progressive's data catalog platform, build a data marketplace, integrate with other enterprise systems, and explore GenAI capabilities to support our users.\n\nThis is a remote position for US based work only.\n\nMust-have Qualifications\n• Bachelor's Degree or higher in an Information Technology discipline or related field of study and minimum six years of related work experience designing, programming, and supporting software programs and applications.\n• In lieu of the above, a high school diploma or GED or higher, the completion of a technical training program, and a minimum of six years related work experience.\n• In lieu of the above, a high school diploma or GED or higher and a minimum of eight years related work experience designing, programming, and supporting software programs and applications.\n\nPreferred Skills\n• Angular (v12 or above) expertise including state management with NGRx\n• Expertise in Unit Testing frameworks such as Jest\n• Knowledge of Accessibility standards (WCAG), tools, and patterns\n• Experience with Angular Material\n\nCompensation\n• $108,000-$132,000/year depending on position level and experience\n• Gainshare bonus up to 30% of your eligible earnings based on company performance\n\nBenefits\n• 401(k) with dollar-for-dollar company match up to 6%\n• Medical, dental & vision, including free preventative care\n• Wellness & mental health programs\n• Health care flexible spending accounts, health savings accounts, & life insurance\n• Paid time off\n• Paid & unpaid sick leave where applicable, as well as short & long-term disability\n• Parental & family leave; military leave & pay\n• Diverse, inclusive & welcoming culture with Employee Resource Groups\n• Career development & tuition assistance\n• Onsite gym & healthcare at large locations\n\n \n\nEnergage recognizes Progressive as a 2023 Top Workplace for: Innovation, Purposes & Values, Work-Life Flexibility, Compensation & Benefits, and Leadership.\n\nEqual Opportunity Employer\n\nSponsorship for work authorization for foreign national candidates is not available for this position\n\nFor ideas about how you might be able to protect yourself from job scams, visit our scam-awareness page at https://www.progressive.com/careers/how-we-hire/faq/job-scams/\n\nJob\n\nInformation Technology\n\nPrimary Location\n\nUnited States\n\nSchedule\n\nFull-time\n\nEmployee Status\n\nRegular\n\nWork From Home\n\nYes",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697749979,
+    "job_posted_at_datetime_utc": "2023-10-19T21:12:59.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "paid_time_off",
+      "retirement_savings",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=sJsfA6Da0a8uzD0fAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T21:12:59.000Z",
+    "job_offer_expiration_timestamp": 1700341979,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 96,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's Degree or higher in an Information Technology discipline or related field of study and minimum six years of related work experience designing, programming, and supporting software programs and applications",
+        "In lieu of the above, a high school diploma or GED or higher, the completion of a technical training program, and a minimum of six years related work experience",
+        "In lieu of the above, a high school diploma or GED or higher and a minimum of eight years related work experience designing, programming, and supporting software programs and applications"
+      ],
+      "Responsibilities": [
+        "You’ll also influence technical patterns, impact development practices, and mentor others on UI development",
+        "Additionally, you’ll enhance Progressive's data catalog platform, build a data marketplace, integrate with other enterprise systems, and explore GenAI capabilities to support our users"
+      ],
+      "Benefits": [
+        "$108,000-$132,000/year depending on position level and experience",
+        "Gainshare bonus up to 30% of your eligible earnings based on company performance",
+        "401(k) with dollar-for-dollar company match up to 6%",
+        "Medical, dental & vision, including free preventative care",
+        "Wellness & mental health programs",
+        "Health care flexible spending accounts, health savings accounts, & life insurance",
+        "Paid time off",
+        "Paid & unpaid sick leave where applicable, as well as short & long-term disability",
+        "Parental & family leave; military leave & pay",
+        "Diverse, inclusive & welcoming culture with Employee Resource Groups",
+        "Career development & tuition assistance",
+        "Onsite gym & healthcare at large locations"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "524126",
+    "job_naics_name": "Direct Property and Casualty Insurance Carriers"
+  },
+  {
+    "employer_name": "Gravity IT Resources",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFKFe7IGgvNrZIpY7XlluJGH9_0GH84d4Mjweg&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "SNLWXNjLZqXIbHVBAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java/Angular Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-angular-developer-at-gravity-it-resources-3744765735",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6547,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-angular-developer-at-gravity-it-resources-3744765735",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: Angular/Java Developer\n\nLocation: Utah\n\nJob-Type: Contract\n\nSalary Range: 125K – 150K\n\nReferral Fee:\n\nEmployment Eligibility: Gravity will consider US Citizens, Green Card Holders and those with full-time US Employment Authorization (H-1B Candidates). We are also open to contract or “corp to corp” agreements for highly qualified candidates.\n\nPosition Overview:\n\nGravity IT is seeking a Sr. Web Developer with strong experience in Angular and Java. In this role, you will support a key customer and one of its major systems and will perform full-stack development as well as be involved in the design and architecture of the web system. You will be involved in new development as well as major enhancements and maintenance of websites and applications in an effort to modernize a system/application that provides services to the citizens of Utah.\n• Duties & Responsibilities:Full-stack development\n• System and application design and architecture\n• Enhancements, maintenance, and new development\n• Required Experience & Skills:3+ years’ experience in Angular versions 12 and above\n• 5+ years’ experience in Java fundamentals, versions 12 and below\n• 5+ years’ experience in Java servlets and filters\n• Expert understanding of RESTful web services/APIs\n• Expert understanding of popular Object Relational Mapping frameworks, especially JPA/Hibernate and Entity Framework\n• 5+ years’ experience in HTML/CSS\n• Proficient understanding of SOAP web services\n• Proficient in CICD methodologies and automated deployment pipelines\n• Proficient understanding of designing and implementing relational databases, especially Oracle versions 18 and below\n• knowledge of Oracle PL/SQL\n• Expert understanding of Spring MVC, especially Rest Controllers\n• Proficient understanding of Spring IoC\n• Proficient understanding of Scrum/Agile projects\n• Proficient in Jira\n• Proficient in Git and GitHub\n• Proficient in Maven\n• Proficient in usage of Eclipse and/or other IDE\n• Proficient with Jenkins continuous integration\n• knowledge of Section 508 compliance\n• knowledge of AWS cloud technology",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697813100,
+    "job_posted_at_datetime_utc": "2023-10-20T14:45:00.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=SNLWXNjLZqXIbHVBAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T14:45:00.000Z",
+    "job_offer_expiration_timestamp": 1700405100,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 36,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Web Developer with strong experience in Angular and Java",
+        "Required Experience & Skills:3+ years’ experience in Angular versions 12 and above",
+        "5+ years’ experience in Java fundamentals, versions 12 and below",
+        "5+ years’ experience in Java servlets and filters",
+        "Expert understanding of RESTful web services/APIs",
+        "Expert understanding of popular Object Relational Mapping frameworks, especially JPA/Hibernate and Entity Framework",
+        "5+ years’ experience in HTML/CSS",
+        "Proficient understanding of SOAP web services",
+        "Proficient understanding of designing and implementing relational databases, especially Oracle versions 18 and below",
+        "knowledge of Oracle PL/SQL",
+        "Expert understanding of Spring MVC, especially Rest Controllers",
+        "Proficient understanding of Spring IoC",
+        "Proficient understanding of Scrum/Agile projects",
+        "Proficient in Jira",
+        "Proficient in Git and GitHub",
+        "Proficient in Maven",
+        "Proficient in usage of Eclipse and/or other IDE",
+        "Proficient with Jenkins continuous integration",
+        "knowledge of Section 508 compliance",
+        "knowledge of AWS cloud technology"
+      ],
+      "Responsibilities": [
+        "In this role, you will support a key customer and one of its major systems and will perform full-stack development as well as be involved in the design and architecture of the web system",
+        "You will be involved in new development as well as major enhancements and maintenance of websites and applications in an effort to modernize a system/application that provides services to the citizens of Utah",
+        "Duties & Responsibilities:Full-stack development",
+        "System and application design and architecture"
+      ],
+      "Benefits": ["Salary Range: 125K – 150K"]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Dice",
+    "employer_logo": "https://s24.q4cdn.com/133441296/files/images/brands/dice.png",
+    "employer_website": null,
+    "employer_company_type": "Information",
+    "job_publisher": "LinkedIn",
+    "job_id": "x0zCsyxWYygPleFzAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Angular Developer(Power BI Exp)--Hybrid--W2 profiles only",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/angular-developer-power-bi-exp-hybrid-w2-profiles-only-at-dice-3744576392",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5953,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/angular-developer-power-bi-exp-hybrid-w2-profiles-only-at-dice-3744576392",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Aorton Inc, is seeking the following. Apply via Dice today!\n\nRole: Angular Developer\n\nLocation: Westlake, Texas/Durham, NC\n\nJob Description:\n• Angular Developer will configure, develop, and debug reports in Power BI and analyze data\n• Write SQL queries and functions in a sophisticated Datawarehouse & Relational database environment\n• Update and track tasks in JIRA\n• Build, update, and maintain user documentation for software-based projects and products\n• As an Angular Developer, you will interact effectively with business partners to understand business requirements and assist in generation of technical requirements\n• Participate in architecture, technical design, and product implementation discussions\n\nAngular Developer(Power BI Exp)--Hybrid--W2 profiles only",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697795928,
+    "job_posted_at_datetime_utc": "2023-10-20T09:58:48.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=x0zCsyxWYygPleFzAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T09:58:48.000Z",
+    "job_offer_expiration_timestamp": 1700387928,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "Angular Developer will configure, develop, and debug reports in Power BI and analyze data",
+        "Write SQL queries and functions in a sophisticated Datawarehouse & Relational database environment",
+        "Update and track tasks in JIRA",
+        "Build, update, and maintain user documentation for software-based projects and products",
+        "As an Angular Developer, you will interact effectively with business partners to understand business requirements and assist in generation of technical requirements",
+        "Participate in architecture, technical design, and product implementation discussions"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "519130",
+    "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+  },
+  {
+    "employer_name": "AdminaHealth®",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoj7UNmePDvNVo46Hv2ivO-aQCdnen3m0iCA7&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "L7Hu2QrsmWstHc8FAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Sr. Angular Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-angular-developer-at-adminahealth%C2%AE-3744140403",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.654,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-angular-developer-at-adminahealth%C2%AE-3744140403",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Overview: As a Senior Angular Developer on our Agile development team, you will be responsible for designing and developing web applications using Angular 14. This will involve collaborating with cross-functional teams to define, design, and ship new features, as well as writing clean, maintainable, and efficient code.\n\nYou will also be responsible for troubleshooting and debugging applications, as well as staying up-to-date with emerging technologies and industry best practices. In addition, you will be expected to mentor junior developers on the team and share your knowledge and expertise with them.\n\nAs a senior member of the team, you will also be expected to contribute to the overall direction and strategy of the development effort, and to take on additional leadership responsibilities as needed. This may involve participating in planning and estimation sessions, helping to prioritize work, and working closely with other team members to ensure that the team is meeting its goals and delivering high-quality software.\n\nResponsibilities:\n• Perform analysis of requirements and design\n• Work in an Agile team process, collaborating closely with fellow developers\n• Show drive and interest in learning new systems, applications, technologies\n• Supports and maintains existing websites, and web applications, troubleshooting issues as they arise and recommending improvements\n• Ability to provide basic server support as it relates to web development (IIS, DNS, permissions) and work with our networking team for more advanced server configuration/support\n• Participate in development tasks for cyclical business activities such as month end and year end close, business forecast cycles\n• Work on day-to-day assignments under direct supervision\n• Work in collaboration with other team members in the Workforce Management Information Services Office to maintain, enhance and extend functionality for various Human Resources applications\n\nPreferred Skill and Experience:\n• Undergraduate degree, technical certificate, or relevant industry experience.\n• Angular v14, HTML/CSS, Bootstrap/UI Framework, JavaScript/TypeScript, using REST API, NPM, and Angular CLI\n• Agile experience, including sprint cadence, including using ticketing system like Jira or DevOps.\n• Git / source control\n• Converting older Angular version to 14 a bonus\n• Familiarity (high-level) with HIPAA, HITRUST, NIST, PCI and FedRamp compliance requirements is helpful, but not necessarily required\n\nCompensation, Perks, & Benefits:\n• Competitive Compensation\n• Medical/Dental/Vision/Life/Pet Insurance\n• LTD, STD, and 401(k)\n• Generous Paid Time Off Policy\n• Exciting Entrepreneurial Work Environment\n\nAffirmative Action / Equal Opportunity Employer: AdminaHealth does not discriminate in any aspect of employment on the basis of race, color, religion, national origin, ancestry, gender, sexual orientation, gender identity and/or expression, age, veteran status, disability, or any other characteristic protected by federal, state, or local employment discrimination laws where AdminaHealth does business.\n\nDisclaimer: This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required. Duties, responsibilities, and activities may change, or new ones may be assigned at any time with or without notice.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697734489,
+    "job_posted_at_datetime_utc": "2023-10-19T16:54:49.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "retirement_savings",
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=L7Hu2QrsmWstHc8FAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T16:54:49.000Z",
+    "job_offer_expiration_timestamp": 1700326489,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "Agile Development",
+      "Angular",
+      "HTML/CSS Validation",
+      "Bootstrap (Framework)",
+      "JavaScript",
+      "TypeScript",
+      "REST APIs",
+      "npm",
+      "User Interface Design",
+      "Jira"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "Job Overview: As a Senior Angular Developer on our Agile development team, you will be responsible for designing and developing web applications using Angular 14",
+        "This will involve collaborating with cross-functional teams to define, design, and ship new features, as well as writing clean, maintainable, and efficient code",
+        "You will also be responsible for troubleshooting and debugging applications, as well as staying up-to-date with emerging technologies and industry best practices",
+        "In addition, you will be expected to mentor junior developers on the team and share your knowledge and expertise with them",
+        "As a senior member of the team, you will also be expected to contribute to the overall direction and strategy of the development effort, and to take on additional leadership responsibilities as needed",
+        "This may involve participating in planning and estimation sessions, helping to prioritize work, and working closely with other team members to ensure that the team is meeting its goals and delivering high-quality software",
+        "Perform analysis of requirements and design",
+        "Work in an Agile team process, collaborating closely with fellow developers",
+        "Show drive and interest in learning new systems, applications, technologies",
+        "Supports and maintains existing websites, and web applications, troubleshooting issues as they arise and recommending improvements",
+        "Ability to provide basic server support as it relates to web development (IIS, DNS, permissions) and work with our networking team for more advanced server configuration/support",
+        "Participate in development tasks for cyclical business activities such as month end and year end close, business forecast cycles",
+        "Work on day-to-day assignments under direct supervision",
+        "Work in collaboration with other team members in the Workforce Management Information Services Office to maintain, enhance and extend functionality for various Human Resources applications"
+      ],
+      "Benefits": [
+        "Competitive Compensation",
+        "Medical/Dental/Vision/Life/Pet Insurance",
+        "LTD, STD, and 401(k)",
+        "Generous Paid Time Off Policy",
+        "Exciting Entrepreneurial Work Environment"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "Z7tyEtbmAK_9f-DqAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Angular Developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Angular-Developer_~01ea4771587387e33a/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Angular-Developer_~01ea4771587387e33a/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Angular Developer\n\nDuration-3 to 6 months (*remote*)\n\nExperience-8 years\n\nAngular developer with 8+ Years of Experience.\n\nI'd need the ratings from candidate in the below format along with an updated resume.\n\nTechnical\n\nCommunication -\n\nTechnical -\n\nAngular 9 -\n\nAngular js -\n\nDatabase -\n\nAPI -\n\nTeam management-\n\nUnit testing -",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697796771,
+    "job_posted_at_datetime_utc": "2023-10-20T10:12:51.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=Z7tyEtbmAK_9f-DqAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 3,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "AngularJS",
+      "Angular 9",
+      "API",
+      "Database",
+      "Unit Testing"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Experience-8 years",
+        "Angular developer with 8+ Years of Experience",
+        "I'd need the ratings from candidate in the below format along with an updated resume"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Veracity Solutions",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxdCbs0qeHI68hoGpzWSehtnYQGjp_0DHauQIq&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "GSRhAsKicxqz7u_mAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Frontend Developer-Angular",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-angular-at-veracity-solutions-3742823989",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6511,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/frontend-developer-angular-at-veracity-solutions-3742823989",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Type\n\nContract\n\nDescription\n\nRemote Position - 3 month contract with the potential to extend\n\nOverview\n\nVeracity Solutions is an IT professional services company focused on helping companies execute their digital transformation projects. We use the latest technologies along with the skill and expertise of our people to transform our clients in tech, healthcare, retail, finance, and more, stay relevant and flourish in the digital era. At Veracity Solutions, we offer a respectful, fun, collaborative, and positive work culture that encourages growth, innovation, hard work, and a happy work-life balance with competitive pay.\n\nWorking context:\n• Collaborate with UX designers and other front-end engineers to define the shared resources (colors, styles, components, etc.) necessary to implement a common design system for front-end applications.\n• Build the requisite shared resources for the design system and demonstrate them with a reference SPA. that can be cloned as the starting point for future apps.\n• Collaborate with other front-engineers through code reviews and be responsive to feedback.\n\nDiversity Statement:\n\nAt Veracity Solutions, we commit to candor with compassion, a client-first approach, continuous improvement individually, in our teams and as a company, deliver results with a “wow,” and reward employees who are humble, hungry, and people smart. We believe that diversity fuels innovation. We are committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, or protected veteran status. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance.\n\nRequirements\n\nRequired Qualifications\n• 8+ years’ experience in software engineering, focused on front-end web application development.\n• 2+ Years of experience delivering software in the cloud.\n• Deep experience building web-based applications with Angular and RESTful API’s.\n• Experience with building custom Angular components.\n• Comfortable working in service oriented and microservices architectures.\n• Comfortable building new features in a SPA environment.\n• Proven ability to translate wireframes to HTML, CSS, and JavaScript\n• Proactive individual who can work independently.\n\nPreferred Qualifications\n• 8+ years’ experience in software engineering\n• 5+ years of experience in front-end web development.\n• 3+ years of experience in Angular, including Angular 14 or above.\n• 3+ years of experience with microservices architecture.\n• 2+ Years of experience delivering software in the cloud.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697734241,
+    "job_posted_at_datetime_utc": "2023-10-19T16:50:41.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=GSRhAsKicxqz7u_mAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T16:50:41.000Z",
+    "job_offer_expiration_timestamp": 1700326241,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 96,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "8+ years’ experience in software engineering, focused on front-end web application development",
+        "2+ Years of experience delivering software in the cloud",
+        "Deep experience building web-based applications with Angular and RESTful API’s",
+        "Experience with building custom Angular components",
+        "Comfortable working in service oriented and microservices architectures",
+        "Comfortable building new features in a SPA environment",
+        "Proven ability to translate wireframes to HTML, CSS, and JavaScript",
+        "Proactive individual who can work independently"
+      ],
+      "Responsibilities": [
+        "Collaborate with UX designers and other front-end engineers to define the shared resources (colors, styles, components, etc.) necessary to implement a common design system for front-end applications",
+        "Build the requisite shared resources for the design system and demonstrate them with a reference SPA",
+        "that can be cloned as the starting point for future apps",
+        "Collaborate with other front-engineers through code reviews and be responsive to feedback"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Vertisystem",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3f_w9jFVSq0xLaxMXebEgZJujG0xzeBTEb_wM&s=0",
+    "employer_website": "http://www.vertisystem.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "mvTX6w0qfEel7ZBVAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Senior Angular Web Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-angular-web-developer-at-vertisystem-3744432399",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6485,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-angular-web-developer-at-vertisystem-3744432399",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: Senior Angular Web Developer\n\nDuration: 12+ Months Contract role with Possible extension\n\nLocation: Onsite Role at Salt Lake City, UT & Only Onsite Interview\n\nPay Rate: Open- Bid System\n\nThis position will be a full-stack developer involved in the design and architecture of the web system.\n\nRequired Qualifications\n\n• Expert in Angular versions 12 and above\n\n• Expert understanding of Java fundamentals, versions 12 and below\n\n• Expert understanding of Java servlets and filters\n\n• Expert understanding of RESTful web services/APIs\n\n• Expert understanding of popular Object Relational Mapping frameworks, especially JPA/Hibernate and Entity Framework\n\n• Proficient understanding of SOAP web services\n\n• Proficient in CICD methodologies and automated deployment pipelines\n\n• Proficient understanding of designing and implementing relational databases, especially Oracle versions 18 and below\n\n• knowledge of Oracle PL/SQL\n\n• Expert understanding of Spring MVC, especially Rest Controllers\n\n• Proficient understanding of Spring IoC\n\n• Proficient understanding of Scrum/Agile projects\n\n• Proficient in Jira\n\n• Proficient in Git and GitHub\n\n• Proficient in Maven\n\n• Proficient in the usage of Eclipse and/or other IDE\n\n• Proficient with Jenkins continuous integration\n\n• knowledge of Section 508 compliance\n\n• knowledge of AWS cloud technology",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697750141,
+    "job_posted_at_datetime_utc": "2023-10-19T21:15:41.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=mvTX6w0qfEel7ZBVAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T21:15:40.000Z",
+    "job_offer_expiration_timestamp": 1700342140,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Expert in Angular versions 12 and above",
+        "Expert understanding of Java fundamentals, versions 12 and below",
+        "Expert understanding of Java servlets and filters",
+        "Expert understanding of RESTful web services/APIs",
+        "Expert understanding of popular Object Relational Mapping frameworks, especially JPA/Hibernate and Entity Framework",
+        "Proficient understanding of SOAP web services",
+        "Proficient in CICD methodologies and automated deployment pipelines",
+        "Proficient understanding of designing and implementing relational databases, especially Oracle versions 18 and below",
+        "knowledge of Oracle PL/SQL",
+        "Expert understanding of Spring MVC, especially Rest Controllers",
+        "Proficient understanding of Spring IoC",
+        "Proficient understanding of Scrum/Agile projects",
+        "Proficient in Jira",
+        "Proficient in Git and GitHub",
+        "Proficient in Maven",
+        "Proficient in the usage of Eclipse and/or other IDE",
+        "Proficient with Jenkins continuous integration",
+        "knowledge of Section 508 compliance",
+        "knowledge of AWS cloud technology"
+      ],
+      "Responsibilities": [
+        "This position will be a full-stack developer involved in the design and architecture of the web system"
+      ]
+    },
+    "job_job_title": "Senior",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "ICF",
+    "employer_logo": "https://www.icf.com/-/media/images/icf/logos/icf-logos/icf_logo.png?as=0&dmc=0&thn=0&rev=199d85e379bc4fedb2e9aeb182bfb7fd",
+    "employer_website": "https://www.icf.com",
+    "employer_company_type": "Consulting",
+    "job_publisher": "BeBee",
+    "job_id": "Kz5kQzuDNvOqSCa8AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Lead Angular Developer",
+    "job_apply_link": "https://us.bebee.com/job/20231020-dfdc6eff6f0b79b21d571714bb0ab54a",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.4913,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/20231020-dfdc6eff6f0b79b21d571714bb0ab54a",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-835-20231020-dfc4d3a3187ecd4f423c247d5422b4f7",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido.com",
+        "apply_link": "https://us.jobrapido.com/jobpreview/3052349104",
+        "is_direct": false
+      }
+    ],
+    "job_description": "*We are open to supporting 100% remote work anywhere within the U.S.\n\nICF's Digital Modernization division is a rapidly growing, entrepreneurial, technology department, seeking a Lead Angular Developer to support upcoming needs with our federal customers.\n\nOur Digital Modernization division is an information technology and management consulting department that offers integrated, strategic solutions to its public and private-sector clients.\n\nICF has the expertise, agility, and commitment to design, build, and operate high-performance IT engines to support all aspects of our client's business.\n\nThe development lead will manage the full lifecycle of development for modifications to large, complex, mission critical enterprise applications, develop and enforce coding standards and best practices, collaborate with a 4–6-person development team, and follow solutions as they are developed through production deployment while helping to mentor other developers.\nThe Work\nYou will be part of an established team supporting our General Services Administration (GSA) client in Washington, DC.\n\nThe ICF team at GSA performs custom software development to modernize the legacy platform into a cloud platform using modular design standards.\n\nThe team works closely with clients and other contractors to ensure the performance and reliability of the Integrated Award Environment (IAE) public-facing, mission-critical applications.\nKey Responsibilities\n• Participate in the full software development life cycle (design, development, testing, deployment, and documentation)\n• Provide technical leadership to teammates through coaching, mentoring, and pair programming\n• Manage the delivery of multiple simultaneous development projects from design through deployment\n• Work closely with the scrum master and project manager to report and manage any technical issues and risks\n• Ensure high standards of code quality by enforcing adherence to best practices\n• Lead the design and architecture of new applications\n• Participate in scrum ceremonies and provide feedback on user stories/acceptance criteria, story point estimates, and sprint planning\n• Peer review team members' development and share constructive criticism\n• Learn and adopt new technologies in a short period of time as required\n• Develop solutions for complex problems as required\n• Coordinate with other development teams and contractors to work on program-level initiatives, resolve issues and dependencies\n• Communicate with the customer to provide progress status updates and propose technical solutions\nRequired Skills and ExperienceFront End\n• 8 years of experience as a full-stack Java developer, 3 in Angular\n• Proficiency with HTML, CSS, JavaScript, JQuery, AJAX\n• Experience and a solid understanding of HTTP protocols and REST API\n• Excellent knowledge of browser troubleshooting and debugging practices and techniques\n• Experience with responsive and adaptive design\n• Experience with angular unit testing\nBack End\n• 3 years of Java expertise\n• Experience with the Spring Framework and Spring Boot\n• Experience with Hibernate or some other ORM; ODBC, JDBC\n• Experience with Maven\n• Experience with unit testing with JUnit or similar framework\n• Knowledge of common data structures and algorithm\nInfrastructure/Process\n• Experience with Git and branching/merging techniques\n• Experience with CI/CD frameworks and tools such as Jenkins, Bamboo, Bitbucket\n• Experience with unit testing via JUnit or similar framework\n• US Citizenship required (required by the federal government for this position).\nMust be able to obtain Public Trust clearance.\nDesired Skills and Experience\n• Experience with micro frontend and micro services\n• Experience with Angular Formly components\n• Understanding of 508 compliance concepts\n• Experience with JMeter and Selenium\n• Experience with Java-based MVC frameworks: Struts, Seam, Spring MVC\n• Experience with AngularJS (version 2)\n• Experience with Scaled Agile Framework (SAFe) principles and ceremonies\n\nThis is an outstanding opportunity to work with talented and passionate individuals and to grow with a firm that believes in nurturing talent and developing long-term career success.\n\nICF is a purpose driven company with a strong culture and underlying values that prize diversity, opportunity, equality, and respect.\n\nOur core values include Embracing Differences, and we seek candidates who are passionate about building a culture that encourages, embraces and hires dimensions of differences.\n#Indeed\n#LI-CC1\nWorking at ICF\n\nWorking at ICF means applying a passion for meaningful work with intellectual rigor to help solve the leading issues of our day.\nSmart, compassionate, innovative, committed, ICF employees tackle unprecedented challenges to benefit people, businesses, and governments around the globe. We believe in collaboration, mutual respect, open communication, and opportunity for growth.\nWe can only solve the world's toughest challenges by building an inclusive workplace that allows everyone to thrive.\n\nWe are an equal opportunity employer, committed to hiring regardless of any protected characteristic, such as race, ethnicity, national origin, color, sex, gender identity/expression, sexual orientation, religion, age, disability status, or military/veteran status.\nTogether, our employees are empowered to share their expertise and collaborate with others to achieve personal and professional goals. For more information, please read our EEO & AA policy ) .\nCOVID-19 Policy: New or prospective U.S. employees must provide proof of complete vaccination on the date of their commencement of employment.\n\nIf selected for employment, you will provide proof of your full vaccination status, defined as vaccinated two weeks after receiving the requisite number of doses of a COVID-19 vaccine approved or authorized for emergency use by the FDA.\n\nReasonable Accommodations are available, including, but not limited to, for disabled veterans, individuals with disabilities, and individuals with sincerely held religious beliefs, in all phases of the application and employment process.\nTo request an accommodation please email and we will be happy to assist.\n\nAll information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.\nRead more about non-discrimination: EEO is the law \\_files/employers/poster\\_screen\\_reader\\) and Pay Transparency Statement \\_English\\) .\nVirginia Remote Office (VA99)",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697796923,
+    "job_posted_at_datetime_utc": "2023-10-20T10:15:23.000Z",
+    "job_city": "Jefferson City",
+    "job_state": "MO",
+    "job_country": "US",
+    "job_latitude": 38.576702,
+    "job_longitude": -92.173515,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=Kz5kQzuDNvOqSCa8AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-10-28T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1698451200,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 96,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "8 years of experience as a full-stack Java developer, 3 in Angular",
+        "Proficiency with HTML, CSS, JavaScript, JQuery, AJAX",
+        "Experience and a solid understanding of HTTP protocols and REST API",
+        "Excellent knowledge of browser troubleshooting and debugging practices and techniques",
+        "Experience with responsive and adaptive design",
+        "Experience with angular unit testing",
+        "3 years of Java expertise",
+        "Experience with the Spring Framework and Spring Boot",
+        "Experience with Hibernate or some other ORM; ODBC, JDBC",
+        "Experience with Maven",
+        "Knowledge of common data structures and algorithm",
+        "Infrastructure/Process",
+        "Experience with Git and branching/merging techniques",
+        "Experience with CI/CD frameworks and tools such as Jenkins, Bamboo, Bitbucket",
+        "Experience with unit testing via JUnit or similar framework",
+        "US Citizenship required (required by the federal government for this position)",
+        "Must be able to obtain Public Trust clearance"
+      ],
+      "Responsibilities": [
+        "The development lead will manage the full lifecycle of development for modifications to large, complex, mission critical enterprise applications, develop and enforce coding standards and best practices, collaborate with a 4–6-person development team, and follow solutions as they are developed through production deployment while helping to mentor other developers",
+        "The team works closely with clients and other contractors to ensure the performance and reliability of the Integrated Award Environment (IAE) public-facing, mission-critical applications",
+        "Participate in the full software development life cycle (design, development, testing, deployment, and documentation)",
+        "Provide technical leadership to teammates through coaching, mentoring, and pair programming",
+        "Manage the delivery of multiple simultaneous development projects from design through deployment",
+        "Work closely with the scrum master and project manager to report and manage any technical issues and risks",
+        "Ensure high standards of code quality by enforcing adherence to best practices",
+        "Lead the design and architecture of new applications",
+        "Participate in scrum ceremonies and provide feedback on user stories/acceptance criteria, story point estimates, and sprint planning",
+        "Peer review team members' development and share constructive criticism",
+        "Learn and adopt new technologies in a short period of time as required",
+        "Develop solutions for complex problems as required",
+        "Coordinate with other development teams and contractors to work on program-level initiatives, resolve issues and dependencies",
+        "Communicate with the customer to provide progress status updates and propose technical solutions"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541613",
+    "job_naics_name": "Marketing Consulting Services"
+  },
+  {
+    "employer_name": "InfoStride",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "LFZE-CGInOrx5YYkAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Senior Angular Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-angular-developer-at-infostride-3742711451",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6562,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-angular-developer-at-infostride-3742711451",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Senior Angular developer (NOT OPEN FOR C2C)\n\nRemote\n\nContract\n\nDescribe the must have technical skills/experience (ask for alternative/tool/version) of the position in priority order:\n• Angular CLI\n• HTML and CSS\n• Angular 14+\n• TypeScript\n• RxJS\n• Git source code repository\n• JavaScript\n• 8+ Years\n• Banking a huge Plus\n\nTell me about some soft skills that would make a candidate successful in this role:\n• Organized\n• Communicate well across many stakeholders across the organization\n• High level of autonomy\n• High level of curiosity - show proof of failures and what processes",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697639817,
+    "job_posted_at_datetime_utc": "2023-10-18T14:36:57.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=LFZE-CGInOrx5YYkAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T14:36:56.000Z",
+    "job_offer_expiration_timestamp": 1700231816,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "HTML and CSS",
+        "JavaScript",
+        "8+ Years",
+        "Banking a huge Plus",
+        "Communicate well across many stakeholders across the organization",
+        "High level of autonomy",
+        "High level of curiosity - show proof of failures and what processes"
+      ]
+    },
+    "job_job_title": "Senior",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Apexon",
+    "employer_logo": "https://www.dynamonortheast.co.uk/wp-content/uploads/2022/09/Apexon-Logo-Colour-CMYK.png",
+    "employer_website": "http://www.apexon.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "z3mRcI8cM2yZtT0EAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Sr. Angular Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-angular-developer-at-apexon-3741487697",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6562,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-angular-developer-at-apexon-3741487697",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description\n\nPosition at Apexon\n• Hands-on work experience in AngularJS and Angular2/4/6\n• Hands-on experience in latest JavaScript features\n• Knowledge of various Java script frameworks and libraries is a plus\n• Thorough understanding of HTML5, CSS3, and Responsive web development\n• Work experience in Java is a plus, not a must if they understand Objects and classes\n\nRequired Skills\n• 6+ years Java enterprise web site development experience\n• 4+ years intensive experience with Responsive web site development for multiple devices\n• 4+ years intensive experience in JavaScript frameworks and preferably Angular JS\n• 4+ years intensive experience in Angular2/4/5/6\n• 4+ years intensive experience in REST APIs\n• 4+ years’ experience in TypeScript\n• 3+ years HTML5/CSS3\n• 3+ years Bootstrap or equal\n• Good understanding of web graphic design, layout, typography, and iconography\n• Experience with MVC patterned applications using JavaScript frameworks (Angular) and MVVM\n• Effective in team setting or as individual contributor\n• Ability to multi-task\n• Strong documentation skills\n• Solid communication skills (written/verbal)\n\nPreferred Skills\n• Functional Programming\n• Progressive enhancement\n• Service Workers\n• Web portal or content management\n• Axure/Balsamiq, Photoshop\n• Java\n\nDeliverables\n• New enterprise web application using responsive design\n• Enhancements to an existing enterprise public facing web application using responsive design\n\nOther\n• Experience in the Health and Human Services\n• Candidates with prior Deloitte Experience will be highly regarded",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697583500,
+    "job_posted_at_datetime_utc": "2023-10-17T22:58:20.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=angular+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=angular+developer&htidocid=z3mRcI8cM2yZtT0EAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-16T22:58:20.000Z",
+    "job_offer_expiration_timestamp": 1700175500,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 72,
+      "experience_mentioned": true,
+      "experience_preferred": true
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Hands-on experience in latest JavaScript features",
+        "Thorough understanding of HTML5, CSS3, and Responsive web development",
+        "6+ years Java enterprise web site development experience",
+        "4+ years intensive experience with Responsive web site development for multiple devices",
+        "4+ years intensive experience in JavaScript frameworks and preferably Angular JS",
+        "4+ years intensive experience in Angular2/4/5/6",
+        "4+ years intensive experience in REST APIs",
+        "4+ years’ experience in TypeScript",
+        "3+ years HTML5/CSS3",
+        "3+ years Bootstrap or equal",
+        "Good understanding of web graphic design, layout, typography, and iconography",
+        "Experience with MVC patterned applications using JavaScript frameworks (Angular) and MVVM",
+        "Effective in team setting or as individual contributor",
+        "Ability to multi-task",
+        "Strong documentation skills",
+        "Solid communication skills (written/verbal)",
+        "Experience in the Health and Human Services",
+        "Candidates with prior Deloitte Experience will be highly regarded"
+      ],
+      "Responsibilities": [
+        "Enhancements to an existing enterprise public facing web application using responsive design"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  }
+]

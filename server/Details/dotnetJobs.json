@@ -1,0 +1,743 @@
+[
+  {
+    "employer_name": "Domino Technologies, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR26a4oVCVJmuok48okjltjPS6I0U8-dV6g4SeH&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "ApYuv5KUYtAzbO-TAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-domino-technologies-inc-3744169971",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6593,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-domino-technologies-inc-3744169971",
+        "is_direct": false
+      }
+    ],
+    "job_description": ".NET Architect Position For Your Consideration\n\nBecome a member of a growing team of Information Technology professionals making an impact and providing solutions for Government and Commercial clients since 1996 – Join the Domino Tech Team!\n\nThe Position:\n\nClient: Commonwealth of Pennsylvania – General Government Delivery Center (GGDC)\n\nPosition Title: GGDC – .NET Architect FA1 (723150)\n\nLocation: Remote Off-Site with Client in Harrisburg, PA\n\nDuration: Initial term through 06/30/2023 (+ Annual Renewal in 1-Year Terms)\n\nNote: Position is Remote Off-Site, but candidate must report to Harrisburg to receive issued equipment. Candidate must go through CJIS certification in addition to the normal PATCH background check.\n\nThe General Government Delivery Center (GGDC) is seeking a .NET Architect to perform the following;\n\n- Provide support to the systems development teams by providing highly technical expertise on various development technologies.\n\n- Participate in design reviews and troubleshooting sessions within various development teams.\n\n- Work with the business and technical resource teams, understand the business requirements and develop technical strategies/solutions that align with business objectives.\n\n- Work with development teams to ensure applications properly adhere to internal and external standards and best practices.\n\n- Create, implement, consume, and maintain Web Service interfaces.\n\n- Provide software architectural assessment and suggest best practices implementation.\n\n- Maintain proper development and support documentations.\n\nThe Preferred Skills and Experience:\n\n- 10+ Years: Experience in designing and implementing large and high-performance internet-facing web applications\n\n- 5+ Years: Experience with .NET development combining .NET Core, MVC, C#, ASP.NET, Razor, and associated Web Development tools\n\n- 5+ Years: Development experience with relational database technologies and programming including SQL Server\n\n- Experience with creating, implementing, consuming, and maintaining Web Services\n\nThe Company:\n\nThe mission of Domino Technologies, Inc. is to provide clients with IT solutions for their individual business processes that lead to strategic market advantages. Since its founding in 1996, the Domino Tech Team has built a solid record of performance working with clients in the Government and Commercial sectors.\n\nThe Perks:\n\n- Excellent Market Salary\n\n- Competitive Benefits\n\n- Paid Holidays and Vacation\n\n- Positive Work-Life Balance\n\nThe Location:\n\nDomino Technologies is based in the Harrisburg area – the capital city of the Commonwealth of Pennsylvania and the county seat of Dauphin County. Located on the east bank of the Susquehanna River, Harrisburg is the anchor of the Susquehanna Valley metropolitan area.\n\nContact Us Today!",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697740403,
+    "job_posted_at_datetime_utc": "2023-10-19T18:33:23.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": ["paid_time_off"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=ApYuv5KUYtAzbO-TAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T18:33:23.000Z",
+    "job_offer_expiration_timestamp": 1700332403,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": false,
+      "professional_certification_mentioned": true
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Candidate must go through CJIS certification in addition to the normal PATCH background check"
+      ],
+      "Responsibilities": [
+        "The General Government Delivery Center (GGDC) is seeking a .NET Architect to perform the following;",
+        "Provide support to the systems development teams by providing highly technical expertise on various development technologies",
+        "Participate in design reviews and troubleshooting sessions within various development teams",
+        "Work with the business and technical resource teams, understand the business requirements and develop technical strategies/solutions that align with business objectives",
+        "Work with development teams to ensure applications properly adhere to internal and external standards and best practices",
+        "Create, implement, consume, and maintain Web Service interfaces",
+        "Provide software architectural assessment and suggest best practices implementation",
+        "Maintain proper development and support documentations"
+      ],
+      "Benefits": [
+        "Excellent Market Salary",
+        "Competitive Benefits",
+        "Paid Holidays and Vacation",
+        "Positive Work-Life Balance"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Brooksource",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkNEKYgaXW907fY4mzINAtEvAQGJBQcYdR3th&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "08DMR-XUu-eHgIjHAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-brooksource-3738851958",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6022,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-brooksource-3738851958",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: .NET Developer (BizTalk Experience Required)\n\nJob Location: Fully Remote\n\n6 Month Contract to Hire (Full time conversion post 6-month contract is preferred)\n\nJob Summary\n\nBrooksource is looking for an experienced BizTalk and .NET developer to join an internal development team focused on application development and business requirement matching. The team they will be allocated to is the Wires Management team as they work to modernize internal enterprise platforms. You will be working on an agile team that is retiring BizTalk and modernizing .NET solutions with significant value in the organization. A developer in this role is ideally coming from an agile environment working within a fast-paced team\n\nJob Requirements\n• Ability to work as an independent, proactive, resourceful, cooperative, and respectful team member\n• Follow established processes including version control and secure coding standards\n• Complete unit testing, including using a de-bugger to identify and correct issues\n• Follow agile development practices\n• Work with Azure DevOps for task tracking, source control, etc.\n• Design, develop, and document new features and bug fixes.\n\nSkill Requirements\n• 4+ Years BizTalk 2016 experience\n• 4+ Years C# .NET experience including Framework 4.x and .NET 6+\n• Solid understanding of secure development practices\n• Knowledge of design patterns and where to use them appropriately\n• Data structures and algorithms knowledge\n• Solid understanding of relational database design\n• Unit Testing\n• Dependency Injection\n• Git\n• Entity Framework and MS-SQL\n• HTML, JavaScript, any modern UI frameworks such as React, Angular, Vue\n• Familiarity with multi-tier/distributed systems\n• Quick learner, self-starter with strong troubleshooting and communication skills\n• Ability to work in team environment\n• Communicate technical direction by creating plans that accurately describe how to\n• Must exhibit a high-level of analytical skills and attention to detail\n\nAdditional Skills\n• Azure – Azure Functions, Logic Apps, Service Bus, App Insights\n• Containerized applications (Docker / Kubernetes)\n• Familiarity with Azure DevOps\n• Test driven development (TDD)\n• EDI\n\nEducation Requirements:\n• Bachelor’s Degree in Computer Science\n• Comparable IT industry experience will be considered in lieu of a degree and certifications\n\nAbout Eight Eleven\n\nAt Eight Eleven, our business is people. Relationships are at the center of what we do. A successful partnership is only as strong as the relationship built. We’re your trusted partner for IT hiring, recruiting and staffing needs.\n\nFor over 20 years, Eight Eleven has established and maintained relationships that are designed to meet your IT staffing needs. Whether it’s contract, contract-to-hire, or permanent placement work, we customize our search based upon your company's unique initiatives, culture and technologies. With our national team of recruiters placed at 28 major hubs around the nation, Eight Eleven finds the people best-suited for your business. When you work with us, we work with you. That’s the Eight Eleven promise.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697661495,
+    "job_posted_at_datetime_utc": "2023-10-18T20:38:15.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=08DMR-XUu-eHgIjHAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T20:38:15.000Z",
+    "job_offer_expiration_timestamp": 1700253495,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 48,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": true
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Ability to work as an independent, proactive, resourceful, cooperative, and respectful team member",
+        "4+ Years BizTalk 2016 experience",
+        "4+ Years C# .NET experience including Framework 4.x and .NET 6+",
+        "Solid understanding of secure development practices",
+        "Knowledge of design patterns and where to use them appropriately",
+        "Data structures and algorithms knowledge",
+        "Solid understanding of relational database design",
+        "Unit Testing",
+        "Dependency Injection",
+        "Git",
+        "Entity Framework and MS-SQL",
+        "HTML, JavaScript, any modern UI frameworks such as React, Angular, Vue",
+        "Familiarity with multi-tier/distributed systems",
+        "Quick learner, self-starter with strong troubleshooting and communication skills",
+        "Ability to work in team environment",
+        "Communicate technical direction by creating plans that accurately describe how to",
+        "Must exhibit a high-level of analytical skills and attention to detail",
+        "Azure – Azure Functions, Logic Apps, Service Bus, App Insights",
+        "Containerized applications (Docker / Kubernetes)",
+        "Familiarity with Azure DevOps",
+        "Test driven development (TDD)",
+        "Bachelor’s Degree in Computer Science",
+        "Comparable IT industry experience will be considered in lieu of a degree and certifications"
+      ],
+      "Responsibilities": [
+        "The team they will be allocated to is the Wires Management team as they work to modernize internal enterprise platforms",
+        "You will be working on an agile team that is retiring BizTalk and modernizing .NET solutions with significant value in the organization",
+        "A developer in this role is ideally coming from an agile environment working within a fast-paced team",
+        "Complete unit testing, including using a de-bugger to identify and correct issues",
+        "Follow agile development practices",
+        "Design, develop, and document new features and bug fixes"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "NLB Services",
+    "employer_logo": "https://images.comparably.com/companies/next-level-business-services-inc",
+    "employer_website": "http://www.nlbservices.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "3vR6eMtRseetm3arAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-nlb-services-3742496722",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.597,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-nlb-services-3742496722",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Sr. No Mandatory Skills Expected Skill Level\n• C# (VB.net NOT REQUIRED) 4\n• General AWS Exp 3\n• Python 3\n• advanced MySQL/Postgres 3\n• API Development 2\n• Secure programming 2\n• Networking Security 2\n\nSr. No Nice To have Skills Expected Skill Level\n\n1 AWS Lambda, AWS Glue, AWS ECS, AWS Faregate,\n\n2 2 DynamoDB 2\n\n3 APIGEE 2",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697636799,
+    "job_posted_at_datetime_utc": "2023-10-18T13:46:39.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=3vR6eMtRseetm3arAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T13:46:38.000Z",
+    "job_offer_expiration_timestamp": 1700228798,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "C# (VB.net NOT REQUIRED) 4",
+        "Python 3",
+        "Networking Security 2",
+        "Sr. No Nice To have Skills Expected Skill Level"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "SysTechCorp Inc",
+    "employer_logo": "https://media.licdn.com/dms/image/C4E0BAQF4_89WMJ2_-g/company-logo_200_200/0/1558725043978?e=2147483647&v=beta&t=pHGfqcDMVVwQVmX2H6bGzVX-lKp3UkcYTui39PS_B3g",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "Y_85RdJGXzpu2C8EAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-systechcorp-inc-3742924753",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.647,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-systechcorp-inc-3742924753",
+        "is_direct": false
+      }
+    ],
+    "job_description": "• Total required resources\n• Skill set required.\n• Should have strong understanding of developing APIs using .NET Core 6.0\n• MUST know to develop reusable library that can be used in multiple APIs.\n• Hands-on experience in SQL development using Stored Procedures.\n• Hands-on experience in developing applications in React with state management using Redux.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697653198,
+    "job_posted_at_datetime_utc": "2023-10-18T18:19:58.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=Y_85RdJGXzpu2C8EAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T18:19:57.000Z",
+    "job_offer_expiration_timestamp": 1700245197,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Should have strong understanding of developing APIs using .NET Core 6.0",
+        "MUST know to develop reusable library that can be used in multiple APIs",
+        "Hands-on experience in SQL development using Stored Procedures",
+        "Hands-on experience in developing applications in React with state management using Redux"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Insight Global",
+    "employer_logo": "https://images.squarespace-cdn.com/content/5f7f984c3ca20d1d55b276f7/1619793549819-L54X3W9Z5RD277UPNH9S/IGLogoPublic.png?content-type=image%2Fpng",
+    "employer_website": "http://www.insightglobal.com",
+    "employer_company_type": "Staffing",
+    "job_publisher": "LinkedIn",
+    "job_id": "jSXgzFYZ74LyPO8dAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Remote .NET Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/remote-net-developer-at-insight-global-3739439864",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5977,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/remote-net-developer-at-insight-global-3739439864",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Required Skills and Experience\n\n- 10+ years' experience in designing and implementing large and high-performance internet-facing web applications.\n\n- 5+ years' experience with .NET development combining .NET Core, MVC, C#, ASP.NET, Razor, and associated Web Development tools.\n\n- 5+ years' development experience with relational database technologies and programming including SQL Server.\n\n- Experience with creating, implementing, consuming, and maintaining Web Services.\n\nJob Description\n\nOne of Insight Global's clients is looking for a .Net Developer to join their team. This role will be remote, but candidates must reside in the state of Pennsylvania. Job responsibilities include creating, implementing, consuming, and maintaining Web Service interfaces. This resource will also provide software architectural assessment and suggest best practices implementation.\n\n7 MONTH CONTRACT ON W2",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697722022,
+    "job_posted_at_datetime_utc": "2023-10-19T13:27:02.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=jSXgzFYZ74LyPO8dAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T13:27:02.000Z",
+    "job_offer_expiration_timestamp": 1700314022,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "10+ years' experience in designing and implementing large and high-performance internet-facing web applications",
+        "5+ years' experience with .NET development combining .NET Core, MVC, C#, ASP.NET, Razor, and associated Web Development tools",
+        "5+ years' development experience with relational database technologies and programming including SQL Server",
+        "Experience with creating, implementing, consuming, and maintaining Web Services"
+      ],
+      "Responsibilities": [
+        "This role will be remote, but candidates must reside in the state of Pennsylvania",
+        "Job responsibilities include creating, implementing, consuming, and maintaining Web Service interfaces"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "561311",
+    "job_naics_name": "Employment Placement Agencies"
+  },
+  {
+    "employer_name": "Tanisha Systems, Inc",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTnxzdwZkGIfkULLcFylqAUtVDM6wqzSlaOXe-&s=0",
+    "employer_website": "http://www.tanishasystems.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "ppXssIUot76U-qlqAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Fullstack Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-fullstack-developer-at-tanisha-systems-inc-3739494846",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5829,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-fullstack-developer-at-tanisha-systems-inc-3739494846",
+        "is_direct": false
+      }
+    ],
+    "job_description": "FULLSTACK DEVELOPER(.NET)\n\nREMOTE\n\nFULLTIME\n\nVISA:- H4EAD, Green Card , L2,\n\nJOB DESCRIPTION:-\n\nMUST HAVE :-\n\n1 C# (VB.net NOT REQUIRED)\n\n2 General AWS Exp\n\n3 Python\n\n4 advanced mySQL/Postgres\n\n5 API Development\n\n6 Secure programming\n\n7 Networking Security\n\nNICE TO HAVE\n\n1 AWS Lambda, AWS Glue, AWS ECS, AWS Fargate,\n\n2 DynamoDB\n• 3 APIGEE",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697751643,
+    "job_posted_at_datetime_utc": "2023-10-19T21:40:43.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=ppXssIUot76U-qlqAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T21:40:43.000Z",
+    "job_offer_expiration_timestamp": 1700343643,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "Amazon ECS",
+      "Full-Stack Development",
+      "Skill Development",
+      "API Development",
+      "Amazon Web Services (AWS)",
+      ".NET Framework",
+      "AWS Lambda",
+      "Python (Programming Language)",
+      "AWS Glue",
+      "C#"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "1 C# (VB.net NOT REQUIRED)",
+        "7 Networking Security",
+        "3 APIGEE"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Hash Technologies",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "SimplyHired",
+    "job_id": "hzW05BpciAztIlcZAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Full Stack .Net Developer",
+    "job_apply_link": "https://www.simplyhired.com/job/hvNl9XifOqN0AuVyhEOP7gbnT57GiYHcFxjmuDr4uhm-4B9_aRfePg",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5622,
+    "apply_options": [
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/hvNl9XifOqN0AuVyhEOP7gbnT57GiYHcFxjmuDr4uhm-4B9_aRfePg",
+        "is_direct": false
+      }
+    ],
+    "job_description": "• React experience in the front end\n• React, .NET Core, Azure, Azure Dev Ops\n• React with typescript- must have front end\n• Asp.net core\n• Azure cloud\n• Azure devops to deploy the code experience\n• 9+ years of experience",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697743935,
+    "job_posted_at_datetime_utc": "2023-10-19T19:32:15.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=hzW05BpciAztIlcZAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 108,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Azure devops to deploy the code experience",
+        "9+ years of experience"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "10bits",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "10bits",
+    "job_id": "4xFR75YHK_QTB8yIAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dot Net Developer",
+    "job_apply_link": "https://10bits.com/jobs/dot-net-developer/",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.7764,
+    "apply_options": [
+      {
+        "publisher": "10bits",
+        "apply_link": "https://10bits.com/jobs/dot-net-developer/",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hire Veterans",
+        "apply_link": "https://hireveterans.com/job/8915849/dot-net-developer-location-usa/",
+        "is_direct": false
+      }
+    ],
+    "job_description": "JOB ID 20200501\n\n10 Bits LLC, an Irving, TX-based IT Solutions and Services Company has multiple opening for Dot Net Developer. Job Duties Includes\n• Create, modify, test code and script which allow computer applications to run\n• Design, develop and implement Internet/Intranet applications\n• Work from specialization drawn up by software developers and other individuals\n• Assist developers by analyzing user needs and designing software solutions\n• Develop and write computer programs to store, locate, and retrieve specific documents, data, and information\n• Design and develop using .NET technologies such as: ASP NET, MNC Framework, Visual Studio, JavaScript, jQuery, Angular JS, Ajax, HTML, Bootstrap, ADO.NET, JSON, SSRS, SSIS\n\nRequirements: Master’s degree in Computer Science or Related Field. Send resume to: aditi@10bits.com (Reference: JOB ID 20200501). Travel and relocation possible to various unanticipated client locations throughout the United States. Equal Opportunity Employer.",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1589300518,
+    "job_posted_at_datetime_utc": "2020-05-12T16:21:58.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=4xFR75YHK_QTB8yIAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Requirements: Master’s degree in Computer Science or Related Field"
+      ],
+      "Responsibilities": [
+        "Create, modify, test code and script which allow computer applications to run",
+        "Design, develop and implement Internet/Intranet applications",
+        "Work from specialization drawn up by software developers and other individuals",
+        "Assist developers by analyzing user needs and designing software solutions",
+        "Develop and write computer programs to store, locate, and retrieve specific documents, data, and information",
+        "Design and develop using .NET technologies such as: ASP NET, MNC Framework, Visual Studio, JavaScript, jQuery, Angular JS, Ajax, HTML, Bootstrap, ADO.NET, JSON, SSRS, SSIS"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "TMvmvCS9YjNGk57sAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Dotnet Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Dotnet-Developer_~018784aee5dac6aa82/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Dotnet-Developer_~018784aee5dac6aa82/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Please attach resume\n\nJob Location:- Chennai (only from Tamilnadu) / Bangalore\n\nJD:-\n\nASP.NET MVC developer that will be able to develop and support existing applications. Writing back-end to client-side code, using optimal and efficient technologies, frameworks, and patterns.\n\nEssential skill at problem solving, solution design, and high-quality coding.\n\nSkills:-\n\n· Proficiency in C# |\n\n· Experience using .NET 4.5+ | Core\n\n· Experience in developing ASP.NET MVC | ASP.NET Core MVC + WEB api applications\n\n· knowledge of Entity Framework 6.* | EF Core | ADO.NET\n\n· Proficient knowledge in RDBMS\n\n· Database design including indexes and data integrity if RDBMS is required\n\n· Familiarity with Azure Web Apps | AWS Cloud - if applicable\n\nNote :- Candidate should must have C# , SQL and web Api hands-on experience.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697549901,
+    "job_posted_at_datetime_utc": "2023-10-17T13:38:21.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=TMvmvCS9YjNGk57sAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [".NET Framework", "ASP.NET MVC"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 17,
+    "job_max_salary": 35,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Essential skill at problem solving, solution design, and high-quality coding",
+        "Proficiency in C# |",
+        "Experience using .NET 4.5+ | Core",
+        "Experience in developing ASP",
+        "NET MVC | ASP",
+        "NET Core MVC + WEB api applications",
+        "knowledge of Entity Framework 6.* | EF Core | ADO",
+        "Proficient knowledge in RDBMS",
+        "Database design including indexes and data integrity if RDBMS is required",
+        "Familiarity with Azure Web Apps | AWS Cloud - if applicable",
+        "Note :- Candidate should must have C# , SQL and web Api hands-on experience"
+      ],
+      "Responsibilities": [
+        "Writing back-end to client-side code, using optimal and efficient technologies, frameworks, and patterns"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Next Level Business Services, Inc.",
+    "employer_logo": "https://images.comparably.com/companies/next-level-business-services-inc",
+    "employer_website": "http://www.nlbservices.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "tTd_uKLU_lsPDLrjAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Dotnet Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-next-level-business-services-inc-3738845660",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5952,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/dotnet-developer-at-next-level-business-services-inc-3738845660",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Must Have\n\nASP.NET\n\nWeb Forms\n\nMVC\n\nSQL Server 2014>>2022\n\nVB.NET\n\nGood Communication Skills\n\nNice to have\n\nC#\n\nAWS\n\nOctopus Deploy\n\nCI/CD\n\nWindows Services\n\nHealthcare knowledge",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697657165,
+    "job_posted_at_datetime_utc": "2023-10-18T19:26:05.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=dotnet+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=dotnet+developer&htidocid=tTd_uKLU_lsPDLrjAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T19:26:04.000Z",
+    "job_offer_expiration_timestamp": 1700249164,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": ["VB.NET", "Good Communication Skills"]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  }
+]

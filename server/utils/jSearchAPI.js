@@ -2,8 +2,6 @@ require("dotenv").config();
 const fs = require("fs");
 const axios = require("axios");
 
-const rapid_key = process.env.rapid_key;
-
 //This is how to import a json file for writing into it
 const reactPath_write = "./Details/reactJobs.json";
 const angularPath_write = "./Details/angularJobs.json";
@@ -15,18 +13,20 @@ const goPath_write = "./Details/golangJobs.json";
 const phpPath_write = "./Details/phpJobs.json";
 const dotnetPath_write = "./Details/dotnetJobs.json";
 const othersPath_write = "./Details/otherJobs.json";
+const hotJobsPath_write = "./Details/hotJobs.json";
 
 const path = [
   reactPath_write,
-  angularPath_write,
   vuePath_write,
+  angularPath_write,
   nodePath_write,
   pythonPath_write,
   javaPath_write,
   goPath_write,
   phpPath_write,
   dotnetPath_write,
-  othersPath_write
+  othersPath_write,
+  hotJobsPath_write,
 ];
 
 const queries = [
@@ -40,6 +40,7 @@ const queries = [
   "PHP Developer",
   "DotNet Developer",
   "Software Dev jobs",
+  "hot jobs",
 ];
 
 // write Reacts Jobs into json db helper method
@@ -56,30 +57,52 @@ const jsearhOption = (query) => {
     params: {
       query: query,
       page: "1",
-      num_pages: "2",
+      num_pages: "1",
     },
     headers: {
-      "X-RapidAPI-Key": rapid_key,
+      "X-RapidAPI-Key": process.env.RAPID_KEY,
       "X-RapidAPI-Host": "jsearch.p.rapidapi.com",
     },
   };
 };
 
-// Fetching jobs =require(rapid API once every 24 hours method
-const fetchReact = async () => {
-  const delay = 5000; //5seconds
-  for (let jobType; jobType <= queries.length; jobType++) {
-    try {
-      const response = await axios.request(jsearhOption(jobType));
-      console.log(`Successfully fetch ${queries[jobType]} jobs`);
-      newReactJobs(path[jobType], response.data.data);
-    } catch (error) {
-      console.error("Error: ", error);
-    }
-    await timer(delay);
-  }
+
+// // Fetching jobs require rapid API once every 24 hours method
+// exports.fetchJobs = async (req, res) => {
+//   const delayedLoop = () => {
+//     const processItem = async (index) => {
+//       try {
+//         const response = await axios.request(jsearhOption(queries[index]));
+//         console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
+//         newReactJobs(path[index], response.data.data);
+//       } catch (error) {
+//         console.error("Error: ", error);
+//       }
+//       if (index < queries.length - 1)
+//         setTimeout(() => processItem(index + 1), 2000);
+//       else console.log("Successfully fetched");
+//     };
+//     processItem(0);
+//   };
+//   delayedLoop();
+// };
+
+// Fetching jobs require rapid API once every 24 hours method
+exports.fetchJobs = async () => {
+  const delayedLoop = () => {
+    const processItem = async (index) => {
+      try {
+        const response = await axios.request(jsearhOption(queries[index]));
+        console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
+        newReactJobs(path[index], response.data.data);
+      } catch (error) {
+        console.error("Error: ", error);
+      }
+      if (index < queries.length - 1)
+        setTimeout(() => processItem(index + 1), 2000);
+      else console.log("Successfully fetched");
+    };
+    processItem(0);
+  };
+  delayedLoop();
 };
-
-
-// Run every 48 hours.  This logic automate the data fetching every two days
-exports.timerFunc = setInterval(fetchReact, 1000 * 60 * 60 * 48);

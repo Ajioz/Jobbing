@@ -10,10 +10,9 @@ import {
   FlatList,
 } from "react-native";
 
-
 const jobTypes = ["FULLTIME", "PARTTIME", "CONTRACTOR"];
 
-const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType }) => {
+const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType, type }) => {
   const [activeJobType, setActiveJobType] = useState("Full-time");
 
   const greeting = () => {
@@ -32,7 +31,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType }) => {
     <View>
       <View style={styles.container}>
         <Text style={styles.userName}>{greeting()} </Text>
-        <Text style={styles.welcomeMessage}>Find your perfect job </Text>
+        <Text style={styles.welcomeMessage}>Find your tech jobs </Text>
       </View>
 
       <View style={styles.searchContainer}>
@@ -41,7 +40,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType }) => {
             style={styles.searchInput}
             value={searchTerm}
             onChangeText={(txt) => setSearchTerm(txt)}
-            placeholder="What are you looking for"
+            placeholder="Find tech jobs here are you looking for"
           />
         </View>
         <TouchableOpacity style={styles.searchBtn} onPress={handleClick}>
@@ -61,8 +60,9 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType }) => {
               style={styles.tab(activeJobType, item)}
               onPress={() => {
                 setActiveJobType((prev) => (prev = item));
-                setType(item)
-              }}>
+                setType({ ...type, type: item });
+              }}
+            >
               <Text style={styles.tabText(activeJobType, item)}>{item}</Text>
             </TouchableOpacity>
           )}

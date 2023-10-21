@@ -1,0 +1,977 @@
+[
+  {
+    "employer_name": "Talentify.io",
+    "employer_logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/izo8611kxbziew6eagef",
+    "employer_website": "http://talentifyhr.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "KRKY8U2iSf1XfzBLAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer (Remote) - (Job Number: 00056169721)",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-remote-job-number-00056169721-at-talentify-io-3744573615",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5824,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-developer-remote-job-number-00056169721-at-talentify-io-3744573615",
+        "is_direct": false
+      }
+    ],
+    "job_description": "!*!\n\nWe are Cognizant Artificial Intelligence\n\nDigital technologies, including analytics and AI, give companies a once-in-a-generation opportunity to perform orders of magnitude better than ever before. But clients need new business models built from analyzing customers and business operations at every angle to really understand them.\n\nWith the power to apply artificial intelligence and data science to business decisions via enterprise data management solutions, we help leading companies prototype, refine, validate and scale the most desirable products and delivery models to enterprise scale within weeks\n• You must be legally authorized to work in United States without the need of employer sponsorship, now or at any time in the future *\n\nThis is a Remote position open to any qualified applicant in the United States\n\nJob Title: Java Developer\n\nResponsibilities\n• Implements standard software solutions, design, development, and technical troubleshooting.\n• Sets the overall guidance and expectations for team output, practices, and collaboration.\n• Develops secure and high-quality production code, and reviews and debugs code written by others.\n• Participates in all phases of software development process / SDLC.\n• Work efficiently and collaboratively in an Agile (Scrum or Kanban) team environment.\n• Responsible for design and delivery of high-quality features that aligns with standards.\n• Create a culture of diversity, equality, inclusion, and respect for team members.\n• Mentor others on coding standards and performs code reviews.\n• Provides on call support and monitors the system and identifies system deficiencies.\n• Participate in Architecture and Engineering code and design reviews.\n• Create and implement automated test plans/strategies applying business requirements and collaborate with engineers/architects and clients to validate test environments, test data and test results.\n\nKey Qualifications\n• 15+ years of experience in Java, core java and advance java concepts and technologies.\n• 15+ years in software development experience.\n• Hands on experience in Kafka Connect and Kafka messaging event streams.\n• Must have experience in Java (Spring Boot).\n• No SQL DB for eg: MongoDB and a solid understanding of when to use what.\n• Expertise in OpenShift Kubernetes.\n• Expertise in non-relational document database.\n• Hands on experience on event driven architecture.\n• Experience with synchronous programming in Vertx.\n• Expert in profiling the codebase.\n• Willing to learn new technologies and enjoys working in a dynamic fast paced environment.\n• Have an engineering and consulting mind-set to help clients reach their transformation goals.\n• Experience in managing complete software development process from conception to deployment.\n• Solid understanding of Agile methodology, estimation techniques and key ceremonies for effective management/collaboration.\n• Has highly collaborative working style.\n• Strong communication skills and participates actively in discussions with business customers, architects, and the team members.\n• Experience with SQL and My SQL.\n• Knowledge about AWS.\n• Experience on Micro Services.\n\nSalary And Other Compensation\n\nThe annual salary for this position depends on experience and other qualifications of the successful candidate.\n\nThis position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697760000,
+    "job_posted_at_datetime_utc": "2023-10-20T00:00:00.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=KRKY8U2iSf1XfzBLAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T09:00:05.000Z",
+    "job_offer_expiration_timestamp": 1700384405,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 180,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You must be legally authorized to work in United States without the need of employer sponsorship, now or at any time in the future *",
+        "15+ years of experience in Java, core java and advance java concepts and technologies",
+        "15+ years in software development experience",
+        "Hands on experience in Kafka Connect and Kafka messaging event streams",
+        "Must have experience in Java (Spring Boot)",
+        "No SQL DB for eg: MongoDB and a solid understanding of when to use what",
+        "Expertise in OpenShift Kubernetes",
+        "Expertise in non-relational document database",
+        "Hands on experience on event driven architecture",
+        "Experience with synchronous programming in Vertx",
+        "Expert in profiling the codebase",
+        "Willing to learn new technologies and enjoys working in a dynamic fast paced environment",
+        "Have an engineering and consulting mind-set to help clients reach their transformation goals",
+        "Experience in managing complete software development process from conception to deployment",
+        "Solid understanding of Agile methodology, estimation techniques and key ceremonies for effective management/collaboration",
+        "Has highly collaborative working style",
+        "Strong communication skills and participates actively in discussions with business customers, architects, and the team members",
+        "Experience with SQL and My SQL",
+        "Knowledge about AWS",
+        "Experience on Micro Services"
+      ],
+      "Responsibilities": [
+        "Implements standard software solutions, design, development, and technical troubleshooting",
+        "Sets the overall guidance and expectations for team output, practices, and collaboration",
+        "Develops secure and high-quality production code, and reviews and debugs code written by others",
+        "Participates in all phases of software development process / SDLC",
+        "Work efficiently and collaboratively in an Agile (Scrum or Kanban) team environment",
+        "Responsible for design and delivery of high-quality features that aligns with standards",
+        "Create a culture of diversity, equality, inclusion, and respect for team members",
+        "Mentor others on coding standards and performs code reviews",
+        "Provides on call support and monitors the system and identifies system deficiencies",
+        "Participate in Architecture and Engineering code and design reviews",
+        "Create and implement automated test plans/strategies applying business requirements and collaborate with engineers/architects and clients to validate test environments, test data and test results"
+      ],
+      "Benefits": [
+        "Salary And Other Compensation",
+        "The annual salary for this position depends on experience and other qualifications of the successful candidate",
+        "This position is also eligible for Cognizant’s discretionary annual incentive program, based on performance and subject to the terms of Cognizant’s applicable plans"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "OpTech",
+    "employer_logo": "https://optechus.com/wp-content/uploads/2021/05/optech-2019-solid-logo.png",
+    "employer_website": "http://www.optechus.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "J78KoG3_sZovHCKAAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Sr. Java Developer (100%  EST  Remote EST)",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-100%25-est-remote-est-at-optech-3739994800",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6562,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-100%25-est-remote-est-at-optech-3739994800",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title:. Sr. Java Developer (100% Remote EST)\n\nLocation: Jacksonville, FL 32246\n\nDuration : Contract 12 Months\n\nComments for Suppliers:\n• *Work hours: Candidates must be available to work daily starting at 5:30am or 6:00am and shift end time can be flexible as needed based on production schedules\n\nProject Scope: Looking for a Sr. Java Developer that can program in Java/.NET (for production support and early/off-hours support as needed)\n\nJOB SUMMARY:\n• Sr. JAVA Developers are responsible for the development, programming, and coding of Information Technology solutions. Senior IT Developers are responsible for documenting detailed system specifications, participation in unit testing and maintenance of planned and unplanned internally developed applications, evaluation and performance testing of purchased products. Senior IT Developers are responsible for including IT Controls to protect the confidentiality, integrity, as well as availability of the application and data processed or output by the application. Senior IT Developers lead efforts, oversee work results, provide training and serve as a technical resource for other Developers.\n\nREQUIREMENTS:\n• Experience with unit testing, release procedures, coding design and documentation protocol as well as change management procedures\n• Proficiency using versioning tools: GIT, GNU, RCS, SCCS, CVS, SVN, Mercurial, Monotone, etc\n• Demonstrated organizational, analytical and interpersonal skills\n• Flexible team player\n• Ability to manage tasks independently and take ownership of responsibilities\n• Ability to learn from mistakes and apply constructive feedback to improve performance\n• Must demonstrate initiative and effective independent decision-making skills\n• Ability to communicate technical information clearly and articulately\n• Ability to adapt to a rapidly changing environment\n• In-depth understanding of the systems development life cycle\n• Proficiency programming in more than one object-oriented programming language; JAVA, JavaScript, Python, C#, C++, .NET and PHP\n• Experience with HTML and Frameworks such as; React.Js, Node.JS, and EXPRESS\n• Experience with SOAP, REST web service development\n• May include learning languages such as; Hadoop, Storm, Spark, Kafka, Hive, NFI, Scoop, etc\n• May include database knowledge in; SQL, MySQL, Oracle DB, PostgreSQL, Cassandra, MongoDB, DB2, etc\n• Proficiency using standard desktop applications such as MS Suite and flowcharting tools such as Visio\n• Proficiency using debugging tools; Advanced Debugger, Allinea DDT, AQtime,, ARM, CA/EZTEST, etc\n• High critical thinking skills to evaluate alternatives and present solutions that are consistent with business objectives and strategy\n• Manipulate data from various sources / formats such as: flat files, relational databases, non-relational databases, XML, JSON, etc.\n\nPREFERRED QUALIFICATIONS:\n\nThe preferred qualifications listed below reflect desired knowledge, skill, and/or experience.\n\nAdditional Preferred Qualifications:\n• Various Domain experience; Health Care, Financial, etc\n• Experience using Agile, Waterfall, or hybrid methodology\n• Specific tools, languages and specialty skills may vary\n\nREQUIRED EDUCATION/EXPERIENCE:\n• Related Bachelor’s degree in I.T. or related work experience\n• 5+ years related work experience, professional experience with technical design and coding in the IT industry as a Java Developer\n• Object Oriented development using JAVA, JavaScript, and .NET required\n• Full-Stack Java development experience highly preferred\n• Oracle, SQL Server, SSIS highly preferred\n\nWhy work at OpTech?\n• OpTech is a woman-owned company that values your ideas, encourages your growth, and always has your back.\n• When you work at OpTech, not only do you get health and dental benefits on the first day of employment, but you also have training opportunities, flexible/remote work options, growth opportunities, 401K and competitive pay. Apply today! To view our complete list of openings, please visit our website at www.optechus.com.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697809697,
+    "job_posted_at_datetime_utc": "2023-10-20T13:48:17.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "retirement_savings"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=J78KoG3_sZovHCKAAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T13:48:17.000Z",
+    "job_offer_expiration_timestamp": 1700401697,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": true
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 60,
+    "job_max_salary": 63,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Experience with unit testing, release procedures, coding design and documentation protocol as well as change management procedures",
+        "Proficiency using versioning tools: GIT, GNU, RCS, SCCS, CVS, SVN, Mercurial, Monotone, etc",
+        "Demonstrated organizational, analytical and interpersonal skills",
+        "Flexible team player",
+        "Ability to manage tasks independently and take ownership of responsibilities",
+        "Ability to learn from mistakes and apply constructive feedback to improve performance",
+        "Must demonstrate initiative and effective independent decision-making skills",
+        "Ability to communicate technical information clearly and articulately",
+        "Ability to adapt to a rapidly changing environment",
+        "In-depth understanding of the systems development life cycle",
+        "Proficiency programming in more than one object-oriented programming language; JAVA, JavaScript, Python, C#, C++, .NET and PHP",
+        "Experience with HTML and Frameworks such as; React.Js, Node.JS, and EXPRESS",
+        "Experience with SOAP, REST web service development",
+        "May include learning languages such as; Hadoop, Storm, Spark, Kafka, Hive, NFI, Scoop, etc",
+        "May include database knowledge in; SQL, MySQL, Oracle DB, PostgreSQL, Cassandra, MongoDB, DB2, etc",
+        "Proficiency using standard desktop applications such as MS Suite and flowcharting tools such as Visio",
+        "Proficiency using debugging tools; Advanced Debugger, Allinea DDT, AQtime,, ARM, CA/EZTEST, etc",
+        "High critical thinking skills to evaluate alternatives and present solutions that are consistent with business objectives and strategy",
+        "Manipulate data from various sources / formats such as: flat files, relational databases, non-relational databases, XML, JSON, etc",
+        "Related Bachelor’s degree in I.T. or related work experience",
+        "5+ years related work experience, professional experience with technical design and coding in the IT industry as a Java Developer",
+        "Object Oriented development using JAVA, JavaScript, and .NET required"
+      ],
+      "Responsibilities": [
+        "*Work hours: Candidates must be available to work daily starting at 5:30am or 6:00am and shift end time can be flexible as needed based on production schedules",
+        "JAVA Developers are responsible for the development, programming, and coding of Information Technology solutions",
+        "Senior IT Developers are responsible for documenting detailed system specifications, participation in unit testing and maintenance of planned and unplanned internally developed applications, evaluation and performance testing of purchased products",
+        "Senior IT Developers are responsible for including IT Controls to protect the confidentiality, integrity, as well as availability of the application and data processed or output by the application",
+        "Senior IT Developers lead efforts, oversee work results, provide training and serve as a technical resource for other Developers"
+      ],
+      "Benefits": [
+        "When you work at OpTech, not only do you get health and dental benefits on the first day of employment, but you also have training opportunities, flexible/remote work options, growth opportunities, 401K and competitive pay"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Talentify.io",
+    "employer_logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/izo8611kxbziew6eagef",
+    "employer_website": "http://talentifyhr.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "MhixGyrLKvDDAb6-AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Sr. Java Developer (Remote) - (Job Number: 00056242882)",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-remote-job-number-00056242882-at-talentify-io-3744574249",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5824,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/sr-java-developer-remote-job-number-00056242882-at-talentify-io-3744574249",
+        "is_direct": false
+      }
+    ],
+    "job_description": "!*!\n\nCognizant’s Digital Engineering practice is seeking a highly qualified Senior Java Developer (Remote) with experience developing and building high-performing, scalable, enterprise applications. You will be part of a digital software team that works on high-demand applications. Our engineers have a passion for high-quality, reliable and maintainable code. You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users. Our engineers are agile and retrospective, and not afraid to identify what we’re doing wrong, so we can fix it, and what we’re doing right, so we can improve on it. Above all, we judge success by the success of our team and the happiness of our customers.\n\nCognizant Digital Engineering If you’re like us, you’ve got big ideas. At Cognizant, we’re exploring new ideas every day. We help industry leading companies reinvent their business models and innovate products that create new value—by connecting people with things, insights and experiences. Cognizant digital engineering designs, engineers and delivers digital products and experiences that drive digital-first business models. We offer the most comprehensive digital engineering expertise and client-centric methodology for sustainable innovation.\n\nLocation: Atlanta, GA or Remote\n• You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.**\n\nResponsibilities\n• Responsible for providing oversight in all phases of the software development life cycle.\n• Be a hands-on leader, designing, building and Supporting APIs for corporate systems.\n• Collaborates with stakeholders, product owners and engineers (both internal and external)\n• Assist client in documenting operating processes and changes.\n• Codes and maintains complex components of information systems.\n• Responsibilities include attending stand ups, System Architecture Design, API development, participating in refinement and planning meetings, deploying to AWS environments and production support.\n\nQualifications\n• 8+ years’ experience in Software engineering.\n• A strong handle on software design patterns and writing clean code specifically in a microservice environment.\n• Extensive hands on experience developing microservices using Java/Spring Boot.\n• Experience using cloud technologies, specifically AWS services including EKS, ECS, Event bridge, cloud formation and Lambda.\n• Good handle on data persistence technologies and optimization (both SQL and NoSQL).\n• Proven experience with API concepts and technologies such as REST, JSON, XML, SOAP, YAML, and Swagger.\n• Knowledge of Github Actions and/or Jenkins automation.\n• Possess strong oral communication skills.\n• JavaScript experience with React Framework is a nice to have.\n• Has the desire and ability to learn new technologies and tools quickly.\n\nTravel: 0-5%\n\nWhy Choose Cognizant?\n\nIt takes a lot to succeed in today’s fast-paced market, and Cognizant Technology Solutions has become a leader in the industry. We love big ideas and even bigger dreams! We stand out because we put human experiences at the core. Our associates enjoy robust benefits and training opportunities from our industry-recognized, award-winning Academy team. You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies.\n\nEverything we do at Cognizant we do with passion—for our clients (fortune 100 companies), our communities, and our organization. It’s the defining attribute that we look for in our people.\n\nIf you love ambiguity, excited by change, and excel through autonomy, we’d love to hear from you!\n\nAbout Cognizant Digital Engineering\n\nWell-designed software transcends digital technology, going beyond the fulfillment of basic requirements to focus instead on human needs. Within Cognizant Digi",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697795404,
+    "job_posted_at_datetime_utc": "2023-10-20T09:50:04.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=MhixGyrLKvDDAb6-AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T09:50:04.000Z",
+    "job_offer_expiration_timestamp": 1700387404,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 96,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": true
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "You must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.**",
+        "8+ years’ experience in Software engineering",
+        "A strong handle on software design patterns and writing clean code specifically in a microservice environment",
+        "Extensive hands on experience developing microservices using Java/Spring Boot",
+        "Experience using cloud technologies, specifically AWS services including EKS, ECS, Event bridge, cloud formation and Lambda",
+        "Good handle on data persistence technologies and optimization (both SQL and NoSQL)",
+        "Proven experience with API concepts and technologies such as REST, JSON, XML, SOAP, YAML, and Swagger",
+        "Knowledge of Github Actions and/or Jenkins automation",
+        "Possess strong oral communication skills",
+        "JavaScript experience with React Framework is a nice to have",
+        "Has the desire and ability to learn new technologies and tools quickly"
+      ],
+      "Responsibilities": [
+        "You will work side by side with product managers, designers, and clients, making decisions together in order to quickly deliver valuable working software to clients and their users",
+        "Responsible for providing oversight in all phases of the software development life cycle",
+        "Be a hands-on leader, designing, building and Supporting APIs for corporate systems",
+        "Collaborates with stakeholders, product owners and engineers (both internal and external)",
+        "Assist client in documenting operating processes and changes",
+        "Codes and maintains complex components of information systems",
+        "Responsibilities include attending stand ups, System Architecture Design, API development, participating in refinement and planning meetings, deploying to AWS environments and production support"
+      ],
+      "Benefits": [
+        "You will have access to hundreds of technical trainings to keep your skillsets fresh and have opportunities to acquire certifications on the newest technologies"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "IDR, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoFqPEb5YxEeSP3V_DkNZ07r5LlvpjhDnYjZv&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "75BcmLEjibHNr5drAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Junior Java Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/junior-java-developer-at-idr-inc-3739467297",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6467,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/junior-java-developer-at-idr-inc-3739467297",
+        "is_direct": false
+      }
+    ],
+    "job_description": "DR is seeking a Junior Java Developer to join one of our top clients for a fully remote opportunity! If you are looking for an opportunity to join a large organization and work within an ever-growing team-oriented culture, please apply today!\n\nPosition Overview/Responsibilities for Junior Java Developer:\n\nAs a Junior Java Developer, you will work closely with senior developers and cross-functional teams to design, develop, and maintain Java applications using Spring and Spring Boot frameworks. You will be involved in all aspects of the software development lifecycle, from understanding business requirements to writing well-designed and efficient code.\n\nRequired Skills for Junior Java Developer:\n• Minimum of 3+ years of experience working as a Java Developer\n• Strong understanding of core Java concepts and object-oriented programming principles.\n• Proficient with Spring and Spring Boot frameworks.\n• Basic knowledge of RESTful API development and integration\n\nWhat’s in it for you?\n• Competitive compensation package\n• Full Benefits; Medical, Vision, Dental, and more!\n• Opportunity to get in with an industry leading organization\n\nWhy IDR?\n• 20+ Years of Proven Industry Experience in 4 major markets\n• Employee Stock Ownership Program\n• Dedicated Engagement Manager who is committed to you and your success.\n• Medical, Dental, Vision, and Life Insurance\n• ClearlyRated’s Best of Staffing® Client and Talent Award winner 10 years in a row",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697734698,
+    "job_posted_at_datetime_utc": "2023-10-19T16:58:18.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": ["dental_coverage", "health_insurance"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=75BcmLEjibHNr5drAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T16:58:17.000Z",
+    "job_offer_expiration_timestamp": 1700326697,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 240,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 45,
+    "job_max_salary": 55,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum of 3+ years of experience working as a Java Developer",
+        "Strong understanding of core Java concepts and object-oriented programming principles",
+        "Proficient with Spring and Spring Boot frameworks",
+        "Basic knowledge of RESTful API development and integration"
+      ],
+      "Responsibilities": [
+        "As a Junior Java Developer, you will work closely with senior developers and cross-functional teams to design, develop, and maintain Java applications using Spring and Spring Boot frameworks",
+        "You will be involved in all aspects of the software development lifecycle, from understanding business requirements to writing well-designed and efficient code"
+      ],
+      "Benefits": [
+        "Competitive compensation package",
+        "Full Benefits; Medical, Vision, Dental, and more!",
+        "Opportunity to get in with an industry leading organization",
+        "Employee Stock Ownership Program",
+        "Dedicated Engagement Manager who is committed to you and your success",
+        "Medical, Dental, Vision, and Life Insurance",
+        "ClearlyRated’s Best of Staffing® Client and Talent Award winner 10 years in a row"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Dice",
+    "employer_logo": "https://s24.q4cdn.com/133441296/files/images/brands/dice.png",
+    "employer_website": null,
+    "employer_company_type": "Information",
+    "job_publisher": "LinkedIn",
+    "job_id": "E7EgQkWC1z1S_YIdAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer with Spring and solid CMS",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-with-spring-and-solid-cms-at-dice-3744575640",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5953,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-developer-with-spring-and-solid-cms-at-dice-3744575640",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Codeworks L.L.C, is seeking the following. Apply via Dice today!\n\nCodeworks is an IT Services firm, known for our strong commitment to quality and for our direct client relationships.\n\nPosition: Java Developer with Spring and CMS - remote\n\nLocation: Milwaukee, WI but 100% remote\n\nOur Digital advertising agency client is looking for a Java Developer to join their team on a full-time permanent hire basis.\n\nThis individual will become a member of a backend development team, that is tasked with taking wireframes and requirements documents from the UX team and are responsible for implementing the backend using the best backend technologies. They will also be making the right choices based on timeline and budgetary constraints. This individual will provide elegant solutions to difficult or challenging problems. As an experienced backend developer, this individual will help advise and troubleshoot issues with other members of the team.\n\nThe ideal candidate will have experience with the following:\n• Multiple years of experience including modern Java Spring in a professional environment\n• Experience working on high-end CMS projects\n• Experience with Java, MVC architecture, and SQL\n• Familiarity with Python, PostgreSQL, and IntelliJ\n• Ability to work on multiple projects\n• Ability to communicate clearly and concisely with clients, sales team, designers, and developers\n• A desire to lead and make technology choices\n• Looking for candidates with past Digital Marketing agency experience.\n\nFor immediate consideration, qualified candidates should send their resumes to .\n\nAbout CODEWORKS:\n\nCodeworks has more than 20 years of experience successfully serving Fortune 1000 companies nationally. Our Recruiting team consists of highly skilled Talent Specialists skilled at evaluating, advising, and connecting IT professionals with new career opportunities that facilitate career growth. Codeworks has continuously been recognized by Inc. Magazine as one of the fastest growing private companies in the US.\n\nAt Codeworks, we're committed to diversity, equity, and inclusion in our workforce and beyond. We believe in equal opportunities and value the unique perspectives that every individual brings to our team. Join us in creating an inclusive, innovative, and collaborative workplace where your talents can thrive.\n\nJava Developer with Spring and solid CMS",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697795932,
+    "job_posted_at_datetime_utc": "2023-10-20T09:58:52.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=E7EgQkWC1z1S_YIdAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T09:58:52.000Z",
+    "job_offer_expiration_timestamp": 1700387932,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 240,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Multiple years of experience including modern Java Spring in a professional environment",
+        "Experience working on high-end CMS projects",
+        "Experience with Java, MVC architecture, and SQL",
+        "Familiarity with Python, PostgreSQL, and IntelliJ",
+        "Ability to work on multiple projects",
+        "Ability to communicate clearly and concisely with clients, sales team, designers, and developers",
+        "A desire to lead and make technology choices",
+        "Looking for candidates with past Digital Marketing agency experience"
+      ],
+      "Responsibilities": [
+        "This individual will become a member of a backend development team, that is tasked with taking wireframes and requirements documents from the UX team and are responsible for implementing the backend using the best backend technologies",
+        "They will also be making the right choices based on timeline and budgetary constraints",
+        "This individual will provide elegant solutions to difficult or challenging problems",
+        "As an experienced backend developer, this individual will help advise and troubleshoot issues with other members of the team"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "519130",
+    "job_naics_name": "Internet Publishing and Broadcasting and Web Search Portals"
+  },
+  {
+    "employer_name": "PRGX",
+    "employer_logo": null,
+    "employer_website": "http://www.prgx.com/about-prgx/global-offices/united-kingdom",
+    "employer_company_type": null,
+    "job_publisher": "Indeed",
+    "job_id": "WkDmgkWKWKHaYCB9AAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer – 100% remote",
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=a1f35728c9837ae5",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6142,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=a1f35728c9837ae5",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Java Developer – 100% remote\n\nPermanent Employment Opportunity: Java Developer – 100% remote\n\nWork Location: Remote support for the Internal Revenue Service (IRS)\n\nSecurity Requirements: Must have an existing and active IRS MBI clearance (Minimum Background Investigation)\n\nSpecific Job Description:\n\nWe seeks qualified Java Developer candidates for multiple positions to help define, design, develop,\n\ntest, maintain, implement and support the eServices systems of the Internal Revenue Service (IRS). The individuals\n\nperform under the direction of IRS subject matter experts, in collaboration with IRS developers, following IRS\n\nProcesses, using IRS specified COTS and IRS developed products. The team seeks to maintain the eServices project,\n\nexpand the eServices project, and maintain and build out the Development, Test and Production Environments.\n\nOn our team, the Java Developer duties typically include, but may not be limited to:\n• Perform Java Development tasks in support of the eServices - TDS production systems\n• Capture tasks on the eServices - TDS schedule and track due dates\n• Research, design, development, and/or modify application software to integrate disparate systems\n• Create and maintain technical documentation in support of the project\n• Configuration management and assembling the releases of the code base\n• Maintain correspondence imaging and scanning work\n• Create and maintain eServices - TDS interfaces with other IRS systems\n\nKnowledge, Skills, and Abilities Profile of an ideal candidate:\n• Candidates must have an existing and ACTIVE Internal Revenue Service (IRS) MBI clearance\n\n(Minimum Background Investigation)\n• Bachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined\n\neducation, with 7+ years of professional experience for mid-level developers\n• Java 6+ / J2EE\n• Spring Boot / Spring Framework\n• Spring MVC\n• RESTful web services\n• JDBC / SQL / PL/SQL\n• MongoDB / other NoSQL\n• Maven / Gradle / other dependency management\n• JBoss or IBM WebSphere Application Server is preferred, but Oracle AS, Tomcat, or WebLogic Application Server\n\nwill be considered.\n• Oracle 10g/11g/12c Database\n• Enterprise S/W Design Patterns\n• OOAD - UML - RUP/Rational Analysis tool\n• Microsoft Office products\n• XML / YAML / JSON\n• SoapUI / JMeter / other web service testing tools\n• HTML Design - CSS – JavaScript\n• Linux\n• Must be flexible and adaptable, able to develop using a wide variety of methods and technologies\n• Must have a good understanding of connection pooling\n• Must have experience with multi-threaded applications\n• Must have experience with large scale systems\n• Must feel comfortable interacting with clients\n• Must have strong analytical skills and be detail oriented\n• Must have effective verbal communication skills\n\nPreferred (nice-to-have, but not absolutely mandatory) Qualifications:\n• Cloud technologies (Docker, Kubernetes, OpenShift, AWS)\n• Java 8+\n• React.js / Angular.js\n• IBM Rational Tool Suite (Rational Team Concert, Engineering Lifecycle Management, AppScan)\n• Other version control systems (git)\n• Thymeleaf\n• Selenium\n• Toad / SQL Plus or similar application\n• IBM WebSphere MQ\n• UNIX\n• Knowledge of Agile Development Methodology\n• C / C++ / C#\n• Microsoft Project\n• Microsoft Visio\n• BOE\n\nJob Type: Full-time\n\nSalary: $125,000.00 - $155,000.00 per year\n\nBenefits:\n• 401(k)\n• 401(k) matching\n• Dental insurance\n• Employee assistance program\n• Flexible schedule\n• Flexible spending account\n• Health insurance\n• Life insurance\n• Paid time off\n• Vision insurance\n\nSchedule:\n• 8 hour shift\n• Monday to Friday\n\nSupplemental pay types:\n• Bonus opportunities\n\nApplication Question(s):\n• must have an active clearance before starting work\n\nExperience:\n• Java Developer: 7 years (Required)\n• Java 6+ / J2EE: 7 years (Required)\n• Spring Boot / Spring Framework: 7 years (Required)\n• Spring MVC: 7 years (Required)\n• RESTful web services: 7 years (Required)\n• JDBC / SQL / PL/SQL: 7 years (Required)\n• MongoDB / other NoSQL: 7 years (Required)\n• Maven / Gradle / other dependency management: 7 years (Required)\n\nSecurity clearance:\n• Confidential (Required)\n\nWork Location: Remote",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697730017,
+    "job_posted_at_datetime_utc": "2023-10-19T15:40:17.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "retirement_savings",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=WkDmgkWKWKHaYCB9AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 84,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Security Requirements: Must have an existing and active IRS MBI clearance (Minimum Background Investigation)",
+        "Candidates must have an existing and ACTIVE Internal Revenue Service (IRS) MBI clearance",
+        "Bachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined",
+        "education, with 7+ years of professional experience for mid-level developers",
+        "OOAD - UML - RUP/Rational Analysis tool",
+        "Microsoft Office products",
+        "XML / YAML / JSON",
+        "SoapUI / JMeter / other web service testing tools",
+        "HTML Design - CSS – JavaScript",
+        "Linux",
+        "Must be flexible and adaptable, able to develop using a wide variety of methods and technologies",
+        "Must have a good understanding of connection pooling",
+        "Must have experience with multi-threaded applications",
+        "Must have experience with large scale systems",
+        "Must feel comfortable interacting with clients",
+        "Must have strong analytical skills and be detail oriented",
+        "Must have effective verbal communication skills",
+        "must have an active clearance before starting work",
+        "Java 6+ / J2EE: 7 years (Required)",
+        "Spring Boot / Spring Framework: 7 years (Required)",
+        "RESTful web services: 7 years (Required)",
+        "JDBC / SQL / PL/SQL: 7 years (Required)",
+        "MongoDB / other NoSQL: 7 years (Required)",
+        "Maven / Gradle / other dependency management: 7 years (Required)",
+        "Confidential (Required)"
+      ],
+      "Responsibilities": [
+        "Work Location: Remote support for the Internal Revenue Service (IRS)",
+        "test, maintain, implement and support the eServices systems of the Internal Revenue Service (IRS)",
+        "perform under the direction of IRS subject matter experts, in collaboration with IRS developers, following IRS",
+        "Processes, using IRS specified COTS and IRS developed products",
+        "The team seeks to maintain the eServices project,",
+        "expand the eServices project, and maintain and build out the Development, Test and Production Environments",
+        "On our team, the Java Developer duties typically include, but may not be limited to:",
+        "Perform Java Development tasks in support of the eServices - TDS production systems",
+        "Capture tasks on the eServices - TDS schedule and track due dates",
+        "Research, design, development, and/or modify application software to integrate disparate systems",
+        "Create and maintain technical documentation in support of the project",
+        "Configuration management and assembling the releases of the code base",
+        "Maintain correspondence imaging and scanning work",
+        "Create and maintain eServices - TDS interfaces with other IRS systems"
+      ],
+      "Benefits": [
+        "Spring MVC",
+        "Salary: $125,000.00 - $155,000.00 per year",
+        "401(k) matching",
+        "Dental insurance",
+        "Employee assistance program",
+        "Flexible schedule",
+        "Flexible spending account",
+        "Health insurance",
+        "Life insurance",
+        "Paid time off",
+        "Vision insurance",
+        "8 hour shift",
+        "Monday to Friday",
+        "Bonus opportunities"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Windstream",
+    "employer_logo": "https://kinetic-craft.imgix.net/favicon.png?auto=compress,format&dm=1678119673&fit=clip&fm=png&h=60&ixlib=php-3.1.0&q=82&w=600",
+    "employer_website": "http://www.windstream.com",
+    "employer_company_type": "Information",
+    "job_publisher": "LinkedIn",
+    "job_id": "TcCJJE6QECcwOT5EAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer II ( 100% remote)",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-ii-100%25-remote-at-windstream-3739451200",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6938,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-developer-ii-100%25-remote-at-windstream-3739451200",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=1559562fb8929680",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobgether",
+        "apply_link": "https://jobgether.com/offer/651f0163fa4098d105adfdf5-java-developer-iii-100-remote",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/java-developer-ii-100-remote-windstream-communications-JV_KO0,28_KE29,54.htm?jl=1008935236479",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/YEawqcGBOO-MLuKqyjbpDitfDKKzMMWi9OER_RXNVx8mKlIlp1F8vg",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/5547779933563264991/Java-Developer-III-(-100%25-Remote)-Ohio",
+        "is_direct": false
+      },
+      {
+        "publisher": "Engineer Jobs",
+        "apply_link": "https://www.engineerjobs.com/posting/7f8QzshI2WP0PdIA6qt5NMYdzlh_mEWWcSkTn6sKqWpHLb2KA-6Dm4H8kZauwSDU",
+        "is_direct": false
+      },
+      {
+        "publisher": "MySmartPros",
+        "apply_link": "https://ca.mysmartpros.com/job/windstream-communications-java-developer-ii-100-remote-in-santa-fe-new-mexico/",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Responsible for meeting customer needs through application development, deployment and life-cycle management, specializing in Windstream’s quoting and product catalog applications. Includes development initiatives, implementation, configuration and deployment of custom applications and modified off-the-shelf applications, as well as developing integrations between Windstream's systems. This position will interact with other organizations both within IT and the business, to provide proactive solutions to the business and drive business value.\n\nSkills and Competencies:\n\nThis position calls for excellent competencies in a variety of areas, including:\n\n- Leadership and communication skills – to build and strengthen relationships both within and outside the organization.\n\n- Highly motivated and self-directed individual, bringing a strong sense of focus and energy to work.\n\n- Leadership skills and execution focus to drive results through performance.\n\n- Strong technical knowledge of a wide range of development languages, frameworks, and methodologies, such as:\n\n- Java,\n\n- Web development technologies including HTML, CSS, JavaScript, Typescript, NodeJS, and AngularJS\n\n- database modeling / design in both SQL relational databases such as Oracle, and non-relational such as MongoDB\n\n- Groovy,\n\n- SOAP/REST web services,\n\n- Spring,\n\n- Unit and integration testing with tools such as JUnit, TestNG, Mocha\n\n- Distributed version control systems such as Mercurial or GIT\n\n- Continuous integration tools such as TeamCity and Jenkins\n\n- Familiarity with a Linux shell environment and accessing Linux systems remotely via SSH to run applications.\n\n- Ability to diagnose problems occurring within a system or resulting through integration between systems.\n\n- Experience with development, deployment, and management of microservice/cloud-based architectures such as Spring Boot and Docker is a plus.\n\n- Business domain expertise in telecom industry and/or BPM would be a plus.\n\n- Working knowledge of the Agile development methodologies, such as SCRUM or Kanban.\n\nResponsibilities Include:\n\n- Development and implementation of quoting and catalog software initiatives.\n\n- Support requirements discussions led by business analysts; develop designs and levels of effort for systems implementing those requirements. Documentation of the designs to sufficient detail for implementation by other team members.\n\n- Production support of quoting and catalog software, including some off-hours support on a rotating schedule.\n\n- Participate in design and technology decisions and mentor junior engineers.\n\n- Strong understanding and working knowledge of databases and associated development.\n\n- Identifying issues within software systems and recommending solutions to others.\n\n- Implement and participate within code review process.\n\n- Work and manage multiple development initiatives concurrently.\n\n- Communicate with internal stakeholders and users for support and to work in support of requirements and design development.\n\nOur Benefits:\n- Medical, Dental, Vision Insurance Plans\n- 401K Plan\n- Health & Flexible Savings Account\n- Life and AD&D, Spousal Life, Child Life Insurance Plans\n- Educational Assistance Plan\n- Identity Theft, Legal, Auto & Home and Pet Insurance\n- https://windstreambenefits.com\n\nWindstream DEI&B Statement:\nConnecting people in a world of infinite possibilities. At Windstream, we celebrate the authenticity and uniqueness of our people and their ideas. The diverse voices of our employees fuel our innovation and the inclusive, equitable culture we are building fosters belonging and empowers each one of us to create amazing customer experiences.\n\nOur Employee Resource Groups:\n· WinVets – Veteran Employee Resource Group\n· WOW – Women Employee Resource Group\n· WINPRIDE – LGBTQ+ Employee Resource Group\n· WBPN – Black Professional Resource Group\n· WARG – Ability Resource Group\n· LaFamilia –Hispanic Resource Group\n\nThe starting compensation range for this job grade is: 67,100 to 88,100",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697727070,
+    "job_posted_at_datetime_utc": "2023-10-19T14:51:10.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "retirement_savings"
+    ],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=TcCJJE6QECcwOT5EAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2024-04-16T14:53:11.000Z",
+    "job_offer_expiration_timestamp": 1713279191,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": true
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Leadership and communication skills – to build and strengthen relationships both within and outside the organization",
+        "Highly motivated and self-directed individual, bringing a strong sense of focus and energy to work",
+        "Leadership skills and execution focus to drive results through performance",
+        "Strong technical knowledge of a wide range of development languages, frameworks, and methodologies, such as:",
+        "Java,",
+        "Web development technologies including HTML, CSS, JavaScript, Typescript, NodeJS, and AngularJS",
+        "database modeling / design in both SQL relational databases such as Oracle, and non-relational such as MongoDB",
+        "Unit and integration testing with tools such as JUnit, TestNG, Mocha",
+        "Distributed version control systems such as Mercurial or GIT",
+        "Continuous integration tools such as TeamCity and Jenkins",
+        "Familiarity with a Linux shell environment and accessing Linux systems remotely via SSH to run applications",
+        "Ability to diagnose problems occurring within a system or resulting through integration between systems",
+        "Working knowledge of the Agile development methodologies, such as SCRUM or Kanban"
+      ],
+      "Responsibilities": [
+        "Responsible for meeting customer needs through application development, deployment and life-cycle management, specializing in Windstream’s quoting and product catalog applications",
+        "Includes development initiatives, implementation, configuration and deployment of custom applications and modified off-the-shelf applications, as well as developing integrations between Windstream's systems",
+        "This position will interact with other organizations both within IT and the business, to provide proactive solutions to the business and drive business value",
+        "Development and implementation of quoting and catalog software initiatives",
+        "Support requirements discussions led by business analysts; develop designs and levels of effort for systems implementing those requirements",
+        "Documentation of the designs to sufficient detail for implementation by other team members",
+        "Production support of quoting and catalog software, including some off-hours support on a rotating schedule",
+        "Participate in design and technology decisions and mentor junior engineers",
+        "Identifying issues within software systems and recommending solutions to others",
+        "Implement and participate within code review process",
+        "Work and manage multiple development initiatives concurrently",
+        "Communicate with internal stakeholders and users for support and to work in support of requirements and design development"
+      ],
+      "Benefits": [
+        "Medical, Dental, Vision Insurance Plans",
+        "401K Plan",
+        "Health & Flexible Savings Account",
+        "Life and AD&D, Spousal Life, Child Life Insurance Plans",
+        "Educational Assistance Plan",
+        "Identity Theft, Legal, Auto & Home and Pet Insurance"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "517110",
+    "job_naics_name": "Wired Telecommunications Carriers"
+  },
+  {
+    "employer_name": "ECS",
+    "employer_logo": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf3000011oSoPEAU",
+    "employer_website": "http://ecstech.com",
+    "employer_company_type": "Consulting",
+    "job_publisher": "LinkedIn",
+    "job_id": "q-YiMjuW1iD1u8JBAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-at-ecs-3744105596",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6528,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-developer-at-ecs-3744105596",
+        "is_direct": false
+      },
+      {
+        "publisher": "Elite Technical Jobs",
+        "apply_link": "https://www.elitetechnicaljobs.com/job/?id=11133&M=Java%20Developer-Remote-",
+        "is_direct": false
+      },
+      {
+        "publisher": "Levels.fyi",
+        "apply_link": "https://www.levels.fyi/jobs?jobId=137516047159698118",
+        "is_direct": false
+      }
+    ],
+    "job_description": "ECS is seeking a Java Developer to work remotely in the USA.\n\nThis position will perform and have the following duties, roles, and / or responsibilities:\n• Designing, developing and implementing web-based applications.\n• Designing, developing and implementing highly complex applications leveraging S3, dynamo, and documentDB in AWS.\n• Demonstrating strong troubleshooting skills to solve complex problems.\n• Along with a flexible attitude, ability to perform under pressure and ability to handle change easily while meeting deadlines.\n• Communicating with technical and non-technical audiences verbally or in writing to design most efficient and effective application design.\n• Working independently and in a team environment, to give and receive direction.\n\nSpecific responsibilities include:\n• Assist in the setup of production environment including application servers and database servers.\n• Assist in the implementation of applications into production.\n• Must be able to communicate effectively, work in a team environment and think analytically.\n• Perform maintenance on programs currently in production.\n• Provide on-call support for this highly visible application.\n• Other duties as needed.\n\nSalary :95K+\n\nRequired Skills:\n• US citizen or Green Card Holder and must be able to obtain a Public Trust clearance.\n• BS in Computer Science or related field of study\n• 6 Years Min. experience in JAVA development\n• Experience developing with JavaScript frameworks (jQuery, Dojo, Bootstrap, AngularJS), and AJAX.\n• Familiarity with Linux operating system.\n• Experience with code versioning tools, such as GIT\n• AWS experience\n• Experience in a combination in the following areas: HTML and XML and CSS\n• Experience creating web services (Soap and Rest)\n• Experience developing on multiple platforms including Windows and Linux\n• 3 years of progressively more complex programming experience in large scale information system environments.\n• A wide degree of creativity and latitude is expected.\n\nDesired Skills:\n• .NET\n• Java, J2EE\n• C++\n• Perl\n• Flex\n\nECS is an equal opportunity employer and does not discriminate or allow discrimination on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state, or local law. ECS promotes affirmative action for minorities, women, disabled persons, and veterans.\n\nECS is a leading mid-sized provider of technology services to the United States Federal Government. We are focused on people, values and purpose. Every day, our 3800+ employees focus on providing their technical talent to support the Federal Agencies and Departments of the US Government to serve, protect and defend the American People.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697731609,
+    "job_posted_at_datetime_utc": "2023-10-19T16:06:49.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=q-YiMjuW1iD1u8JBAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T16:06:49.000Z",
+    "job_offer_expiration_timestamp": 1700323609,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 72,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Along with a flexible attitude, ability to perform under pressure and ability to handle change easily while meeting deadlines",
+        "Communicating with technical and non-technical audiences verbally or in writing to design most efficient and effective application design",
+        "US citizen or Green Card Holder and must be able to obtain a Public Trust clearance",
+        "BS in Computer Science or related field of study",
+        "6 Years Min",
+        "experience in JAVA development",
+        "Experience developing with JavaScript frameworks (jQuery, Dojo, Bootstrap, AngularJS), and AJAX",
+        "Familiarity with Linux operating system",
+        "Experience with code versioning tools, such as GIT",
+        "AWS experience",
+        "Experience in a combination in the following areas: HTML and XML and CSS",
+        "Experience creating web services (Soap and Rest)",
+        "Experience developing on multiple platforms including Windows and Linux",
+        "3 years of progressively more complex programming experience in large scale information system environments",
+        "A wide degree of creativity and latitude is expected"
+      ],
+      "Responsibilities": [
+        "Designing, developing and implementing highly complex applications leveraging S3, dynamo, and document",
+        "Working independently and in a team environment, to give and receive direction",
+        "Assist in the setup of production environment including application servers and database servers",
+        "Assist in the implementation of applications into production",
+        "Must be able to communicate effectively, work in a team environment and think analytically",
+        "Perform maintenance on programs currently in production",
+        "Provide on-call support for this highly visible application",
+        "Other duties as needed"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4",
+    "job_naics_code": "54161",
+    "job_naics_name": "Management Consulting Services"
+  },
+  {
+    "employer_name": "IDR, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoFqPEb5YxEeSP3V_DkNZ07r5LlvpjhDnYjZv&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "hL3mPrIcbJUQHP-dAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Senior Java Developer",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/senior-java-developer-at-idr-inc-3739999068",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6467,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/senior-java-developer-at-idr-inc-3739999068",
+        "is_direct": false
+      }
+    ],
+    "job_description": "IDR is seeking a Senior Java Developer to join one of our clients for a fully remote opportunity. If you are looking for an opportunity to join a large organization and work within an ever-growing team-oriented culture, please apply today!\n• Required Skills for the Teamcenter Consultant:\n• 5+ years of J2EE framework and architecture expertise (Java 7/8)\n• 5+ years of transactional database and SQL expertise (DB2, Oracle or SQL Server)\n• Ability to develop high volume of Java code in complex enterprise environment on aggressive timelines with high quality\n• Must be very strong in Spring Framework, Spring Integration, Spring Boot and Spring Batch with a minimum of 4 years of software development expertise\n• Proficiency in RESTful web services and API development using Spring\n• ORM tool experience (MyBatis, Entity Framework, Hibernate, JPA)\n• Object-oriented programming (OOP) expertise\n• Eclipse, IBM RAD or similar IDE proficiency\n• SOA architecture and web services internals experience\n• Design experience working with n-tier architectures (UI, Business Logic Layer, Data Access Layer)\n• Software implementation best practices knowledge\n• Experience with Git Version control (or other version control systems like SVN or CVS or Clear Case)\n• What’s in it for you?\n• Competitive compensation package\n• Full Benefits; Medical, Vision, Dental, and more!\n• Opportunity to get in with an industry leading organization\n• Close-knit and team-oriented culture\n• Why IDR?\n• 20+ Years of Proven Industry Experience in 4 major markets\n• Employee Stock Ownership Program\n• Dedicated Engagement Manager who is committed to you and your success\n• Medical, Dental, Vision, and Life Insurance\n• ClearlyRated’s Best of Staffing® Client and Talent Award winner 10 years in a row",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697807823,
+    "job_posted_at_datetime_utc": "2023-10-20T13:17:03.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": ["health_insurance", "dental_coverage"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=hL3mPrIcbJUQHP-dAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-19T13:17:03.000Z",
+    "job_offer_expiration_timestamp": 1700399823,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 240,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of J2EE framework and architecture expertise (Java 7/8)",
+        "5+ years of transactional database and SQL expertise (DB2, Oracle or SQL Server)",
+        "Ability to develop high volume of Java code in complex enterprise environment on aggressive timelines with high quality",
+        "Must be very strong in Spring Framework, Spring Integration, Spring Boot and Spring Batch with a minimum of 4 years of software development expertise",
+        "Proficiency in RESTful web services and API development using Spring",
+        "ORM tool experience (MyBatis, Entity Framework, Hibernate, JPA)",
+        "Object-oriented programming (OOP) expertise",
+        "Eclipse, IBM RAD or similar IDE proficiency",
+        "SOA architecture and web services internals experience",
+        "Design experience working with n-tier architectures (UI, Business Logic Layer, Data Access Layer)",
+        "Software implementation best practices knowledge",
+        "Experience with Git Version control (or other version control systems like SVN or CVS or Clear Case)",
+        "20+ Years of Proven Industry Experience in 4 major markets"
+      ],
+      "Benefits": [
+        "Competitive compensation package",
+        "Full Benefits; Medical, Vision, Dental, and more!",
+        "Opportunity to get in with an industry leading organization",
+        "Dedicated Engagement Manager who is committed to you and your success",
+        "Medical, Dental, Vision, and Life Insurance",
+        "ClearlyRated’s Best of Staffing® Client and Talent Award winner 10 years in a row"
+      ]
+    },
+    "job_job_title": "Senior",
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  },
+  {
+    "employer_name": "Centurion Consulting Group, LLC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpw7wGuEto4UzbH7dWK-M2d9Mk7q06sUef415Y&s=0",
+    "employer_website": "http://centurioncg.com",
+    "employer_company_type": null,
+    "job_publisher": "LinkedIn",
+    "job_id": "au8eLNTWvdyts_DrAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Java Developer (IRS) REMOTE",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/java-developer-irs-remote-at-centurion-consulting-group-llc-3743971481",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.6557,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/java-developer-irs-remote-at-centurion-consulting-group-llc-3743971481",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Centurion Consulting Group is looking for a Java Developer for REMOTE position.\n• Looking for someone who has supported IRS and has an active Public Trust clearance only. This is a very specific position and has to have this experience. Sorry, but Candidates without this, will NOT be considered.\n\nJava Developer\n\nRequired Skills:\n\n• Java 6+ / J2EE\n\n• Spring Boot / Spring Framework\n\n• Spring MVC\n\n• RESTful web services\n\n• JDBC / SQL / PL/SQL\n\n• MongoDB / other NoSQL\n\n• Maven / Gradle / other dependency management\n\n• JBoss or IBM WebSphere Application Server is preferred, but Oracle AS, Tomcat, or WebLogic Application Server will be considered.\n\n• Oracle 10g/11g/12c Database\n\n• Enterprise S/W Design Patterns\n\n• OOAD - UML - RUP/Rational Analysis tool\n\n• Microsoft Office products\n\n• XML / YAML / JSON / SOAP\n\n• SoapUI / JMeter / other web service testing tools\n\n• HTML Design - CSS – JavaScript\n\n• Linux\n\nOther Skills desired but not required\n\n• Cloud technologies (Docker, Kubernetes, OpenShift, AWS)\n\n• Java 8+\n\n• React.js / Angular.js\n\n• IBM Rational Tool Suite (ClearCase, ClearQuest, Rational Team Concert, Engineering Lifecycle Management, AppScan)\n\n• Other version control systems (git)\n\n• Thymeleaf\n\n• Selenium\n\n• Toad / SQL Plus or similar application\n\n• IBM WebSphere MQ\n\n• UNIX\n\n• Knowledge of Agile Development Methodology\n\n• C / C++ / C#\n\n• Microsoft Project\n\n• Microsoft Visio\n\n• BOE\n\nBachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined education, with 7+ years of professional experience for mid-level developers\n\nPosition Details:\n\nClearance: Must be able to obtain Public Trust\n\nUS Citizenship is required.\n\nTravel: < 10% (CONUS)\n\nCenturion Consulting Group, LLC is an Equal Opportunity Employer EOE M/F/D/V\n\nNo third parties or subcontractors",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697726312,
+    "job_posted_at_datetime_utc": "2023-10-19T14:38:32.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=java+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=java+developer&htidocid=au8eLNTWvdyts_DrAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-18T14:38:32.000Z",
+    "job_offer_expiration_timestamp": 1700318312,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 84,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": true,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Looking for someone who has supported IRS and has an active Public Trust clearance only",
+        "Java 6+ / J2EE",
+        "Spring Boot / Spring Framework",
+        "Spring MVC",
+        "RESTful web services",
+        "JDBC / SQL / PL/SQL",
+        "MongoDB / other NoSQL",
+        "Maven / Gradle / other dependency management",
+        "Oracle 10g/11g/12c Database",
+        "Enterprise S/W Design Patterns",
+        "OOAD - UML - RUP/Rational Analysis tool",
+        "Microsoft Office products",
+        "XML / YAML / JSON / SOAP",
+        "SoapUI / JMeter / other web service testing tools",
+        "HTML Design - CSS – JavaScript",
+        "Linux",
+        "Bachelor’s degree from an accredited college in a related discipline, or equivalent experience/combined education, with 7+ years of professional experience for mid-level developers",
+        "Clearance: Must be able to obtain Public Trust",
+        "US Citizenship is required"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113200",
+    "job_onet_job_zone": "4"
+  }
+]

@@ -33,12 +33,10 @@ const JobDetails = () => {
   const [refreshing, setRefreshing] = useState(false);
   const [activeTab, setActiveTab] = useState(tabs[0]);
 
-  // console.log(params.source)
-   const { data, isLoading, error, refresh } = useFetch("job-details", {
+   const { data, isLoading, error, db, refresh } = useFetch("job-details", {
      job_id: params?.id,
      source: params?.source,
    });
-
   const onRefresh = useCallback(() => {
     setRefreshing(true);
     refresh();
@@ -102,7 +100,7 @@ const JobDetails = () => {
             <ActivityIndicator size={"large"} color={COLORS.primary} />
           ) : error === "" ? (
             <Text>Something went wrong</Text>
-          ) : data.length === 0 ? (
+          ) : data?.length === 0 ? (
             <Button title="View Details" onPress={refresh} />
           ) : (
             <View style={{ padding: SIZES.medium, paddingBottom: 100 }}>

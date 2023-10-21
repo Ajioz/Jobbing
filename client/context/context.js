@@ -4,10 +4,10 @@ import useFetch from "../hook/useFetch";
 const AppContext = createContext();
 
 const AppProvider = ({ children }) => {
-  const { data, isLoading, error} = useFetch("search");
+  const { data, isLoading, error, db, refresh } = useFetch("Other");
 
   return (
-    <AppContext.Provider value={{ data, isLoading, error }}>
+    <AppContext.Provider value={{ data, isLoading, error, db, refresh }}>
       {children}
     </AppContext.Provider>
   );

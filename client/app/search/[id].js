@@ -6,18 +6,13 @@ import {
   TouchableOpacity,
   View,
 } from "react-native";
-import {
-  Stack,
-  useRouter,
-  useGlobalSearchParams,
-} from "expo-router";
+import { Stack, useRouter, useGlobalSearchParams } from "expo-router";
 import { Text, SafeAreaView } from "react-native";
 import axios from "axios";
-
 import { ScreenHeaderBtn, NearbyJobCard } from "../../components";
 import { COLORS, icons, SIZES } from "../../constants";
 import styles from "../../styles/search";
-
+import { jobRoute } from "../../utils";
 
 const JobSearch = () => {
   const params = useGlobalSearchParams();
@@ -29,14 +24,11 @@ const JobSearch = () => {
   const [page, setPage] = useState(1);
 
   const handleSearch = async () => {
-    // console.log(params);
     setSearchLoader(true);
     setSearchResult([]);
 
     try {
-      const response = await axios.get(
-        "https://jobbingapi.onrender.com/other/jobs"
-      );
+      const response = await axios.get(`${jobRoute}`);
       setSearchResult(response.data);
     } catch (error) {
       setSearchError(error);
@@ -85,7 +77,7 @@ const JobSearch = () => {
             handleNavigate={() =>
               router.push({
                 pathname: `job-details/${item.job_id}`,
-                params: { source: 'others' },
+                params: { source: "others" },
               })
             }
           />

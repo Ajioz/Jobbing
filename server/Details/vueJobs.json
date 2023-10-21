@@ -1,0 +1,791 @@
+[
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "hVV6MPVzZ3wmy5lFAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "VueJs Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-Developer_~0109bddddb4d38addd/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-Developer_~0109bddddb4d38addd/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "The Job Overview\n\nWe are seeking a dedicated Vue.js front-end developer to join our growing company. You will work as part of a team to develop fast, well-tested, and performant code for various web and mobile applications using Vue.js. As a Vue.js front-end developer, you will be expected to work with standard programming tools such as version control and deployment software, follow industry best practices, write tests for the code you write, and follow all applicable coding guidelines.\n\nYour duties will include taking part in daily scrums, writing and developing modules for existing Vue applications, integrating Vue into existing projects, writing code and tests for code, taking part in code review sessions, and using version control software to push and pull code for testing and deployment.\n\nResponsibilities\n\nBelow are some of the responsibilities a Vue.js developer is expected to assume in their position:\n\nWrite performant code using core Vue, Vuex, and Vue Router to create websites and web applications\n\nCreate tests for code written by yourself and other web developers, full-stack developers, and software engineers\n\nIntegrate Vue into legacy projects\n\nDiagnose and fix bugs and other software defects in new and existing Vue applications\n\nRun code optimization tools and analyzers to spot and refactor inefficiencies to create highly performant code\n\nJob Qualifications and Skill Sets\n\nBelow are the qualifications expected of a Vue.js developer:\n\nBachelor’s degree in computer science, or other related fields\n\nStrong understanding of JavaScript and React JS, including the latest revisions of ECMAScript\n\nGood knowledge of the Vue.js framework and related components such as Vuex and Vue Router\n\nExperience with standard tools and services in JavaScript front-end development and software development, such as Git, GitHub, HTML5, Laravel, Angular, Node.js, and npm\n\nThe ability to work as part of a team, taking ownership of individual components and following coding guidelines to create performant components that fit into more-comprehensive projects\n\nAn understanding of advanced JavaScript concepts, such as dealing with asynchronous requests and dynamic content\n\nExperience with integrating and maintaining external software libraries and APIs using a command-line interface and package managers",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697444332,
+    "job_posted_at_datetime_utc": "2023-10-16T08:18:52.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=hVV6MPVzZ3wmy5lFAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": [
+      "Vue.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "CSS 3",
+      "Sass",
+      "Vuex",
+      "Web Application",
+      "Git",
+      "HTML5"
+    ],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": true,
+      "degree_preferred": true,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 10,
+    "job_max_salary": 15,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor’s degree in computer science, or other related fields",
+        "Strong understanding of JavaScript and React JS, including the latest revisions of ECMAScript",
+        "Good knowledge of the Vue.js framework and related components such as Vuex and Vue Router",
+        "Experience with standard tools and services in JavaScript front-end development and software development, such as Git, GitHub, HTML5, Laravel, Angular, Node.js, and npm",
+        "The ability to work as part of a team, taking ownership of individual components and following coding guidelines to create performant components that fit into more-comprehensive projects",
+        "An understanding of advanced JavaScript concepts, such as dealing with asynchronous requests and dynamic content",
+        "Experience with integrating and maintaining external software libraries and APIs using a command-line interface and package managers"
+      ],
+      "Responsibilities": [
+        "As a Vue.js front-end developer, you will be expected to work with standard programming tools such as version control and deployment software, follow industry best practices, write tests for the code you write, and follow all applicable coding guidelines",
+        "Your duties will include taking part in daily scrums, writing and developing modules for existing Vue applications, integrating Vue into existing projects, writing code and tests for code, taking part in code review sessions, and using version control software to push and pull code for testing and deployment",
+        "Write performant code using core Vue, Vuex, and Vue Router to create websites and web applications",
+        "Create tests for code written by yourself and other web developers, full-stack developers, and software engineers",
+        "Diagnose and fix bugs and other software defects in new and existing Vue applications",
+        "Run code optimization tools and analyzers to spot and refactor inefficiencies to create highly performant code"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Virtual Alarm Dealer",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtVwj9DOJVu49LeGf845c49jvOeG9PI1Lo405&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Wellfound",
+    "job_id": "ldDEHtl6M8FhwbKBAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "VueJs Developer",
+    "job_apply_link": "https://wellfound.com/jobs/1218649-vuejs-developer",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6834,
+    "apply_options": [
+      {
+        "publisher": "Wellfound",
+        "apply_link": "https://wellfound.com/jobs/1218649-vuejs-developer",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Our company sells and installs alarms across the United States, in addition to providing an industry-leading suite of software solutions. We are looking to hire Senior Software Developers - VUEJS experienced.\n\nIn this role, your Specific Responsibilities will include:\n• Report directly to our Lead Developer, and collaborate with our COO/CEO and business stakeholders as needed.\n• Complete project-based tasks as assigned.\n• Developing interface applications using Vue.js\n• Maintain a working knowledge of advances and trends in programming and technology\n• Write clean, secure, test driven, easily maintainable and modular codes\n• Design and maintain databases.\n• Build reusable code and libraries for future use.\n• Troubleshoot and debug applications.\n• Implementing and maintaining fast and informative automated tests\n• Collaborate and work with other software developers and user experience (UX) designers on the front-end needs of projects.\n• Adhere closely to development plans and anticipate changes to specification or schedule as they become necessary during development.\n• Stay engaged and responsive via collaboration tools such as Slack and Miro.\n• All other job duties as requested\n\nQualifications\n\nExperience: At least 4+ years software development experience.\n\nminimum of 3+ years developing in VueJS\n\nPreferred Experience\n\nIn addition to the qualifications listed above, the ideal candidate would possess one or more of the following:\n• Advanced knowledge of JavaScript and ES6+ syntax\n• Advanced knowledge and experience with the VueJS framework and core VueJS principles\n• Complete understanding of Tailwind CSS framework\n• Experience with server-side rendered apps\n• Ability to write reusable, clean, and well-documented VueJS code\n• Experience with dev packs like webpack, laravel-mix\n• Experience maintaining project git\n• Strong command of the English language\n• Experience working for a growing small business\n\nAdditional Requirements\n• Must be confident communicating and collaborating with our business leadership team; must also be able to understand business needs and take a solutions-oriented approach to the development process\n• Must be comfortable working within a small, fast-paced, 100% remote development environment; prior track record of successfully working remotely is strongly preferred\n• Must be reliable, resourceful, and highly self-motivated\n• This is a fast-paced environment, and we are 100% geographically decentralized: all communications are managed virtually, and all employees and contractors work remotely.\n• Must have a dedicated home office or workspace that is free from distractions\n• Must be proficient with technology (e.g., G Suite, Microsoft Office, Slack, etc.), as well as able to learn and adapt to new tools and communications platforms with agility\n• Must be flexible, resourceful, and highly self-motivated\n• Must have a positive attitude and overall willingness to learn\n\nFULL JOB DESCRIPTION\n\nOur company sells and installs alarms across the United States, in addition to providing an industry-leading suite of software solutions that allows sales representatives, technicians, and referral partners to minimize overhead and maximize income. Our company values are Quality, Transparency, and Innovation. Our current leadership team has expertise in software development, technology, business process improvement, operations, and marketing, and we are looking for a dynamic, ambitious VueJS Software Development professional to add to the group.\n\nThis is a fast-paced environment, where we must react quickly, act decisively and always strive to “fail fast.” Above all else, our founders are passionate about creating opportunity for those that demonstrate ambition and strong work ethic. We love to identify, cultivate, and reward great talent. In keeping with that principle, we have a lean and flat organizational structure; you will be empowered to make decisions, and your work will directly impact the strategic direction and operational success of the business. As our business continues to scale, you and your role would be positioned to grow along with the company.\n\nIn order to thrive here, you must be highly self-motivated, responsive, and comfortable managing responsibilities in a remote work environment.\n\nVirtual Alarm Dealer focuses on Direct Sales, Home Safety, and Sales. Their company has offices in Las Vegas. They have a small team that's between 11-50 employees.\n\nYou can view their website at http://virtualalarmdealer.com/",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1695335175,
+    "job_posted_at_datetime_utc": "2023-09-21T22:26:15.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=ldDEHtl6M8FhwbKBAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-11-17T21:39:27.000Z",
+    "job_offer_expiration_timestamp": 1700257167,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 48,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 80000,
+    "job_max_salary": 110000,
+    "job_salary_currency": "USD",
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Experience: At least 4+ years software development experience",
+        "minimum of 3+ years developing in VueJS",
+        "In addition to the qualifications listed above, the ideal candidate would possess one or more of the following:",
+        "Advanced knowledge of JavaScript and ES6+ syntax",
+        "Advanced knowledge and experience with the VueJS framework and core VueJS principles",
+        "Complete understanding of Tailwind CSS framework",
+        "Experience with server-side rendered apps",
+        "Ability to write reusable, clean, and well-documented VueJS code",
+        "Experience with dev packs like webpack, laravel-mix",
+        "Experience maintaining project git",
+        "Strong command of the English language",
+        "Experience working for a growing small business",
+        "Must be confident communicating and collaborating with our business leadership team; must also be able to understand business needs and take a solutions-oriented approach to the development process",
+        "Must be reliable, resourceful, and highly self-motivated",
+        "This is a fast-paced environment, and we are 100% geographically decentralized: all communications are managed virtually, and all employees and contractors work remotely",
+        "Must have a dedicated home office or workspace that is free from distractions",
+        "Must be proficient with technology (e.g., G Suite, Microsoft Office, Slack, etc.), as well as able to learn and adapt to new tools and communications platforms with agility",
+        "Must have a positive attitude and overall willingness to learn"
+      ],
+      "Responsibilities": [
+        "Report directly to our Lead Developer, and collaborate with our COO/CEO and business stakeholders as needed",
+        "Complete project-based tasks as assigned",
+        "Developing interface applications using Vue.js",
+        "Maintain a working knowledge of advances and trends in programming and technology",
+        "Write clean, secure, test driven, easily maintainable and modular codes",
+        "Design and maintain databases",
+        "Build reusable code and libraries for future use",
+        "Troubleshoot and debug applications",
+        "Implementing and maintaining fast and informative automated tests",
+        "Collaborate and work with other software developers and user experience (UX) designers on the front-end needs of projects",
+        "Adhere closely to development plans and anticipate changes to specification or schedule as they become necessary during development",
+        "Stay engaged and responsive via collaboration tools such as Slack and Miro",
+        "All other job duties as requested"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "BOuaEuovIkb6Jp4_AAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "VueJs Developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-Developer_~01d9c6be27247e3a01/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.7704,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-Developer_~01d9c6be27247e3a01/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Looking for an experienced VueJs developer for ongoing Ed Tech project",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697094815,
+    "job_posted_at_datetime_utc": "2023-10-12T07:13:35.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=BOuaEuovIkb6Jp4_AAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["Vue.js", "JavaScript", "CSS", "Vuex", "Sass"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 10,
+    "job_max_salary": 18,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {},
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "0tftl3dJcUKYeOhVAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "Vue.js Developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/Vue-Developer_~0171169b773f3ff980/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/Vue-Developer_~0171169b773f3ff980/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Hello! We're a growing digital agency actively seeking a skilled Vue.js Developer to start immediately for an ongoing project. Your primary task will be to develop a Vehicle Warranty Calculator component for a Hugo-based website, backed by a .NET Core infrastructure.\n\nYour responsibilities will include crafting a responsive calculator in Vue.js, integrating it seamlessly into our Hugo site, and working in tandem with our .NET Core backend team. You'll also collaborate with our UX/UI designers to ensure the component is in line with the site's overall design. Regular code reviews are part of our process, and we highly value constructive feedback.\n\nWe're looking for candidates with a minimum of 3 years of professional Vue.js experience, strong proficiency in JavaScript, HTML5, and CSS3, and familiarity with .NET Core. Experience with Hugo or other static site generators is a plus, as is knowledge of RESTful APIs and AJAX.\n\nThis is a remote role with a preference for candidates who can work within the EST time zone. The role is expected to be ongoing, extending beyond the initial 2-3 months based on performance and project needs. When applying, please include portfolio examples that showcase your expertise in Vue.js and .NET Core.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1697641428,
+    "job_posted_at_datetime_utc": "2023-10-18T15:03:48.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=0tftl3dJcUKYeOhVAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 36,
+      "experience_mentioned": true,
+      "experience_preferred": true
+    },
+    "job_required_skills": ["Vue.js", "JavaScript", "CSS", "Node.js"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 25,
+    "job_max_salary": 55,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "We're looking for candidates with a minimum of 3 years of professional Vue.js experience, strong proficiency in JavaScript, HTML5, and CSS3, and familiarity with .NET Core",
+        "The role is expected to be ongoing, extending beyond the initial 2-3 months based on performance and project needs"
+      ],
+      "Responsibilities": [
+        "Your primary task will be to develop a Vehicle Warranty Calculator component for a Hugo-based website, backed by a .NET Core infrastructure",
+        "Your responsibilities will include crafting a responsive calculator in Vue.js, integrating it seamlessly into our Hugo site, and working in tandem with our .NET Core backend team",
+        "You'll also collaborate with our UX/UI designers to ensure the component is in line with the site's overall design"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "uuRAtlBcI3Dtvt7eAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "VueJS Developer - Contract to Hire",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJS-Developer_~01ce956ceb56d18f71/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.6851,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJS-Developer_~01ce956ceb56d18f71/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We are seeking an experienced VueJS developer to join our team on a freelance basis, with the opportunity to become a part of the company long-term. Our company is a fast-growing startup that is dedicated to creating innovative cybersecurity solutions. We are looking for a web developer who is passionate about creating high-quality, scalable, and maintainable code.\n\nResponsibilities:\n\n- Develop new features and functionalities for our web applications using VueJS.\n\n- Collaborate with our team of designers, developers, and project managers to deliver projects on time and within budget.\n\n- Write clean, efficient, and well-documented code that adheres to best practices.\n\n- Optimize the performance of our web applications and ensure they are compatible with all browsers (mainly Chrome and Safari) and devices (desktop and mobile).\n\n- Conduct code reviews and provide feedback to other developers on the team.\n\nRequirements:\n\n- At least 2 years of experience developing web applications using VueJS.\n\n- Experience working with HTML, CSS, and JavaScript.\n\n- Strong knowledge of VueJS and its core principles.\n\n- Familiarity with state management libraries such as Vuex.\n\n- Experience with testing frameworks such as Jest.\n\n- Experience with Git and GitHub.\n\n- Ability to work independently and as part of a team.\n\n- Strong problem-solving skills and attention to detail.\n\n- Excellent communication skills in English.\n\nNice to have:\n\n- Knowledge of Cloudflare Workers.\n\nIf you are passionate about developing high-quality web applications using VueJS and are looking for a challenging and rewarding freelance opportunity, we encourage you to apply for this position. Please submit your resume and portfolio of relevant work along with your application. We look forward to hearing from you!",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1677879928,
+    "job_posted_at_datetime_utc": "2023-03-03T21:45:28.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=uuRAtlBcI3Dtvt7eAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 24,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["Vue.js", "Vuex", "Nuxt.js"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": 11,
+    "job_max_salary": 22,
+    "job_salary_currency": "USD",
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "At least 2 years of experience developing web applications using VueJS",
+        "Experience working with HTML, CSS, and JavaScript",
+        "Strong knowledge of VueJS and its core principles",
+        "Familiarity with state management libraries such as Vuex",
+        "Experience with testing frameworks such as Jest",
+        "Experience with Git and GitHub",
+        "Ability to work independently and as part of a team",
+        "Strong problem-solving skills and attention to detail",
+        "Excellent communication skills in English",
+        "Knowledge of Cloudflare Workers"
+      ],
+      "Responsibilities": [
+        "Develop new features and functionalities for our web applications using VueJS",
+        "Collaborate with our team of designers, developers, and project managers to deliver projects on time and within budget",
+        "Write clean, efficient, and well-documented code that adheres to best practices",
+        "Optimize the performance of our web applications and ensure they are compatible with all browsers (mainly Chrome and Safari) and devices (desktop and mobile)",
+        "Conduct code reviews and provide feedback to other developers on the team"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "Federal Soft Systems",
+    "employer_logo": null,
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Jooble",
+    "job_id": "lOoPdCnx1iQ-4ftNAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "UI / VueJS Developer",
+    "job_apply_link": "https://jooble.org/jdp/-5469355697340971971/UI-%2F-VueJS-Developer-Arkansas",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.5591,
+    "apply_options": [
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/-5469355697340971971/UI-%2F-VueJS-Developer-Arkansas",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/20231018-eec5871088a90542dd5cdd7cb34a21be",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2467-20231018-233cf3d3af015acc1f2735660df5b7b9",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We from FSS (Federal Soft Systems) TA team, looking to below position to fill immediately. Its a full-time position to us, pls apply if interested.\n\nUI VueJS Developer\n\nFull-Time | C2H\n\nW2 Candidates only\n\nJob Description:\n\nUpgrade application frameworks from VueJs 2.x to 3.x.\n\nWrite reusable, effective, and scalable JavaScript code\n\nBuild modular and reusable components and libraries\n\nImplement front-end components with progressive Vue.js framework\n\nUnitTest, update and optimize the application for performance and security.\n\nSkills :\n\nProficiency in JavaScript language, including its syntax and features",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697516449,
+    "job_posted_at_datetime_utc": "2023-10-17T04:20:49.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=lOoPdCnx1iQ-4ftNAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Proficiency in JavaScript language, including its syntax and features"
+      ],
+      "Responsibilities": [
+        "Write reusable, effective, and scalable JavaScript code",
+        "Build modular and reusable components and libraries",
+        "Implement front-end components with progressive Vue.js framework"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Upwork",
+    "employer_logo": "https://image.status.io/z6aeO6kAGsAG.png",
+    "employer_website": "http://www.elance.com",
+    "employer_company_type": "Computer Services",
+    "job_publisher": "Upwork",
+    "job_id": "RbdUUJ9A87ee_P7jAAAAAA==",
+    "job_employment_type": "CONTRACTOR",
+    "job_title": "VueJs developer",
+    "job_apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-developer_~01e28fae5c4429c24b/",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.7883,
+    "apply_options": [
+      {
+        "publisher": "Upwork",
+        "apply_link": "https://www.upwork.com/freelance-jobs/apply/VueJs-developer_~01e28fae5c4429c24b/",
+        "is_direct": true
+      }
+    ],
+    "job_description": "We are a fintech looking to revamp our landing page. The team does finance automation and this work is part of our brand refresh.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1696522291,
+    "job_posted_at_datetime_utc": "2023-10-05T16:11:31.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=RbdUUJ9A87ee_P7jAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": ["Vue.js", "HTML", "CSS", "API"],
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3",
+    "job_naics_code": "541511",
+    "job_naics_name": "Custom Computer Programming Services"
+  },
+  {
+    "employer_name": "DBA Web Technologies",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5BSMIt7m2uiId_3142LNElhU-kvf9h48rIEOM&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Trabajo.org",
+    "job_id": "rKsVHKr2-42wLWItAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Vue.JS Software Engineer-REMOTE",
+    "job_apply_link": "https://us.trabajo.org/job-1275-20231019-04553773a0d8517e732e25b283a711ea",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.4983,
+    "apply_options": [
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-1275-20231019-04553773a0d8517e732e25b283a711ea",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Two REMOTE Software Developers (Perl, UNIX Scripting, MySQL, Aurora, Node.js, Javascript, Jquery) in Bethesda, MD\nAWS, Bootstrap, CSS, JavaScript, jQuery, MySQL, NodeJS, Perl, scripting, Software Development\nSoftware Development\nTwo REMOTE Software Developers (Perl, UNIX Scripting, MySQL, Aurora, Node.js, Javascript, Jquery) in Bethesda, MD\nSoftware Developer (Perl, UNIX Scripting, MySQL, Aurora, Node.js, Javascript, Jquery) - 2 Positions (REMOTE)\nDuration: Full-Time Permanent positions (no contract, no corp to corp) - REMOTE\nRemote = 100% Remote Option\nTravel = About 20%\nSoftware Development, Perl, UNIX Scripting, MySQL, Aurora, Node.js, Javascript, ES2015, TypeScript, Javascript UI Frameworks, Vue, Jquery, UI Modelling, CSS, Bootstrap, AWS, AWS Lambda\nBuild solutions that enable sophisticated automation and workflows\n~Implement cutting edge models and algorithms that operate on massive amounts of data\n~Develop high performance and scalable solutions that extract, transform, and load big data\n~Work with internal QA team on system, performance and acceptance testing\n~Help the team leverage and contribute to open source technologies\n~Strong aptitude for writing efficient code, that is maintainable, scalable and robust\n~Perl and UNIX Scripting Skills (or a Perl related language and the desire to learn Perl)\n~Knowledge of SQL and database technologies (MySQL, Aurora)\n~js and modern Javascript (ES2015, TypeScript, etc.)\n~Javascript UI frameworks (Vue, Jquery)\n\nUI Modeling CSS and Bootstrap\n~",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697699935,
+    "job_posted_at_datetime_utc": "2023-10-19T07:18:55.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=rKsVHKr2-42wLWItAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": "2023-10-26T00:00:00.000Z",
+    "job_offer_expiration_timestamp": 1698278400,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": false,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "~Strong aptitude for writing efficient code, that is maintainable, scalable and robust",
+        "~Perl and UNIX Scripting Skills (or a Perl related language and the desire to learn Perl)",
+        "~Knowledge of SQL and database technologies (MySQL, Aurora)",
+        "~js and modern Javascript (ES2015, TypeScript, etc.)"
+      ],
+      "Responsibilities": [
+        "Build solutions that enable sophisticated automation and workflows",
+        "~Implement cutting edge models and algorithms that operate on massive amounts of data"
+      ],
+      "Benefits": ["Remote = 100% Remote Option"]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "Egen",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQidqzym68jdHbzt5zDiXbsRCreDVIKXAPIjXR7&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Built In",
+    "job_id": "q-rEAUiu4BnsjUUuAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Front End Software Developer - VueJS/ReactJS/Angular - India (Remote)",
+    "job_apply_link": "https://builtin.com/job/engineer/front-end-software-developer-vuejsreactjsangular-india/1131593",
+    "job_apply_is_direct": false,
+    "job_apply_quality_score": 0.585,
+    "apply_options": [
+      {
+        "publisher": "Built In",
+        "apply_link": "https://builtin.com/job/engineer/front-end-software-developer-vuejsreactjsangular-india/1131593",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Egen is a data engineering and cloud modernization firm helping industry-leading companies achieve digital breakthroughs and deliver for the future, today. We are catalysts for change who create digital breakthroughs at warp speed. Our team of cloud and data engineering experts are trusted by top clients in pursuit of the extraordinary. An Inc. 5000 Fastest Growing Company 7 times, and recently recognized on the Crain’s Chicago Business Fast 50 list, Egen has also been recognized as a great place to work 3 times.\n\nThe Application Development team's tech stack can consist of VueJS, ReactJS or Angular on the front end and also includes Typescript, NodeJS, Express, NestJS, PostgreSQL, RESTful Microservices, and cloud services.\n\nIn this role, you will be leveraging your well-versed knowledge of software engineering principles and system design along with a team of interesting and super-smart engineers to solve new and hard to solve business problems with elegant software. We hire Dynamic, Curious, Hustlers who constantly challenge themselves (and others) to grow and be innovative in their approach to bring concepts and designs to life and be committed to lifelong technology (and everything) learning.\n\nRequired Experience:\n• Love of Javascript with a strong understanding of its design patterns, best practices, and style guides\n• Strong production experience with Javascript MVC frameworks - preferably AngularJS, React JS, and/or VueJS\n• C# and API Development (RESTful, GraphQL, .Net Web API) experience\n• Test first and test often development approach with Karma and Jasmine, Mocha, or Protractor frameworks\n• Ability to leverage Git version control in a production environment\n• Have experience with and curiosity of agile and lean philosophies\n• Have experience working and a strong understanding of object-oriented programing and browser technologies\n• Ability to see and communicate your ideas to clients and the team\n• Able to disagree with a smile :)\n\nLearn more about Egen!\n• Check out our Insights blog. Many of the thought-leadership pieces on our website are written by our own team of subject matter experts. Proof at Egen you can make a difference.\n• Learn more about what we do. Let’s talk about joining a team of Egeneers which has made a real impact by revolutionizing the online grocery industry. This is just one of the many industries in which we are subject matter experts.\n• Read about our company core values. Our core values are more than a statement on paper, we deliver on our commitments.",
+    "job_is_remote": true,
+    "job_posted_at_timestamp": 1657771248,
+    "job_posted_at_datetime_utc": "2022-07-14T04:00:48.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=q-rEAUiu4BnsjUUuAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": null,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": true,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Love of Javascript with a strong understanding of its design patterns, best practices, and style guides",
+        "Strong production experience with Javascript MVC frameworks - preferably AngularJS, React JS, and/or VueJS",
+        "C# and API Development (RESTful, GraphQL, .Net Web API) experience",
+        "Test first and test often development approach with Karma and Jasmine, Mocha, or Protractor frameworks",
+        "Ability to leverage Git version control in a production environment",
+        "Have experience with and curiosity of agile and lean philosophies",
+        "Have experience working and a strong understanding of object-oriented programing and browser technologies",
+        "Ability to see and communicate your ideas to clients and the team",
+        "Able to disagree with a smile :)"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113400",
+    "job_onet_job_zone": "3"
+  },
+  {
+    "employer_name": "INFUSEmedia",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeYvxvJu2G0XoJXIR_dgcGJMsTq6DhP4xx_5vw&s=0",
+    "employer_website": null,
+    "employer_company_type": null,
+    "job_publisher": "Glassdoor",
+    "job_id": "fMksqHOqjfB6K8HaAAAAAA==",
+    "job_employment_type": "FULLTIME",
+    "job_title": "Back-end PHP/ Full Stack PHP/Vue.js Developer",
+    "job_apply_link": "https://www.glassdoor.com/job-listing/back-end-php-full-stack-php-vue-js-developer-infusemedia-JV_KO0,44_KE45,56.htm?jl=1008924079197",
+    "job_apply_is_direct": true,
+    "job_apply_quality_score": 0.5593,
+    "apply_options": [
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/back-end-php-full-stack-php-vue-js-developer-infusemedia-JV_KO0,44_KE45,56.htm?jl=1008924079197",
+        "is_direct": true
+      }
+    ],
+    "job_description": "OUR HIRING PROCESS:\n• We will review your application against our job requirements. We do not employ machine learning technologies during this phase as we believe every human deserves attention from another human. We do not think machines can evaluate your application quite like our seasoned recruiting professionals—every person is unique. We promise to give your candidacy a fair and detailed assessment.\n• We may then invite you to submit a video interview for the review of the hiring manager. This video interview is often followed by a test or short project that allows us to determine whether you will be a good fit for the team.\n• At this point, we will invite you to interview with our hiring manager and/or the interview team. Please note: We do not conduct interviews via text message, Telegram, etc. and we never hire anyone into our organization without having met you face-to-face (or via Zoom). You will be invited to come to a live meeting or Zoom, where you will meet our INFUSEmedia team.\n• From there on, it's decision time! If you are still excited to join INFUSE and we like you as much, we will have a conversation about your offer. We do not make offers without giving you the opportunity to speak with us live. After all, we consider our team members our family, and we want you to feel comfortable and welcomed.\n\nINFUSEmedia, located in Boston, USA, specializing in B2B digital marketing, lead generation, and content marketing—is looking for an experienced Senior Full Stack PHP/Vue.js to develop, finalize, and support our software solutions and web platforms for online marketing processes. The ideal candidate will be part of a cross-functional team that will transform our digital capabilities.\n\nWe are proud to be one of the fastest-growing companies in the USA. Our clients are large international companies such as Microsoft, Google, Lenovo, Oracle, DELL, Cisco, Intel, Samsung, Panasonic, Red Hat, Salesforce, and IBM. We have over 1000+ employees all over the globe. We know that our employees are our most valuable asset, so we strive to attract and hire only the best talent. We grow in all key areas every year, and we don't plan to slow down any time soon.\n\nRequirements:\n\nBack-End:\n• 5+ years of commercial PHP development experience, a deep understanding of OOP, MVC, ORM, as well as Laravel/Symfony.\n• Experience with building REST API and using JSON.\n• MySQL/MariaDB: Maintenance, optimization, and knowledge of complex queries (JOIN, UNION, subqueries).\n• An understanding of the InnoDB engine, and experience in working with large databases.\n• Real-time web application experience (WS, Long poll, AJAX).\n• Inter-service communication knowledgeability (RabbitMQ/ Kafka /REST).\n• Experience with inter-process communication, caching and message queues, and knowledge of key-value storages (Redis, Memcached).\n\nFront-End:\n• Experience with JavaScript /jQuery\n• Knowledge of AJAX requests as well as their creation and optimization, and experience with Node.js, Bootstrap v3+.\n• Ability to write memory-efficient front-end code.\n• HTML/CSS: Flexbox/Grid, CSS/ Uikit and style optimization capabilities.\n• JS frameworks - Vue.JS/React proficiency.\n• Abilities to write and comprehend high-quality code that is understandable to other developers.\n\nIt will be a plus if you have experience with:\n• Version Control Systems GIT teamwork.\n• Writing unit tests.\n• Linux/Unix, SSH/SFTP, bash commands, cron, and Nginx/Apache web servers.\n• JS Tooling (Webpack/Browserify/npm/yarn).\n• Async Javascript (event loop/promises, async/await).\n• Independently and quickly locating and correcting errors in code.\n• English technical writing\n• Russian/Ukrainian languages\n\nResponsibilities:\n• Write complex, clean, well-documented, and reusable code.\n• Optimize existing databases.\n• Write complex but understandable and efficient requests to extract data.\n• Ensure optimal performance, stability, and security when it comes to the systems.\n• Improve user interface and user experience.\n• Apply bug fixes and improvements based on users and QA reports.\n• Allocate tasks and priorities for the team.\n• Understand project goals and convert them into clear tasks for developers.\n\nWhat we offer:\n• Competitive compensation based on your experience and skills.\n• Consistent monthly payments based on invoices (payments are made via Bank transfer / Payoneer/PayPal).\n• Remote working from 14:00 to 23:00 EEST, which includes a one-hour break.\n• We support work/life balance, and offer paid vacation leave as well as sick leave.\n• Opportunities for professional and career development.\n• You will have the opportunity to use modern approaches and tools to solve business problems.\n\nOur recruitment process:\n• Interview with HR\n• Test task\n• Online technical interview with team leaders\n• Final interview with the Director of Technology\n\nTo learn more about INFUSEmedia, visit our website to view our vacancies and career opportunities:\n\nhttp://infusemedia.com/\n\nhttps://www.facebook.com/InfuseMediaUkraine/\n\nhttps://www.instagram.com/infuse_media_ukraine/\n\nDOU: https://jobs.dou.ua/companies/infusemedia/",
+    "job_is_remote": false,
+    "job_posted_at_timestamp": 1697155200,
+    "job_posted_at_datetime_utc": "2023-10-13T00:00:00.000Z",
+    "job_city": null,
+    "job_state": null,
+    "job_country": "US",
+    "job_latitude": 37.09024,
+    "job_longitude": -95.71289,
+    "job_benefits": ["paid_time_off"],
+    "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=vuejs+developer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=vuejs+developer&htidocid=fMksqHOqjfB6K8HaAAAAAA%3D%3D",
+    "job_offer_expiration_datetime_utc": null,
+    "job_offer_expiration_timestamp": null,
+    "job_required_experience": {
+      "no_experience_required": false,
+      "required_experience_in_months": 60,
+      "experience_mentioned": true,
+      "experience_preferred": false
+    },
+    "job_required_skills": null,
+    "job_required_education": {
+      "postgraduate_degree": false,
+      "professional_certification": false,
+      "high_school": false,
+      "associates_degree": false,
+      "bachelors_degree": false,
+      "degree_mentioned": false,
+      "degree_preferred": false,
+      "professional_certification_mentioned": false
+    },
+    "job_experience_in_place_of_education": false,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_currency": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "5+ years of commercial PHP development experience, a deep understanding of OOP, MVC, ORM, as well as Laravel/Symfony",
+        "Experience with building REST API and using JSON",
+        "MySQL/MariaDB: Maintenance, optimization, and knowledge of complex queries (JOIN, UNION, subqueries)",
+        "An understanding of the InnoDB engine, and experience in working with large databases",
+        "Real-time web application experience (WS, Long poll, AJAX)",
+        "Experience with JavaScript /jQuery",
+        "Knowledge of AJAX requests as well as their creation and optimization, and experience with Node.js, Bootstrap v3+",
+        "Ability to write memory-efficient front-end code",
+        "HTML/CSS: Flexbox/Grid, CSS/ Uikit and style optimization capabilities",
+        "JS frameworks - Vue.JS/React proficiency",
+        "Abilities to write and comprehend high-quality code that is understandable to other developers",
+        "Version Control Systems GIT teamwork",
+        "Writing unit tests",
+        "Linux/Unix, SSH/SFTP, bash commands, cron, and Nginx/Apache web servers",
+        "JS Tooling (Webpack/Browserify/npm/yarn)",
+        "Async Javascript (event loop/promises, async/await)",
+        "Independently and quickly locating and correcting errors in code",
+        "English technical writing"
+      ],
+      "Responsibilities": [
+        "Inter-service communication knowledgeability (RabbitMQ/ Kafka /REST)",
+        "Write complex, clean, well-documented, and reusable code",
+        "Optimize existing databases",
+        "Write complex but understandable and efficient requests to extract data",
+        "Ensure optimal performance, stability, and security when it comes to the systems",
+        "Improve user interface and user experience",
+        "Apply bug fixes and improvements based on users and QA reports",
+        "Allocate tasks and priorities for the team",
+        "Understand project goals and convert them into clear tasks for developers"
+      ],
+      "Benefits": [
+        "Competitive compensation based on your experience and skills",
+        "Consistent monthly payments based on invoices (payments are made via Bank transfer / Payoneer/PayPal)",
+        "Remote working from 14:00 to 23:00 EEST, which includes a one-hour break",
+        "We support work/life balance, and offer paid vacation leave as well as sick leave",
+        "Opportunities for professional and career development",
+        "You will have the opportunity to use modern approaches and tools to solve business problems"
+      ]
+    },
+    "job_job_title": null,
+    "job_posting_language": "en",
+    "job_onet_soc": "15113300",
+    "job_onet_job_zone": "4"
+  }
+]
+
