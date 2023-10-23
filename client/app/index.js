@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React, { useRef, useState, useEffect } from "react";
 import {
   View,
   ScrollView,
@@ -8,6 +8,9 @@ import {
   Text,
   TouchableOpacity,
   Image,
+  RefreshControl,
+  Alert,
+  BackHandler,
 } from "react-native";
 import { Stack, useRouter } from "expo-router";
 import { images, icons, COLORS, SIZES } from "../constants";
@@ -37,6 +40,35 @@ const Home = () => {
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState("");
   const [type, setType] = useState({ type: "", db: "Other", flag: false });
+  const [refresh, setRefresh] = useState(false);
+
+  const pullMe = () => {
+    setRefresh((prev) => !prev);
+    setTimeout(() => setRefresh((prev) => !prev), 1000);
+  };
+
+  useEffect(() => {
+    const backAction = () => {
+      Alert.alert("Hey Buddy", "You are having a great time. Spot-On!", [
+        {
+          text: "Cancel",
+          onPress: () => null,
+          style: "cancel",
+        },
+        {
+          text: "Continue",
+          onPress: () => drawer.current.closeDrawer(),
+        },
+      ]);
+      return true;
+    };
+
+    const backHandler = BackHandler.addEventListener(
+      "hardwareBackPress",
+      backAction
+    );
+    return () => true;
+  }, []);
 
   const navigationView = () => (
     <View style={[stylez.container, stylez.navigationContainer]}>
@@ -70,9 +102,8 @@ const Home = () => {
 
   const handleClose = (jobType) => {
     drawer.current.closeDrawer();
-    setType({ ...type, db: jobType.split(" ")[0], flag:true, type:"" });
+    setType({ ...type, db: jobType.split(" ")[0], flag: true, type: "" });
   };
-
 
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}>
@@ -103,7 +134,12 @@ const Home = () => {
             headerTitle: "",
           }}
         />
-        <ScrollView showsVerticalScrollIndicator={false}>
+        <ScrollView
+          showsVerticalScrollIndicator={false}
+          refreshControl={
+            <RefreshControl refreshing={refresh} onRefresh={pullMe} />
+          }
+        >
           <View style={{ flex: 1, padding: SIZES.medium }}>
             <Welcome
               searchTerm={searchTerm}
