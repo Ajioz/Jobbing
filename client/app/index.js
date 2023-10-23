@@ -36,7 +36,7 @@ const Home = () => {
   const drawer = useRef(null);
   const router = useRouter();
   const [searchTerm, setSearchTerm] = useState("");
-  const [type, setType] = useState({ type: "", db: "Other" });
+  const [type, setType] = useState({ type: "", db: "Other", flag: false });
 
   const navigationView = () => (
     <View style={[stylez.container, stylez.navigationContainer]}>
@@ -57,7 +57,7 @@ const Home = () => {
       ))}
       <TouchableOpacity
         style={styles.backButton}
-        onPress={() => handleClose("")}
+        onPress={() => handleClose("Other")}
       >
         <Image
           source={icons.left}
@@ -70,22 +70,9 @@ const Home = () => {
 
   const handleClose = (jobType) => {
     drawer.current.closeDrawer();
-    setType({ ...type, db: jobType.split(" ")[0] });
+    setType({ ...type, db: jobType.split(" ")[0], flag:true, type:"" });
   };
 
-  const fetchReact = async () => {
-    try {
-      const response = await fetch("http://localhost:3005/api/jobs/fetchJobs");
-      const data = await response.json();
-    } catch (error) {
-      console.log(error);
-    }
-  };
-
-  // Run every 48 hours.  This logic automate the data fetching every two days
-  // setInterval(fetchReact, 15000);
-  // setInterval(fetchReact, 1000 * 60 * 60 * 1);
-  // fetchReact();
 
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}>

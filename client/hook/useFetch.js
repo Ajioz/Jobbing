@@ -30,7 +30,7 @@ const useFetch = (endpoint, query) => {
 
   useEffect(() => {
     fetchData();
-  }, []);
+  }, [endpoint]);
 
   const refresh = () => {
     setIsLoading(true);

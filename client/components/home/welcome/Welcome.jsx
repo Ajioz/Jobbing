@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import styles from "./welcome.style";
 import { icons, SIZES } from "../../../constants";
 import {
@@ -13,7 +13,7 @@ import {
 const jobTypes = ["FULLTIME", "PARTTIME", "CONTRACTOR"];
 
 const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType, type }) => {
-  const [activeJobType, setActiveJobType] = useState("Full-time");
+  const [activeJobType, setActiveJobType] = useState("");
 
   const greeting = () => {
     let myDate = new Date();
@@ -26,6 +26,11 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType, type }) => {
 
     return greet;
   };
+
+  useEffect(() => {
+    if(type.type === "") setActiveJobType("")
+  }, [type.type])
+  
 
   return (
     <View>
@@ -40,7 +45,7 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType, type }) => {
             style={styles.searchInput}
             value={searchTerm}
             onChangeText={(txt) => setSearchTerm(txt)}
-            placeholder="Find tech jobs here are you looking for"
+            placeholder="search jobs"
           />
         </View>
         <TouchableOpacity style={styles.searchBtn} onPress={handleClick}>
@@ -59,8 +64,8 @@ const Welcome = ({ searchTerm, setSearchTerm, handleClick, setType, type }) => {
             <TouchableOpacity
               style={styles.tab(activeJobType, item)}
               onPress={() => {
-                setActiveJobType((prev) => (prev = item));
-                setType({ ...type, type: item });
+                setActiveJobType(prev => prev = item);
+                setType({ ...type, type: item, flag:false });
               }}
             >
               <Text style={styles.tabText(activeJobType, item)}>{item}</Text>

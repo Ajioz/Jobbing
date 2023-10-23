@@ -2,17 +2,43 @@
   "expo": {
     "scheme": "acme",
     "web": {
-      "bundler": "metro"
+      "bundler": "metro",
+      "favicon": "./assets/favicon.png"
     },
     "name": "Jobbing",
     "slug": "Jobbing",
+    "description": "A mobile app that compiles latest jobs posted on different platforms within the tech industry into a single app - Jobbing",
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ajioz.Jobbing"
+    },
+    "android": {
+      "package": "com.ajioz.Jobbing",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
     "extra": {
       "eas": {
         "projectId": "767cbb06-2950-449e-9121-1407a9e1ae21"
       }
-    },
-    "android": {
-      "package": "com.ajioz.Jobbing"
     }
   }
 }

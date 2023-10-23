@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
 import { View, Text, TouchableOpacity, ActivityIndicator } from "react-native";
 import useFetch from "../../../hook/useFetch";
 import { useRouter } from "expo-router";
@@ -8,27 +7,29 @@ import NearbyJobCard from "../../common/cards/nearby/NearbyJobCard";
 import styles from "./nearbyjobs.style";
 
 const Nearbyjobs = ({ type }) => {
-
   const router = useRouter();
   const { data, isLoading, error, refresh, db } = useFetch(type.db);
-  const [ jobData, setJobData ] = useState(data);
+  const [jobData, setJobData] = useState(data);
 
   const handleJobType = () => {
     const jobType = data.filter(
       (item) => item.job_employment_type === type.type
     );
-    setJobData((prev) => (prev = jobType));
+    type.flag
+      ? setJobData((prev) => (prev = jobType))
+      : type.type
+      ? setJobData((prev) => (prev = jobType))
+      : setJobData((prev) => (prev = data));
   };
 
   useEffect(() => {
     handleJobType();
-  }, [type.type]);
-
+  }, [type]);
 
   return (
     <View style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>Job You Might be Interested In</Text>
+        <Text style={styles.headerTitle}>Job You Might Love</Text>
         <TouchableOpacity onPress={() => router.push(`/search/All`)}>
           <Text style={styles.headerBtn}>Show All</Text>
         </TouchableOpacity>

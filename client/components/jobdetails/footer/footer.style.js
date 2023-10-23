@@ -35,12 +35,14 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     marginLeft: SIZES.medium,
+    marginRight: SIZES.small,
     borderRadius: SIZES.medium,
   },
   applyBtnText: {
     fontSize: SIZES.medium,
     color: COLORS.white,
     fontFamily: FONT.bold,
+    padding: 10,
   },
 });
 
