@@ -20,7 +20,7 @@ const Popularjobs = () => {
   const handleCardPress = (item) => {
      router.push({
        pathname: `job-details/${item.job_id}`,
-       params: { source: "HotJOb" },
+       params: { source: "HotJob" },
      });
     setSelectedJob(item.job_id);
   };

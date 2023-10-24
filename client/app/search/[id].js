@@ -18,6 +18,8 @@ const JobSearch = () => {
   const params = useGlobalSearchParams();
   const router = useRouter();
 
+  console.log(params?.source);
+
   const [searchResult, setSearchResult] = useState([]);
   const [searchLoader, setSearchLoader] = useState(false);
   const [searchError, setSearchError] = useState(null);
@@ -62,7 +64,7 @@ const JobSearch = () => {
             <ScreenHeaderBtn
               iconUrl={icons.left}
               dimension="60%"
-              handlePress={() => router.replace('/')}
+              handlePress={() => router.replace("/")}
             />
           ),
           headerTitle: "",
@@ -77,7 +79,7 @@ const JobSearch = () => {
             handleNavigate={() =>
               router.push({
                 pathname: `job-details/${item.job_id}`,
-                params: { source: "others" },
+                params: { source: "HotJob" },
               })
             }
           />

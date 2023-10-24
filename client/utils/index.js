@@ -11,8 +11,8 @@ export const checkImageURL = (url) => {
 
 
 export const jobRoute = `https://jobbingapi.onrender.com/api/jobs`
+// export const jobRoute = 'http://localhost:3005/api/jobs';
 
 
  
 // export const url = "https://jobbingapi.onrender.com/jobs";
-// export const jobRoute = 'http://localhost:3005/api/jobs';

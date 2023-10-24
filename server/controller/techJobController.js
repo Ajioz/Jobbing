@@ -106,7 +106,7 @@ exports.getJobDetails = (req, res) => {
       let jobDetail = dotnetPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
-    case "HotJOb": {
+    case "HotJob": {
       let jobDetail = hotPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
