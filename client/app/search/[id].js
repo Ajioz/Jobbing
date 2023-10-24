@@ -28,8 +28,8 @@ const JobSearch = () => {
     setSearchResult([]);
 
     try {
-      const response = await axios.get(`${jobRoute}`);
-      setSearchResult(response.data);
+      const { data } = await axios.get(`${jobRoute}/HotJob`);
+      setSearchResult(data.data);
     } catch (error) {
       setSearchError(error);
       console.log(error);
@@ -62,7 +62,7 @@ const JobSearch = () => {
             <ScreenHeaderBtn
               iconUrl={icons.left}
               dimension="60%"
-              handlePress={() => router.back()}
+              handlePress={() => router.replace('/')}
             />
           ),
           headerTitle: "",
