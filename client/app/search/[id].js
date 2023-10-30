@@ -18,8 +18,6 @@ const JobSearch = () => {
   const params = useGlobalSearchParams();
   const router = useRouter();
 
-  console.log(params?.source);
-
   const [searchResult, setSearchResult] = useState([]);
   const [searchLoader, setSearchLoader] = useState(false);
   const [searchError, setSearchError] = useState(null);

@@ -45,13 +45,13 @@ const Home = () => {
   const pullMe = () => {
     setRefresh((prev) => !prev);
     setTimeout(() => setRefresh((prev) => !prev), 1000);
+    router.replace("/");
   };
 
   const trackBack = () => {
-    drawer.current.closeDrawer();
-    router.replace('/');
+    router.replace("/");
     BackHandler.exitApp();
-  }
+  };
 
   useEffect(() => {
     const backAction = () => {
@@ -82,7 +82,8 @@ const Home = () => {
           <Text style={stylez.paragraph}>{query}</Text>
           <TouchableOpacity
             style={styles.jobFindBtn}
-            onPress={() => handleClose(query)}>
+            onPress={() => handleClose(query)}
+          >
             <Image
               source={icons.chevronRight}
               style={styles.paginationImage}
@@ -93,7 +94,8 @@ const Home = () => {
       ))}
       <TouchableOpacity
         style={styles.backButton}
-        onPress={() => handleClose("Other")}>
+        onPress={() => handleClose("Other")}
+      >
         <Image
           source={icons.left}
           style={styles.backImage}
@@ -141,7 +143,8 @@ const Home = () => {
           showsVerticalScrollIndicator={false}
           refreshControl={
             <RefreshControl refreshing={refresh} onRefresh={pullMe} />
-          }>
+          }
+        >
           <View style={{ flex: 1, padding: SIZES.medium }}>
             <Welcome
               searchTerm={searchTerm}
@@ -152,7 +155,8 @@ const Home = () => {
                 if (searchTerm) {
                   router.push(`/search/${searchTerm}`);
                 }
-              }}/>
+              }}
+            />
             <Popularjobs />
             <Nearbyjobs type={type} />
           </View>

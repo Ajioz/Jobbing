@@ -67,21 +67,46 @@ const jsearhOption = (query) => {
 };
 
 // Fetching jobs require rapid API once every two days callback function
-exports.fetchJobs = async () => {
+exports.fetchJobs = async (req, res) => {
+  const { data } = req.body;
   const delayedLoop = () => {
     const processItem = async (index) => {
       try {
-        const response = await axios.request(jsearhOption(queries[index]));
+        // const response = await axios.request(jsearhOption(queries[index]));
         console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
-        newReactJobs(path[index], response.data.data);
+        // newReactJobs(path[index], response.data.data);
       } catch (error) {
         console.error("Error: ", error);
       }
       if (index < queries.length - 1)
         setTimeout(() => processItem(index + 1), 2000);
-      else console.log("Successfully fetched");
+      else{ 
+        res.status(200).send("Successfully fetched");
+        console.log("Successfully fetched")
+      };
     };
     processItem(0);
   };
   delayedLoop();
 };
+
+
+// // Fetching jobs require rapid API once every two days callback function
+// exports.fetchJobs = async () => {
+//   const delayedLoop = () => {
+//     const processItem = async (index) => {
+//       try {
+//         const response = await axios.request(jsearhOption(queries[index]));
+//         console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
+//         newReactJobs(path[index], response.data.data);
+//       } catch (error) {
+//         console.error("Error: ", error);
+//       }
+//       if (index < queries.length - 1)
+//         setTimeout(() => processItem(index + 1), 2000);
+//       else console.log("Successfully fetched");
+//     };
+//     processItem(0);
+//   };
+//   delayedLoop();
+// };

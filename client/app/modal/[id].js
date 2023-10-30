@@ -58,7 +58,7 @@ const ModalScreen = () => {
 
         <View style={stylez.viewPortBottom}>
           <Text style={stylez.textFooter}>
-            Design with <Icon name="heart" size={20} color="#900" /> by Ajioz
+            Designed with <Icon name="heart" size={20} color="#900" /> by Ajioz
           </Text>
           <SocialButton
             icon="linkedin"

@@ -1,13 +1,13 @@
 require("dotenv").config();
 const express = require("express");
-const cron = require("node-cron");
+// const cron = require("node-cron");
 const cors = require("cors");
 const app = express();
 
 // route import
 const techJobRoute = require("./routes/techJobRoute.js");
 const fetchJobRoute = require("./routes/jSearchRoute.js");
-const { fetchJobs } = require("./utils/jSearchAPI.js");
+// const { fetchJobs } = require("./utils/jSearchAPI.js");
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
@@ -23,8 +23,8 @@ app.use("/api/jobs", techJobRoute);
 app.use("/api/jobs/fetchJobs", fetchJobRoute);
 
 // Schedule the data fetch task to run at midnight every two days (0 0 */2 * *)
-const task = cron.schedule("0 0 */2 * *", fetchJobs);
-task.start();
+// const task = cron.schedule("0 0 */2 * *", fetchJobs);
+// task.start();
 
 //start server
 const port = process.env.PORT || 3005;

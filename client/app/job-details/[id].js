@@ -28,7 +28,7 @@ const tabs = ["About", "Qualifications", "Responsibilities"];
 
 const JobDetails = () => {
   const params = useGlobalSearchParams();
-  const { back } = useRouter();
+  const router = useRouter();
 
   const [refreshing, setRefreshing] = useState(false);
   const [activeTab, setActiveTab] = useState(tabs[0]);
@@ -80,7 +80,7 @@ const JobDetails = () => {
             <ScreenHeaderBtn
               iconUrl={icons.left}
               dimension={"60%"}
-              handlePress={() => back()}
+              handlePress={() => router.replace('/')}
             />
           ),
           headerRight: () => (
