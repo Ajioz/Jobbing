@@ -63,7 +63,7 @@ const jsearhOption = (query) => {
     method: "GET",
     url: "https://jsearch.p.rapidapi.com/search",
     params: {
-      query: `${query}, Remote`,
+      query: `${query}, remote`,
       page: "1",
       num_pages: "1",
     },
