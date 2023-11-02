@@ -121,3 +121,26 @@ const fetchJobs = async () => {
   };
   delayedLoop();
 };
+
+// // Fetching jobs require rapid API once every two days callback function
+// exports.fetchJobs = async (req, res) => {
+//   const delayedLoop = () => {
+//     const processItem = async (index) => {
+//       try {
+//         const { data } = await axios.request(jsearchOption(queries[index]));
+//         console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
+//         populateData(model[index], data);
+//       } catch (error) {
+//         console.error("Error: ", error);
+//       }
+//       if (index < queries.length - 1)
+//         setTimeout(() => processItem(index + 1), 2000);
+//       else {
+//         res.status(200).send("Successfully fetched");
+//         console.log("Successfully fetched");
+//       }
+//     };
+//     processItem(0);
+//   };
+//   delayedLoop();
+// };

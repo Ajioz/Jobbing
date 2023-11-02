@@ -21,7 +21,6 @@ app.use(
 
 // custom middleware
 app.use("/api/jobs", techJobRoute);
-findDaysInterval();
 // app.use("/api/jobs/fetchJobs", fetchJobRoute);
 
 // Schedule the data fetch task to run at midnight every two days (0 0 */2 * *)
