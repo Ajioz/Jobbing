@@ -1,116 +1,206 @@
 //This is how to import a json file for reading it
-const reactPath_read = require("../Details/reactJobs.json");
-const angularPath_read = require("../Details/angularJobs.json");
-const vuePath_read = require("../Details/vueJobs.json");
-const nodejsPath_read = require("../Details/nodeJobs.json");
-const pythonPath_read = require("../Details/pythonJobs.json");
-const javaPath_read = require("../Details/javaJobs.json");
-const golangPath_read = require("../Details/golangJobs.json");
-const phpPath_read = require("../Details/phpJobs.json");
-const dotnetPath_read = require("../Details/dotnetJobs.json");
-const othersPath_read = require("../Details/otherJobs.json");
-const hotPath_read = require("../Details/hotJobs.json");
+const React = require("../model/reactModel.js");
+const Angular = require("../model/angularModel.js");
+const Vue = require("../model/vueModel.js");
+const Node = require("../model/nodeModel.js");
+const Python = require("../model/pythonModel.js");
+const Java = require("../model/javaModel.js");
+const GoLang = require("../model/goLangModel.js");
+const PHP = require("../model/phpModel.js");
+const DotNet = require("../model/dotNetModel.js");
+const Other = require("../model/otherModel.js");
+const HotJOb = require("../model/hotJobModel.js");
 
 // get other Job Data
-exports.getOtherJob = (req, res) => {
-  return res.status(200).json({data:othersPath_read, db: 'Other'});
+exports.getOtherJob = async (req, res) => {
+  try {
+    const others = await Other.find({});
+    return res.status(200).json({ data: others[0].data.data, db: "Other" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getReactJob = (req, res) => {
-  return res.json({ data: reactPath_read, db: "Reactjs" });
+exports.getReactJob = async (req, res) => {
+  try {
+    const reactJobs = await React.find({});
+    return res
+      .status(200)
+      .json({ data: reactJobs[0].data.data, db: "Reactjs" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getAngularJob = (req, res) => {
-  return res.json({data: angularPath_read, db:'Angular'});
+exports.getAngularJob = async (req, res) => {
+  try {
+    const angular = await Angular.find({});
+    return res.json({ data: angular[0].data.data, db: "Angular" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getVueJob = (req, res) => {
-  return res.json({ data: vuePath_read, db: "VueJs" });
+exports.getVueJob = async (req, res) => {
+  try {
+    const vue = await Vue.find({});
+    return res.json({ data: vue[0].data.data, db: "VueJs" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getNodeJob = (req, res) => {
-  return res.json({ data: nodejsPath_read, db: "Nodejs" });
+exports.getNodeJob = async (req, res) => {
+  try {
+    const node = await Node.find({});
+    return res.json({ data: node[0].data.data, db: "Nodejs" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getPythonJob = (req, res) => {
-  return res.json({data: pythonPath_read, db: 'Python'});
+exports.getPythonJob = async (req, res) => {
+  try {
+    const python = await Python.find({});
+    return res.json({ data: python[0].data.data, db: "Python" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getJavaJob = (req, res) => {
-  return res.json({data: javaPath_read, db: 'Java'});
+exports.getJavaJob = async (req, res) => {
+  try {
+    const java = await Java.find({});
+    return res.json({ data: java[0].data.data, db: "Java" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getGolangJob = (req, res) => {
-  return res.json({data:  golangPath_read, db: "GoLang" });
+exports.getGolangJob = async (req, res) => {
+  try {
+    const golang = await GoLang.find({});
+    return res.json({ data: golang[0].data.data, db: "GoLang" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getPhpJob = (req, res) => {
-  return res.json({ data: phpPath_read, db: "PHP" });
+exports.getPhpJob = async (req, res) => {
+  try {
+    const php = await PHP.find({});
+    return res.json({ data: php[0].data.data, db: "PHP" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getDotnetJob = (req, res) => {
-  return res.json({ data: dotnetPath_read, db: "DotNet" });
+exports.getDotnetJob = async (req, res) => {
+  try {
+    const dotnet = await DotNet.find({});
+    return res.json({ data: dotnet[0].data.data, db: "DotNet" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served React jobs dependent users UI jobs need
-exports.getHotJob = (req, res) => {
-  return res.json({ data: hotPath_read, db: "HotJOb" });
+exports.getHotJob = async (req, res) => {
+  try {
+    const hotjob = await HotJOb.find({});
+    return res.json({ data: hotjob[0].data.data, db: "HotJOb" });
+  } catch (error) {
+    console.error(error);
+    return res.status(400).json({ Message: "Couldn't process your request!" });
+  }
 };
 
 // Method to locally served dependent users UI jobs-details need
-exports.getJobDetails = (req, res) => {
+exports.getJobDetails = async (req, res) => {
   let { job_id, source } = req.body;
   switch (source) {
     case "Reactjs": {
+      const react = await React.find({});
+      let = reactPath_read = react[0].data.data;
       let jobDetail = reactPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "Angular": {
+      const angular = await Angular.find({});
+      let angularPath_read = angular[0].data.data;
       let jobDetail = angularPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "VueJs": {
+      const vue = await Vue.find({});
+      let vuePath_read = vue[0].data.data;
       let jobDetail = vuePath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "Nodejs": {
+      const node = await Node.find({});
+      let nodejsPath_read = node[0].data.data;
       let jobDetail = nodejsPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "Python": {
+      const python = await Python.find({});
+      let pythonPath_read = python[0].data.data;
       let jobDetail = pythonPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "Java": {
+      const java = await Java.find({});
+      let javaPath_read = java[0].data.data;
       let jobDetail = javaPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "GoLang": {
+      const golang = await GoLang.find({});
+      let golangPath_read = golang[0].data.data;
       let jobDetail = golangPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "PHP": {
+      const php = await PHP.find({});
+      let phpPath_read = php[0].data.data;
       let jobDetail = phpPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "DotNet": {
+      const dotnet = await DotNet.find({});
+      let dotnetPath_read = dotnet[0].data.data;
       let jobDetail = dotnetPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     case "HotJob": {
+      const hotjob = await HotJOb.find({});
+      let hotPath_read = hotjob[0].data.data;
       let jobDetail = hotPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
     }
     default:
+      const other = await Other.find({});
+      let othersPath_read = other[0].data.data;
       let jobDetail = othersPath_read.filter((job) => job.job_id === job_id);
       return res.send(jobDetail);
   }
