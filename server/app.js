@@ -24,7 +24,7 @@ app.use("/api/jobs", techJobRoute);
 // app.use("/api/jobs/fetchJobs", fetchJobRoute);
 
 // Schedule the data fetch task to run at midnight every two days (0 0 */2 * *)
-const task = cron.schedule("0 0 */6 * *", findDaysInterval);
+const task = cron.schedule("40 0 */6 * *", findDaysInterval);
 task.start();
 
 // Fetching Environmental variables
