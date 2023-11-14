@@ -105,9 +105,9 @@ const fetchJobs = async () => {
   const delayedLoop = () => {
     const processItem = async (index) => {
       try {
-        // const { data } = await axios.request(jsearchOption(queries[index]));
+        const { data } = await axios.request(jsearchOption(queries[index]));
         console.log(`Successfully fetch ${queries[index]} jobs - ${index}`);
-        // populateData(model[index], data);
+        populateData(model[index], data);
       } catch (error) {
         console.error("Error: ", error);
       }
